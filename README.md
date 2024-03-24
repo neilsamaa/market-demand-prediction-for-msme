@@ -1,5 +1,9 @@
 # Prediksi Permintaan Pasar untuk UMKM di Desa
 
+## Screenshots
+
+![App Screenshot](cover.png)
+
 ## Link Demo:
 
  - [PowerBI](https://app.powerbi.com/view?r=eyJrIjoiZTk3YWUwNWUtOTE0Yy00OGMzLWFlNjQtOTQ3MWY0YzcyNGYwIiwidCI6IjQ4N2Y4Y2RhLWEzMjctNGIwZC05Y2M0LWEyNTI4NTMzM2NkMCIsImMiOjEwfQ%3D%3D)
