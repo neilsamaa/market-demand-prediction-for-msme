@@ -1,0 +1,1461 @@
+Provinsi,Kabupaten/Kota,Produk,Kategori,Kualitas,Harga Min (Rp),Harga Max (Rp),Harga Avg (Rp),Harga Modal (Rp),Penjualan,Tanggal Penjualan
+Jawa Barat,Bogor,Rok Midi Trendy,Rok,Import,32000,51200,41600,25600,84,2020-01-02
+Jawa Barat,Tasikmalaya,Gelang Kulit Asli,Gelang,Standard,85000,136000,110500,68000,71,2020-01-03
+Jawa Barat,Banjar,Gelang Kulit Asli,Gelang,Local,54000,86400,70200,43200,92,2020-01-04
+Jawa Barat,Bekasi,Sweater Hoodie Sporty,Sweater,Import,33000,52800,42900,26400,100,2020-01-05
+Jawa Barat,Ciamis,Sepatu Running Ringan,Sepatu,Import,129000,206400,167700,103200,44,2020-01-06
+Jawa Barat,Bandung Barat,Kaos Polo Pria,Kaos Polo,Import,35000,56000,45500,28000,77,2020-01-07
+Jawa Barat,Kuningan,Tas Backpack Casual,Tas,Premium,197000,315200,256100,157600,3,2020-01-08
+Jawa Barat,Purwakarta,Celana Cargo Praktis,Celana,Import,39000,62400,50700,31200,4,2020-01-09
+Jawa Barat,Karawang,Gelang Fashion Trendy,Gelang,Premium,191000,305600,248300,152800,55,2020-01-10
+Jawa Barat,Karawang,Rok Midi Trendy,Rok,Premium,55000,88000,71500,44000,24,2020-01-11
+Jawa Barat,Garut,Tas Sling Bag Trendy,Tas,Standard,35000,56000,45500,28000,1,2020-01-12
+Jawa Barat,Depok,Topi Beanie Hangat,Topi,Local,34000,54400,44200,27200,36,2020-01-13
+Jawa Barat,Sumedang,Sepatu Sneakers,Sepatu,Premium,168000,268800,218400,134400,50,2020-01-14
+Jawa Barat,Purwakarta,Kaos Polo Pria,Kaos Polo,Standard,89000,142400,115700,71200,52,2020-01-15
+Jawa Barat,Cianjur,Baju Kebaya Elegan,Baju Kebaya,Premium,137000,219200,178100,109600,94,2020-01-16
+Jawa Barat,Purwakarta,Sepatu High Heels Glamor,Sepatu,Import,89000,142400,115700,71200,53,2020-01-17
+Jawa Barat,Majalengka,Sepatu Loafer Formal,Sepatu,Standard,31000,49600,40300,24800,35,2020-01-18
+Jawa Barat,Indramayu,Blouse Wanita Elegan,Blouse,Local,100000,160000,130000,80000,41,2020-01-19
+Jawa Barat,Ciamis,Tas Makeup Portable,Tas Makeup,Local,109000,174400,141700,87200,11,2020-01-20
+Jawa Barat,Bandung Barat,Lipstik Velvet Matte,Lipstik,Premium,77000,123200,100100,61600,10,2020-01-21
+Jawa Barat,Tasikmalaya,Parfum Floral Fruity,Parfum,Standard,19000,30400,24700,15200,1,2020-01-22
+Jawa Barat,Cirebon,Rok Mini Trendy,Rok,Local,80000,128000,104000,64000,25,2020-01-23
+Jawa Barat,Bandung,Sepatu Loafer Formal,Sepatu,Local,36000,57600,46800,28800,57,2020-01-24
+Jawa Barat,Cirebon,Gelang Kulit Asli,Gelang,Standard,50000,80000,65000,40000,30,2020-01-25
+Jawa Barat,Bekasi,Kacamata Oversize Stylish,Kacamata,Standard,54000,86400,70200,43200,97,2020-01-26
+Jawa Barat,Indramayu,Kemeja Kotak-Kotak,Kemeja,Local,104000,166400,135200,83200,30,2020-01-27
+Jawa Barat,Bandung Barat,Sepatu Loafer Formal,Sepatu,Import,94000,150400,122200,75200,32,2020-01-28
+Jawa Barat,Karawang,Lipstik Velvet Matte,Lipstik,Premium,76000,121600,98800,60800,62,2020-01-29
+Jawa Barat,Ciamis,Celana Legging Nyaman,Celana,Import,50000,80000,65000,40000,82,2020-01-30
+Jawa Barat,Bandung,Kemeja Kotak-Kotak,Kemeja,Local,29000,46400,37700,23200,1,2020-01-31
+Jawa Barat,Bandung,Anting Emas Cantik,Anting,Import,137000,219200,178100,109600,83,2020-02-01
+Jawa Barat,Bogor,Celana Jeans Slim Fit,Celana,Premium,54000,86400,70200,43200,29,2020-02-02
+Jawa Barat,Bogor,Gelang Tangan Vintage,Gelang,Local,80000,128000,104000,64000,55,2020-02-03
+Jawa Barat,Bogor,Baju Kebaya Elegan,Baju Kebaya,Local,122000,195200,158600,97600,59,2020-02-04
+Jawa Barat,Purwakarta,Sepatu Running Ringan,Sepatu,Import,64000,102400,83200,51200,31,2020-02-05
+Jawa Barat,Subang,Anting Gantung Unik,Anting,Import,100000,160000,130000,80000,85,2020-02-06
+Jawa Barat,Banjar,Dompet Wanita Stylish,Dompet,Standard,81000,129600,105300,64800,6,2020-02-07
+Jawa Barat,Kuningan,Celana Legging Nyaman,Celana,Premium,146000,233600,189800,116800,75,2020-02-08
+Jawa Barat,Purwakarta,Baju Koko Modern,Baju Koko,Premium,32000,51200,41600,25600,11,2020-02-09
+Jawa Barat,Indramayu,Sepatu Running Ringan,Sepatu,Import,38000,60800,49400,30400,28,2020-02-10
+Jawa Barat,Bogor,Tas Backpack Casual,Tas,Standard,98000,156800,127400,78400,34,2020-02-11
+Jawa Barat,Karawang,Gelang Fashion Trendy,Gelang,Local,109000,174400,141700,87200,16,2020-02-12
+Jawa Barat,Bandung Barat,Gelang Tangan Vintage,Gelang,Premium,78000,124800,101400,62400,3,2020-02-13
+Jawa Barat,Bandung Barat,Topi Trucker Trendy,Topi,Premium,134000,214400,174200,107200,25,2020-02-14
+Jawa Barat,Indramayu,Gelang Tangan Vintage,Gelang,Standard,30000,48000,39000,24000,26,2020-02-15
+Jawa Barat,Bandung,Celana Chino Slim Fit,Celana,Import,94000,150400,122200,75200,19,2020-02-16
+Jawa Barat,Bekasi,Baju Kebaya Elegan,Baju Kebaya,Standard,78000,124800,101400,62400,13,2020-02-17
+Jawa Barat,Cirebon,Lipstik Matte Long-lasting,Lipstik,Premium,150000,240000,195000,120000,100,2020-02-18
+Jawa Barat,Kuningan,Celana Cargo Praktis,Celana,Premium,114000,182400,148200,91200,66,2020-02-19
+Jawa Barat,Subang,Tas Sling Bag Trendy,Tas,Import,34000,54400,44200,27200,45,2020-02-20
+Jawa Barat,Indramayu,Sepatu Boots Trendy,Sepatu,Import,97000,155200,126100,77600,91,2020-02-21
+Jawa Barat,Depok,Tas Clutch Glamor,Tas,Import,125000,200000,162500,100000,55,2020-02-22
+Jawa Barat,Kuningan,Blazer Wanita Modern,Blazer,Local,29000,46400,37700,23200,79,2020-02-23
+Jawa Barat,Garut,Gelang Kulit Asli,Gelang,Import,141000,225600,183300,112800,62,2020-02-24
+Jawa Barat,Cianjur,Gelang Kulit Asli,Gelang,Local,103000,164800,133900,82400,60,2020-02-25
+Jawa Barat,Banjar,Gelang Kulit Asli,Gelang,Local,131000,209600,170300,104800,60,2020-02-26
+Jawa Barat,Tasikmalaya,Kemeja Kotak-Kotak,Kemeja,Local,38000,60800,49400,30400,44,2020-02-27
+Jawa Barat,Garut,Jaket Kulit Stylish,Jaket,Import,135000,216000,175500,108000,4,2020-02-28
+Jawa Barat,Bogor,Tas Clutch Glamor,Tas,Standard,37000,59200,48100,29600,8,2020-02-29
+Jawa Barat,Bandung,Gelang Tangan Vintage,Gelang,Standard,19000,30400,24700,15200,51,2020-03-01
+Jawa Barat,Karawang,Sepatu Running Ringan,Sepatu,Premium,92000,147200,119600,73600,31,2020-03-02
+Jawa Barat,Sukabumi,Tas Tote Bag Stylish,Tas,Import,95000,152000,123500,76000,83,2020-03-03
+Jawa Barat,Subang,Topi Beanie Hangat,Topi,Standard,52000,83200,67600,41600,38,2020-03-04
+Jawa Barat,Bogor,Tas Backpack Casual,Tas,Local,100000,160000,130000,80000,17,2020-03-05
+Jawa Barat,Bandung,Celana Cargo Praktis,Celana,Local,105000,168000,136500,84000,20,2020-03-06
+Jawa Barat,Sumedang,Sepatu Sneakers,Sepatu,Import,111000,177600,144300,88800,57,2020-03-07
+Jawa Barat,Cirebon,Tas Backpack Casual,Tas,Premium,131000,209600,170300,104800,56,2020-03-08
+Jawa Barat,Bandung,Sepatu Sporty,Sepatu,Import,57000,91200,74100,45600,72,2020-03-09
+Jawa Barat,Cirebon,Kemeja Kotak-Kotak,Kemeja,Local,108000,172800,140400,86400,71,2020-03-10
+Jawa Barat,Bandung,Lipstik Matte Long-lasting,Lipstik,Local,140000,224000,182000,112000,90,2020-03-11
+Jawa Barat,Majalengka,Lipstik Satin Matte,Lipstik,Local,57000,91200,74100,45600,1,2020-03-12
+Jawa Barat,Depok,Kalung Choker Trendy,Kalung,Premium,38000,60800,49400,30400,63,2020-03-13
+Jawa Barat,Tasikmalaya,Topi Trucker Trendy,Topi,Standard,93000,148800,120900,74400,88,2020-03-14
+Jawa Barat,Majalengka,Sepatu Loafer Formal,Sepatu,Standard,12000,19200,15600,9600,82,2020-03-15
+Jawa Barat,Depok,Kacamata Oversize Stylish,Kacamata,Standard,46000,73600,59800,36800,96,2020-03-16
+Jawa Barat,Sukabumi,Tas Clutch Glamor,Tas,Premium,198000,316800,257400,158400,82,2020-03-17
+Jawa Barat,Banjar,Topi Fedora Elegan,Topi,Standard,47000,75200,61100,37600,64,2020-03-18
+Jawa Barat,Depok,Topi Beanie Hangat,Topi,Standard,31000,49600,40300,24800,5,2020-03-19
+Jawa Barat,Bekasi,Parfum Woody Aromatic,Parfum,Local,101000,161600,131300,80800,82,2020-03-20
+Jawa Barat,Sumedang,Anting Gantung Unik,Anting,Import,147000,235200,191100,117600,60,2020-03-21
+Jawa Barat,Ciamis,Dompet Zipper Minimalis,Dompet,Premium,194000,310400,252200,155200,87,2020-03-22
+Jawa Barat,Cirebon,Topi Beanie Hangat,Topi,Standard,50000,80000,65000,40000,74,2020-03-23
+Jawa Barat,Bekasi,Pashmina Syar'i Terbaru,Pashmina,Standard,50000,80000,65000,40000,34,2020-03-24
+Jawa Barat,Sukabumi,Tas Sling Bag Trendy,Tas,Standard,75000,120000,97500,60000,32,2020-03-25
+Jawa Barat,Bogor,Blouse Wanita Elegan,Blouse,Premium,96000,153600,124800,76800,43,2020-03-26
+Jawa Barat,Bekasi,Baju Kebaya Elegan,Baju Kebaya,Premium,180000,288000,234000,144000,15,2020-03-27
+Jawa Barat,Bekasi,Lipstik Velvet Matte,Lipstik,Local,146000,233600,189800,116800,33,2020-03-28
+Jawa Barat,Banjar,Dompet Kartu Minimalis,Dompet,Premium,104000,166400,135200,83200,80,2020-03-29
+Jawa Barat,Garut,Anting Emas Cantik,Anting,Standard,26000,41600,33800,20800,12,2020-03-30
+Jawa Barat,Banjar,Anting Emas Cantik,Anting,Standard,26000,41600,33800,20800,82,2020-03-31
+Jawa Barat,Indramayu,Celana Chino Slim Fit,Celana,Standard,39000,62400,50700,31200,11,2020-04-01
+Jawa Barat,Bekasi,Gelang Tangan Vintage,Gelang,Standard,63000,100800,81900,50400,6,2020-04-02
+Jawa Barat,Bekasi,Blouse Wanita Elegan,Blouse,Local,111000,177600,144300,88800,100,2020-04-03
+Jawa Barat,Cirebon,Celana Legging Nyaman,Celana,Import,117000,187200,152100,93600,44,2020-04-04
+Jawa Barat,Bekasi,Parfum Woody Aromatic,Parfum,Import,136000,217600,176800,108800,8,2020-04-05
+Jawa Barat,Cimahi,Tas Sling Bag Trendy,Tas,Import,133000,212800,172900,106400,49,2020-04-06
+Jawa Barat,Sukabumi,Rok Mini Trendy,Rok,Standard,98000,156800,127400,78400,84,2020-04-07
+Jawa Barat,Cirebon,Tas Ransel Stylish,Tas,Import,116000,185600,150800,92800,80,2020-04-08
+Jawa Barat,Cianjur,Anting Stud Elegant,Anting,Premium,74000,118400,96200,59200,72,2020-04-09
+Jawa Barat,Bekasi,Gelang Kulit Asli,Gelang,Import,24000,38400,31200,19200,26,2020-04-10
+Jawa Barat,Indramayu,Pashmina Syar'i Terbaru,Pashmina,Standard,58000,92800,75400,46400,1,2020-04-11
+Jawa Barat,Garut,Kemeja Kotak-Kotak,Kemeja,Local,106000,169600,137800,84800,86,2020-04-12
+Jawa Barat,Cirebon,Lipstik Velvet Matte,Lipstik,Local,89000,142400,115700,71200,87,2020-04-13
+Jawa Barat,Garut,Gelang Tangan Vintage,Gelang,Import,44000,70400,57200,35200,70,2020-04-14
+Jawa Barat,Cimahi,Celana Cargo Praktis,Celana,Import,138000,220800,179400,110400,47,2020-04-15
+Jawa Barat,Ciamis,Blouse Wanita Elegan,Blouse,Standard,20000,32000,26000,16000,37,2020-04-16
+Jawa Barat,Purwakarta,Kalung Liontin Cantik,Kalung,Import,49000,78400,63700,39200,39,2020-04-17
+Jawa Barat,Depok,Gelang Kulit Asli,Gelang,Import,144000,230400,187200,115200,73,2020-04-18
+Jawa Barat,Cianjur,Kalung Liontin Cantik,Kalung,Import,72000,115200,93600,57600,55,2020-04-19
+Jawa Barat,Cianjur,Sepatu Formal Elegan,Sepatu,Standard,23000,36800,29900,18400,83,2020-04-20
+Jawa Barat,Cirebon,Dompet Zipper Minimalis,Dompet,Premium,159000,254400,206700,127200,9,2020-04-21
+Jawa Barat,Bekasi,Kaos Polo Pria,Kaos Polo,Standard,59000,94400,76700,47200,83,2020-04-22
+Jawa Barat,Depok,Gelang Kulit Asli,Gelang,Import,104000,166400,135200,83200,27,2020-04-23
+Jawa Barat,Indramayu,Gelang Tangan Vintage,Gelang,Premium,154000,246400,200200,123200,65,2020-04-24
+Jawa Barat,Cirebon,Rok Midi Trendy,Rok,Local,50000,80000,65000,40000,50,2020-04-25
+Jawa Barat,Bekasi,Blouse Wanita Elegan,Blouse,Premium,96000,153600,124800,76800,89,2020-04-26
+Jawa Barat,Majalengka,Anting Gantung Unik,Anting,Premium,61000,97600,79300,48800,14,2020-04-27
+Jawa Barat,Bekasi,Tas Backpack Casual,Tas,Premium,45000,72000,58500,36000,51,2020-04-28
+Jawa Barat,Kuningan,Dompet Zipper Minimalis,Dompet,Local,29000,46400,37700,23200,27,2020-04-29
+Jawa Barat,Subang,Baju Kebaya Elegan,Baju Kebaya,Standard,90000,144000,117000,72000,47,2020-04-30
+Jawa Barat,Indramayu,Kemeja Kotak-Kotak,Kemeja,Premium,158000,252800,205400,126400,60,2020-05-01
+Jawa Barat,Cimahi,Blouse Wanita Elegan,Blouse,Local,72000,115200,93600,57600,24,2020-05-02
+Jawa Barat,Bandung Barat,Kalung Mutiara Mewah,Kalung,Premium,78000,124800,101400,62400,83,2020-05-03
+Jawa Barat,Bandung,Sepatu Running Ringan,Sepatu,Premium,113000,180800,146900,90400,99,2020-05-04
+Jawa Barat,Sukabumi,Celana Jeans Slim Fit,Celana,Local,12000,19200,15600,9600,5,2020-05-05
+Jawa Barat,Cianjur,Lipstik Velvet Matte,Lipstik,Local,94000,150400,122200,75200,59,2020-05-06
+Jawa Barat,Majalengka,Tas Sling Bag Trendy,Tas,Premium,69000,110400,89700,55200,31,2020-05-07
+Jawa Barat,Cirebon,Rok Midi Trendy,Rok,Premium,40000,64000,52000,32000,8,2020-05-08
+Jawa Barat,Kuningan,Kaos Polo Pria,Kaos Polo,Premium,147000,235200,191100,117600,40,2020-05-09
+Jawa Barat,Cianjur,Sepatu Loafer Formal,Sepatu,Local,55000,88000,71500,44000,45,2020-05-10
+Jawa Barat,Bekasi,Kalung Choker Trendy,Kalung,Local,128000,204800,166400,102400,6,2020-05-11
+Jawa Barat,Sumedang,Blazer Wanita Modern,Blazer,Premium,51000,81600,66300,40800,86,2020-05-12
+Jawa Barat,Purwakarta,Sepatu Boots Trendy,Sepatu,Local,80000,128000,104000,64000,14,2020-05-13
+Jawa Barat,Bandung Barat,Baju Kaos Grafis,Baju Kaos,Import,144000,230400,187200,115200,42,2020-05-14
+Jawa Barat,Cianjur,Topi Snapback,Topi,Standard,13000,20800,16900,10400,93,2020-05-15
+Jawa Barat,Cirebon,Gelang Tangan Vintage,Gelang,Local,15000,24000,19500,12000,94,2020-05-16
+Jawa Barat,Cirebon,Kemeja Putih Formal,Kemeja,Import,30000,48000,39000,24000,24,2020-05-17
+Jawa Barat,Cirebon,Rok Midi Trendy,Rok,Standard,23000,36800,29900,18400,35,2020-05-18
+Jawa Barat,Garut,Blouse Wanita Elegan,Blouse,Local,21000,33600,27300,16800,15,2020-05-19
+Jawa Barat,Bekasi,Rok Midi Trendy,Rok,Premium,72000,115200,93600,57600,87,2020-05-20
+Jawa Barat,Cimahi,Tas Selempang Kulit,Tas,Import,143000,228800,185900,114400,82,2020-05-21
+Jawa Barat,Banjar,Kaos Polo Pria,Kaos Polo,Premium,89000,142400,115700,71200,65,2020-05-22
+Jawa Barat,Indramayu,Gelang Manik-Manik,Gelang,Local,51000,81600,66300,40800,50,2020-05-23
+Jawa Barat,Ciamis,Sepatu Sporty,Sepatu,Import,74000,118400,96200,59200,92,2020-05-24
+Jawa Barat,Sumedang,Sepatu Loafer Formal,Sepatu,Standard,77000,123200,100100,61600,27,2020-05-25
+Jawa Barat,Majalengka,Tas Pesta Glamor,Tas,Standard,94000,150400,122200,75200,9,2020-05-26
+Jawa Barat,Purwakarta,Celana Cargo Praktis,Celana,Premium,42000,67200,54600,33600,56,2020-05-27
+Jawa Barat,Cianjur,Kemeja Kotak-Kotak,Kemeja,Import,141000,225600,183300,112800,56,2020-05-28
+Jawa Barat,Bogor,Lipstik Velvet Matte,Lipstik,Import,127000,203200,165100,101600,26,2020-05-29
+Jawa Barat,Cimahi,Sepatu Running Ringan,Sepatu,Local,18000,28800,23400,14400,89,2020-05-30
+Jawa Barat,Cirebon,Sweater Hoodie Sporty,Sweater,Import,126000,201600,163800,100800,33,2020-05-31
+Jawa Barat,Tasikmalaya,Celana Legging Nyaman,Celana,Local,33000,52800,42900,26400,96,2020-06-01
+Jawa Barat,Cirebon,Kalung Choker Trendy,Kalung,Standard,75000,120000,97500,60000,34,2020-06-02
+Jawa Barat,Kuningan,Kaos Polo Pria,Kaos Polo,Import,36000,57600,46800,28800,62,2020-06-03
+Jawa Barat,Cianjur,Blouse Wanita Elegan,Blouse,Local,94000,150400,122200,75200,7,2020-06-04
+Jawa Barat,Bandung,Sepatu Loafer Formal,Sepatu,Standard,80000,128000,104000,64000,6,2020-06-05
+Jawa Barat,Tasikmalaya,Gelang Tangan Vintage,Gelang,Standard,37000,59200,48100,29600,43,2020-06-06
+Jawa Barat,Bogor,Topi Beanie Hangat,Topi,Local,28000,44800,36400,22400,70,2020-06-07
+Jawa Barat,Bogor,Sweater Hoodie Sporty,Sweater,Standard,81000,129600,105300,64800,29,2020-06-08
+Jawa Barat,Bandung Barat,Tas Clutch Glamor,Tas,Premium,127000,203200,165100,101600,92,2020-06-09
+Jawa Barat,Sukabumi,Sepatu Running Ringan,Sepatu,Standard,58000,92800,75400,46400,60,2020-06-10
+Jawa Barat,Bogor,Blouse Wanita Elegan,Blouse,Import,61000,97600,79300,48800,4,2020-06-11
+Jawa Barat,Bandung Barat,Gelang Tangan Vintage,Gelang,Import,78000,124800,101400,62400,10,2020-06-12
+Jawa Barat,Cirebon,Parfum Woody Aromatic,Parfum,Import,67000,107200,87100,53600,29,2020-06-13
+Jawa Barat,Banjar,Gelang Tangan Vintage,Gelang,Local,90000,144000,117000,72000,64,2020-06-14
+Jawa Barat,Depok,Anting Stud Elegant,Anting,Import,53000,84800,68900,42400,58,2020-06-15
+Jawa Barat,Purwakarta,Dompet Kulit Asli,Dompet,Local,68000,108800,88400,54400,85,2020-06-16
+Jawa Barat,Majalengka,Kemeja Kotak-Kotak,Kemeja,Standard,41000,65600,53300,32800,3,2020-06-17
+Jawa Barat,Bogor,Sepatu Loafer Formal,Sepatu,Local,13000,20800,16900,10400,41,2020-06-18
+Jawa Barat,Cirebon,Lipstik Matte Long-lasting,Lipstik,Import,29000,46400,37700,23200,17,2020-06-19
+Jawa Barat,Bandung,Jam Tangan Mewah,Jam Tangan,Premium,140000,224000,182000,112000,52,2020-06-20
+Jawa Barat,Karawang,Tas Backpack Casual,Tas,Import,19000,30400,24700,15200,85,2020-06-21
+Jawa Barat,Bandung Barat,Sepatu Loafer Formal,Sepatu,Standard,94000,150400,122200,75200,31,2020-06-22
+Jawa Barat,Kuningan,Sepatu Loafer Formal,Sepatu,Import,138000,220800,179400,110400,23,2020-06-23
+Jawa Barat,Purwakarta,Dompet Kulit Asli,Dompet,Standard,93000,148800,120900,74400,40,2020-06-24
+Jawa Barat,Bandung Barat,Gelang Berlian Mewah,Gelang,Premium,38000,60800,49400,30400,30,2020-06-25
+Jawa Barat,Karawang,Gelang Fashion Trendy,Gelang,Import,35000,56000,45500,28000,30,2020-06-26
+Jawa Barat,Bandung Barat,Kacamata Oversize Stylish,Kacamata,Import,83000,132800,107900,66400,41,2020-06-27
+Jawa Barat,Depok,Jas Blazer Slim Fit,Jas,Local,134000,214400,174200,107200,3,2020-06-28
+Jawa Barat,Sumedang,Perhiasan Perak Elegan,Perhiasan,Import,42000,67200,54600,33600,74,2020-06-29
+Jawa Barat,Sukabumi,Gelang Berlian Mewah,Gelang,Premium,50000,80000,65000,40000,54,2020-06-30
+Jawa Barat,Bekasi,Sepatu Loafer Formal,Sepatu,Standard,88000,140800,114400,70400,78,2020-07-01
+Jawa Barat,Depok,Tas Sling Bag Trendy,Tas,Premium,161000,257600,209300,128800,99,2020-07-02
+Jawa Barat,Cimahi,Gelang Tangan Vintage,Gelang,Import,148000,236800,192400,118400,90,2020-07-03
+Jawa Barat,Bandung,Tas Sling Bag Trendy,Tas,Import,137000,219200,178100,109600,94,2020-07-04
+Jawa Barat,Bandung,Kemeja Kotak-Kotak,Kemeja,Premium,31000,49600,40300,24800,36,2020-07-05
+Jawa Barat,Indramayu,Jaket Kulit Stylish,Jaket,Import,61000,97600,79300,48800,2,2020-07-06
+Jawa Barat,Kuningan,Blazer Wanita Modern,Blazer,Standard,65000,104000,84500,52000,47,2020-07-07
+Jawa Barat,Bandung Barat,Rok Midi Trendy,Rok,Standard,21000,33600,27300,16800,69,2020-07-08
+Jawa Barat,Subang,Sepatu Running Ringan,Sepatu,Standard,62000,99200,80600,49600,50,2020-07-09
+Jawa Barat,Bandung,Celana Legging Nyaman,Celana,Standard,74000,118400,96200,59200,2,2020-07-10
+Jawa Barat,Cianjur,Blouse Wanita Elegan,Blouse,Local,69000,110400,89700,55200,80,2020-07-11
+Jawa Barat,Bekasi,Parfum Wangi Floral,Parfum,Import,72000,115200,93600,57600,82,2020-07-12
+Jawa Barat,Banjar,Blouse Wanita Elegan,Blouse,Standard,40000,64000,52000,32000,71,2020-07-13
+Jawa Barat,Majalengka,Celana Jeans Slim Fit,Celana,Standard,49000,78400,63700,39200,43,2020-07-14
+Jawa Barat,Garut,Dompet Zipper Minimalis,Dompet,Premium,144000,230400,187200,115200,18,2020-07-15
+Jawa Barat,Cianjur,Blouse Wanita Elegan,Blouse,Premium,108000,172800,140400,86400,96,2020-07-16
+Jawa Barat,Cimahi,Celana Jeans Slim Fit,Celana,Import,134000,214400,174200,107200,1,2020-07-17
+Jawa Barat,Garut,Tas Tote Bag Stylish,Tas,Standard,72000,115200,93600,57600,72,2020-07-18
+Jawa Barat,Cianjur,Topi Fedora Elegan,Topi,Import,70000,112000,91000,56000,28,2020-07-19
+Jawa Barat,Bekasi,Rok Mini Trendy,Rok,Local,34000,54400,44200,27200,3,2020-07-20
+Jawa Barat,Kuningan,Dompet Zipper Minimalis,Dompet,Premium,36000,57600,46800,28800,93,2020-07-21
+Jawa Barat,Bogor,Topi Keren Stylish,Topi,Local,29000,46400,37700,23200,31,2020-07-22
+Jawa Barat,Bandung,Celana Jogger Casual,Celana,Import,126000,201600,163800,100800,51,2020-07-23
+Jawa Barat,Ciamis,Dompet Zipper Minimalis,Dompet,Local,116000,185600,150800,92800,55,2020-07-24
+Jawa Barat,Bandung,Sepatu Running Ringan,Sepatu,Import,51000,81600,66300,40800,5,2020-07-25
+Jawa Barat,Cirebon,Sepatu Boots Trendy,Sepatu,Premium,139000,222400,180700,111200,90,2020-07-26
+Jawa Barat,Purwakarta,Gelang Tangan Vintage,Gelang,Import,144000,230400,187200,115200,65,2020-07-27
+Jawa Barat,Indramayu,Topi Keren Stylish,Topi,Premium,142000,227200,184600,113600,41,2020-07-28
+Jawa Barat,Bandung Barat,Sepatu Boots Trendy,Sepatu,Import,49000,78400,63700,39200,59,2020-07-29
+Jawa Barat,Banjar,Topi Beanie Hangat,Topi,Standard,54000,86400,70200,43200,30,2020-07-30
+Jawa Barat,Cirebon,Parfum Wangi Floral,Parfum,Standard,14000,22400,18200,11200,44,2020-07-31
+Jawa Barat,Cirebon,Lipstik Velvet Matte,Lipstik,Premium,76000,121600,98800,60800,50,2020-08-01
+Jawa Barat,Purwakarta,Sepatu Running Ringan,Sepatu,Local,120000,192000,156000,96000,17,2020-08-02
+Jawa Barat,Garut,Tas Laptop Stylish,Tas,Local,65000,104000,84500,52000,84,2020-08-03
+Jawa Barat,Tasikmalaya,Gelang Tangan Vintage,Gelang,Import,117000,187200,152100,93600,81,2020-08-04
+Jawa Barat,Depok,Kalung Liontin Cantik,Kalung,Premium,110000,176000,143000,88000,49,2020-08-05
+Jawa Barat,Banjar,Blazer Wanita Modern,Blazer,Premium,184000,294400,239200,147200,98,2020-08-06
+Jawa Barat,Bandung,Kaos Polo Pria,Kaos Polo,Standard,31000,49600,40300,24800,83,2020-08-07
+Jawa Barat,Purwakarta,Topi Keren Stylish,Topi,Standard,42000,67200,54600,33600,73,2020-08-08
+Jawa Barat,Kuningan,Jam Tangan Mewah,Jam Tangan,Import,112000,179200,145600,89600,71,2020-08-09
+Jawa Barat,Cirebon,Tas Backpack Casual,Tas,Standard,90000,144000,117000,72000,5,2020-08-10
+Jawa Barat,Cianjur,Tas Pesta Glamor,Tas,Premium,173000,276800,224900,138400,87,2020-08-11
+Jawa Barat,Indramayu,Dompet Zipper Minimalis,Dompet,Standard,14000,22400,18200,11200,13,2020-08-12
+Jawa Barat,Cirebon,Rok Mini Trendy,Rok,Import,15000,24000,19500,12000,41,2020-08-13
+Jawa Barat,Tasikmalaya,Kemeja Kotak-Kotak,Kemeja,Standard,50000,80000,65000,40000,94,2020-08-14
+Jawa Barat,Bandung Barat,Baju Kebaya Elegan,Baju Kebaya,Import,78000,124800,101400,62400,19,2020-08-15
+Jawa Barat,Sukabumi,Rok Midi Trendy,Rok,Standard,11000,17600,14300,8800,20,2020-08-16
+Jawa Barat,Bekasi,Gelang Tangan Vintage,Gelang,Local,64000,102400,83200,51200,6,2020-08-17
+Jawa Barat,Depok,Kaos Polo Pria,Kaos Polo,Import,59000,94400,76700,47200,34,2020-08-18
+Jawa Barat,Bogor,Tas Clutch Glamor,Tas,Premium,193000,308800,250900,154400,66,2020-08-19
+Jawa Barat,Karawang,Parfum Woody Aromatic,Parfum,Standard,35000,56000,45500,28000,41,2020-08-20
+Jawa Barat,Bekasi,Celana Chino Slim Fit,Celana,Standard,57000,91200,74100,45600,83,2020-08-21
+Jawa Barat,Ciamis,Rok Midi Trendy,Rok,Standard,89000,142400,115700,71200,39,2020-08-22
+Jawa Barat,Tasikmalaya,Kalung Liontin Cantik,Kalung,Standard,74000,118400,96200,59200,50,2020-08-23
+Jawa Barat,Majalengka,Gelang Kulit Asli,Gelang,Premium,164000,262400,213200,131200,44,2020-08-24
+Jawa Barat,Karawang,Dompet Zipper Minimalis,Dompet,Local,19000,30400,24700,15200,67,2020-08-25
+Jawa Barat,Bekasi,Sepatu Formal Elegan,Sepatu,Local,107000,171200,139100,85600,41,2020-08-26
+Jawa Barat,Cimahi,Celana Cargo Praktis,Celana,Local,89000,142400,115700,71200,30,2020-08-27
+Jawa Barat,Indramayu,Sepatu Loafer Casual,Sepatu,Premium,178000,284800,231400,142400,69,2020-08-28
+Jawa Barat,Subang,Sepatu Running Ringan,Sepatu,Import,76000,121600,98800,60800,46,2020-08-29
+Jawa Barat,Bandung,Celana Pendek Denim,Celana,Standard,27000,43200,35100,21600,50,2020-08-30
+Jawa Barat,Depok,Lipstik Velvet Matte,Lipstik,Import,69000,110400,89700,55200,89,2020-08-31
+Jawa Barat,Bekasi,Celana Panjang Casual,Celana,Import,18000,28800,23400,14400,39,2020-09-01
+Jawa Barat,Sumedang,Anting Stud Elegant,Anting,Standard,82000,131200,106600,65600,13,2020-09-02
+Jawa Barat,Sumedang,Rok Midi Trendy,Rok,Import,76000,121600,98800,60800,87,2020-09-03
+Jawa Barat,Majalengka,Baju Kaos Grafis,Baju Kaos,Premium,139000,222400,180700,111200,73,2020-09-04
+Jawa Barat,Cimahi,Kaos Polo Pria,Kaos Polo,Import,19000,30400,24700,15200,61,2020-09-05
+Jawa Barat,Karawang,Celana Chino Slim Fit,Celana,Local,128000,204800,166400,102400,12,2020-09-06
+Jawa Barat,Bekasi,Tas Clutch Glamor,Tas,Premium,99000,158400,128700,79200,57,2020-09-07
+Jawa Barat,Depok,Lipstik Velvet Matte,Lipstik,Premium,139000,222400,180700,111200,23,2020-09-08
+Jawa Barat,Purwakarta,Celana Legging Nyaman,Celana,Local,112000,179200,145600,89600,33,2020-09-09
+Jawa Barat,Garut,Gelang Kulit Asli,Gelang,Standard,19000,30400,24700,15200,25,2020-09-10
+Jawa Barat,Karawang,Rok Midi Trendy,Rok,Import,31000,49600,40300,24800,1,2020-09-11
+Jawa Barat,Kuningan,Lipstik Satin Matte,Lipstik,Local,75000,120000,97500,60000,12,2020-09-12
+Jawa Barat,Sukabumi,Kemeja Kotak-Kotak,Kemeja,Premium,120000,192000,156000,96000,43,2020-09-13
+Jawa Barat,Cimahi,Dompet Kulit Asli,Dompet,Standard,67000,107200,87100,53600,11,2020-09-14
+Jawa Barat,Depok,Tas Makeup Portable,Tas Makeup,Premium,79000,126400,102700,63200,13,2020-09-15
+Jawa Barat,Purwakarta,Tas Selempang Kulit,Tas,Import,22000,35200,28600,17600,74,2020-09-16
+Jawa Barat,Subang,Blouse Wanita Elegan,Blouse,Local,95000,152000,123500,76000,20,2020-09-17
+Jawa Barat,Bandung,Sweater Hoodie Sporty,Sweater,Import,71000,113600,92300,56800,87,2020-09-18
+Jawa Barat,Majalengka,Tas Clutch Glamor,Tas,Import,55000,88000,71500,44000,34,2020-09-19
+Jawa Barat,Sukabumi,Blouse Wanita Elegan,Blouse,Standard,45000,72000,58500,36000,71,2020-09-20
+Jawa Barat,Majalengka,Kemeja Kotak-Kotak,Kemeja,Import,128000,204800,166400,102400,29,2020-09-21
+Jawa Barat,Sukabumi,Sepatu Loafer Formal,Sepatu,Import,10000,16000,13000,8000,81,2020-09-22
+Jawa Barat,Bekasi,Kalung Liontin Cantik,Kalung,Local,85000,136000,110500,68000,24,2020-09-23
+Jawa Barat,Bekasi,Gelang Berlian Mewah,Gelang,Standard,84000,134400,109200,67200,4,2020-09-24
+Jawa Barat,Bekasi,Tas Backpack Casual,Tas,Local,21000,33600,27300,16800,89,2020-09-25
+Jawa Barat,Tasikmalaya,Kemeja Putih Formal,Kemeja,Premium,79000,126400,102700,63200,88,2020-09-26
+Jawa Barat,Bandung Barat,Topi Snapback,Topi,Import,102000,163200,132600,81600,40,2020-09-27
+Jawa Barat,Depok,Baju Renang Sporty,Baju Renang,Premium,173000,276800,224900,138400,77,2020-09-28
+Jawa Barat,Sukabumi,Sepatu Sporty,Sepatu,Premium,57000,91200,74100,45600,61,2020-09-29
+Jawa Barat,Indramayu,Topi Baseball Classic,Topi,Premium,142000,227200,184600,113600,66,2020-09-30
+Jawa Barat,Bandung Barat,Sweater Hoodie Sporty,Sweater,Standard,79000,126400,102700,63200,1,2020-10-01
+Jawa Barat,Ciamis,Kacamata Retro Vintage,Kacamata,Standard,39000,62400,50700,31200,41,2020-10-02
+Jawa Barat,Cianjur,Tas Sling Bag Trendy,Tas,Local,44000,70400,57200,35200,9,2020-10-03
+Jawa Barat,Cirebon,Parfum Floral Fruity,Parfum,Standard,59000,94400,76700,47200,16,2020-10-04
+Jawa Barat,Majalengka,Rok Midi Trendy,Rok,Import,128000,204800,166400,102400,40,2020-10-05
+Jawa Barat,Bandung,Tas Clutch Glamor,Tas,Import,71000,113600,92300,56800,41,2020-10-06
+Jawa Barat,Subang,Jas Pria Slim Fit,Jas,Premium,71000,113600,92300,56800,94,2020-10-07
+Jawa Barat,Subang,Jam Dinding Klasik Vintage,Jam Dinding,Standard,18000,28800,23400,14400,37,2020-10-08
+Jawa Barat,Cimahi,Celana Legging Nyaman,Celana,Import,100000,160000,130000,80000,2,2020-10-09
+Jawa Barat,Bekasi,Gelang Kulit Asli,Gelang,Local,61000,97600,79300,48800,97,2020-10-10
+Jawa Barat,Cianjur,Baju Kebaya Elegan,Baju Kebaya,Premium,35000,56000,45500,28000,35,2020-10-11
+Jawa Barat,Cimahi,Tas Makeup Portable,Tas Makeup,Standard,31000,49600,40300,24800,85,2020-10-12
+Jawa Barat,Depok,Gelang Manik-Manik,Gelang,Import,56000,89600,72800,44800,68,2020-10-13
+Jawa Barat,Purwakarta,Parfum Wangi Floral,Parfum,Premium,84000,134400,109200,67200,30,2020-10-14
+Jawa Barat,Cirebon,Sepatu Loafer Formal,Sepatu,Local,69000,110400,89700,55200,20,2020-10-15
+Jawa Barat,Kuningan,Celana Cargo Praktis,Celana,Import,141000,225600,183300,112800,32,2020-10-16
+Jawa Barat,Cirebon,Kacamata Oversize Stylish,Kacamata,Standard,81000,129600,105300,64800,14,2020-10-17
+Jawa Barat,Ciamis,Parfum Woody Aromatic,Parfum,Standard,70000,112000,91000,56000,82,2020-10-18
+Jawa Barat,Tasikmalaya,Sepatu High Heels Glamor,Sepatu,Local,106000,169600,137800,84800,17,2020-10-19
+Jawa Barat,Bekasi,Sepatu Loafer Formal,Sepatu,Standard,60000,96000,78000,48000,42,2020-10-20
+Jawa Barat,Bandung Barat,Parfum Wangi Floral,Parfum,Premium,128000,204800,166400,102400,27,2020-10-21
+Jawa Barat,Bekasi,Lipstik Velvet Matte,Lipstik,Standard,90000,144000,117000,72000,15,2020-10-22
+Jawa Barat,Cimahi,Lipstik Velvet Matte,Lipstik,Premium,66000,105600,85800,52800,76,2020-10-23
+Jawa Barat,Cimahi,Tas Clutch Glamor,Tas,Premium,92000,147200,119600,73600,49,2020-10-24
+Jawa Barat,Cirebon,Celana Cargo Praktis,Celana,Local,80000,128000,104000,64000,21,2020-10-25
+Jawa Barat,Ciamis,Tas Makeup Portable,Tas Makeup,Premium,141000,225600,183300,112800,87,2020-10-26
+Jawa Barat,Cimahi,Celana Legging Nyaman,Celana,Local,67000,107200,87100,53600,47,2020-10-27
+Jawa Barat,Cirebon,Rok Midi Trendy,Rok,Premium,36000,57600,46800,28800,25,2020-10-28
+Jawa Barat,Cirebon,Tas Tote Bag Stylish,Tas,Premium,115000,184000,149500,92000,87,2020-10-29
+Jawa Barat,Banjar,Gelang Berlian Mewah,Gelang,Standard,26000,41600,33800,20800,13,2020-10-30
+Jawa Barat,Kuningan,Tas Tote Bag Stylish,Tas,Premium,83000,132800,107900,66400,10,2020-10-31
+Jawa Barat,Sumedang,Topi Keren Stylish,Topi,Premium,155000,248000,201500,124000,36,2020-11-01
+Jawa Barat,Sukabumi,Kemeja Kotak-Kotak,Kemeja,Premium,177000,283200,230100,141600,98,2020-11-02
+Jawa Barat,Cirebon,Parfum Woody Aromatic,Parfum,Local,46000,73600,59800,36800,42,2020-11-03
+Jawa Barat,Cirebon,Dompet Zipper Minimalis,Dompet,Premium,47000,75200,61100,37600,54,2020-11-04
+Jawa Barat,Bekasi,Tas Tote Bag Stylish,Tas,Local,95000,152000,123500,76000,26,2020-11-05
+Jawa Barat,Depok,Parfum Woody Aromatic,Parfum,Local,78000,124800,101400,62400,51,2020-11-06
+Jawa Barat,Bogor,Kaos Polos Basic,Kaos,Local,117000,187200,152100,93600,38,2020-11-07
+Jawa Barat,Banjar,Sepatu Loafer Casual,Sepatu,Premium,59000,94400,76700,47200,26,2020-11-08
+Jawa Barat,Karawang,Topi Fedora Elegan,Topi,Local,70000,112000,91000,56000,18,2020-11-09
+Jawa Barat,Cirebon,Blouse Wanita Elegan,Blouse,Standard,40000,64000,52000,32000,68,2020-11-10
+Jawa Barat,Garut,Celana Legging Nyaman,Celana,Import,22000,35200,28600,17600,15,2020-11-11
+Jawa Barat,Depok,Sweater Hoodie Sporty,Sweater,Import,87000,139200,113100,69600,43,2020-11-12
+Jawa Barat,Banjar,Gelang Tangan Vintage,Gelang,Local,48000,76800,62400,38400,79,2020-11-13
+Jawa Barat,Bogor,Topi Baseball Classic,Topi,Local,41000,65600,53300,32800,100,2020-11-14
+Jawa Barat,Depok,Celana Legging Nyaman,Celana,Local,17000,27200,22100,13600,60,2020-11-15
+Jawa Barat,Sumedang,Lipstik Velvet Matte,Lipstik,Standard,91000,145600,118300,72800,95,2020-11-16
+Jawa Barat,Bogor,Blazer Wanita Modern,Blazer,Premium,128000,204800,166400,102400,71,2020-11-17
+Jawa Barat,Depok,Lipstik Velvet Matte,Lipstik,Import,109000,174400,141700,87200,94,2020-11-18
+Jawa Barat,Cimahi,Parfum Woody Aromatic,Parfum,Premium,87000,139200,113100,69600,86,2020-11-19
+Jawa Barat,Cirebon,Topi Beanie Hangat,Topi,Local,35000,56000,45500,28000,37,2020-11-20
+Jawa Barat,Purwakarta,Celana Chino Slim Fit,Celana,Premium,139000,222400,180700,111200,89,2020-11-21
+Jawa Barat,Bekasi,Kemeja Kotak-Kotak,Kemeja,Local,104000,166400,135200,83200,56,2020-11-22
+Jawa Barat,Kuningan,Topi Beanie Hangat,Topi,Local,69000,110400,89700,55200,19,2020-11-23
+Jawa Barat,Bandung,Lipstik Velvet Matte,Lipstik,Local,21000,33600,27300,16800,90,2020-11-24
+Jawa Barat,Banjar,Blazer Wanita Modern,Blazer,Premium,52000,83200,67600,41600,63,2020-11-25
+Jawa Barat,Cimahi,Tas Laptop Stylish,Tas,Import,117000,187200,152100,93600,33,2020-11-26
+Jawa Barat,Tasikmalaya,Sepatu Sporty,Sepatu,Import,40000,64000,52000,32000,96,2020-11-27
+Jawa Barat,Cimahi,Tas Sling Bag Trendy,Tas,Premium,169000,270400,219700,135200,1,2020-11-28
+Jawa Barat,Depok,Kemeja Kotak-Kotak,Kemeja,Import,23000,36800,29900,18400,86,2020-11-29
+Jawa Barat,Cirebon,Blouse Wanita Elegan,Blouse,Standard,69000,110400,89700,55200,21,2020-11-30
+Jawa Barat,Bekasi,Tas Tote Bag Stylish,Tas,Premium,102000,163200,132600,81600,26,2020-12-01
+Jawa Barat,Banjar,Blouse Wanita Elegan,Blouse,Standard,42000,67200,54600,33600,66,2020-12-02
+Jawa Barat,Bekasi,Gelang Kulit Asli,Gelang,Import,29000,46400,37700,23200,26,2020-12-03
+Jawa Barat,Cirebon,Lipstik Satin Matte,Lipstik,Premium,41000,65600,53300,32800,83,2020-12-04
+Jawa Barat,Garut,Celana Legging Nyaman,Celana,Premium,128000,204800,166400,102400,85,2020-12-05
+Jawa Barat,Cirebon,Tas Laptop Stylish,Tas,Local,51000,81600,66300,40800,72,2020-12-06
+Jawa Barat,Kuningan,Celana Chino Slim Fit,Celana,Standard,13000,20800,16900,10400,81,2020-12-07
+Jawa Barat,Sukabumi,Sepatu Loafer Formal,Sepatu,Local,50000,80000,65000,40000,57,2020-12-08
+Jawa Barat,Sukabumi,Kacamata Oversize Stylish,Kacamata,Import,25000,40000,32500,20000,66,2020-12-09
+Jawa Barat,Cirebon,Sepatu Loafer Formal,Sepatu,Standard,20000,32000,26000,16000,40,2020-12-10
+Jawa Barat,Cianjur,Tas Sling Bag Trendy,Tas,Premium,143000,228800,185900,114400,80,2020-12-11
+Jawa Barat,Bogor,Rok Midi Trendy,Rok,Premium,40000,64000,52000,32000,11,2020-12-12
+Jawa Barat,Indramayu,Kacamata Oversize Stylish,Kacamata,Local,42000,67200,54600,33600,41,2020-12-13
+Jawa Barat,Cimahi,Sweater Hoodie Sporty,Sweater,Local,126000,201600,163800,100800,18,2020-12-14
+Jawa Barat,Bekasi,Dompet Zipper Minimalis,Dompet,Local,73000,116800,94900,58400,75,2020-12-15
+Jawa Barat,Kuningan,Kacamata Oversize Stylish,Kacamata,Local,36000,57600,46800,28800,87,2020-12-16
+Jawa Barat,Tasikmalaya,Sepatu Loafer Formal,Sepatu,Standard,66000,105600,85800,52800,80,2020-12-17
+Jawa Barat,Indramayu,Sepatu Loafer Formal,Sepatu,Local,125000,200000,162500,100000,13,2020-12-18
+Jawa Barat,Purwakarta,Sweater Hoodie Sporty,Sweater,Local,143000,228800,185900,114400,11,2020-12-19
+Jawa Barat,Bogor,Celana Jogger Casual,Celana,Premium,79000,126400,102700,63200,66,2020-12-20
+Jawa Barat,Bogor,Parfum Woody Aromatic,Parfum,Premium,144000,230400,187200,115200,44,2020-12-21
+Jawa Barat,Majalengka,Perhiasan Emas Murni,Perhiasan,Standard,54000,86400,70200,43200,40,2020-12-22
+Jawa Barat,Subang,Kacamata Oversize Stylish,Kacamata,Standard,49000,78400,63700,39200,44,2020-12-23
+Jawa Barat,Purwakarta,Dompet Zipper Minimalis,Dompet,Import,45000,72000,58500,36000,49,2020-12-24
+Jawa Barat,Bekasi,Kemeja Kotak-Kotak,Kemeja,Standard,75000,120000,97500,60000,38,2020-12-25
+Jawa Barat,Ciamis,Anting Emas Cantik,Anting,Local,26000,41600,33800,20800,77,2020-12-26
+Jawa Barat,Indramayu,Sepatu Sneakers,Sepatu,Import,31000,49600,40300,24800,24,2020-12-27
+Jawa Barat,Cianjur,Tas Selempang Chic,Tas,Premium,198000,316800,257400,158400,26,2020-12-28
+Jawa Barat,Tasikmalaya,Kemeja Kotak-Kotak,Kemeja,Local,63000,100800,81900,50400,27,2020-12-29
+Jawa Barat,Garut,Blouse Wanita Elegan,Blouse,Premium,99000,158400,128700,79200,70,2020-12-30
+Jawa Barat,Majalengka,Sweater Hoodie Sporty,Sweater,Local,12000,19200,15600,9600,49,2020-12-31
+Jawa Barat,Ciamis,Topi Snapback,Topi,Import,104000,166400,135200,83200,25,2021-01-01
+Jawa Barat,Kuningan,Baju Kebaya Elegan,Baju Kebaya,Standard,16000,25600,20800,12800,48,2021-01-02
+Jawa Barat,Bandung,Blouse Wanita Elegan,Blouse,Import,50000,80000,65000,40000,59,2021-01-03
+Jawa Barat,Subang,Parfum Pria Maskulin,Parfum,Import,130000,208000,169000,104000,33,2021-01-04
+Jawa Barat,Bogor,Lipstik Velvet Matte,Lipstik,Standard,51000,81600,66300,40800,25,2021-01-05
+Jawa Barat,Cimahi,Sweater Hoodie Sporty,Sweater,Local,128000,204800,166400,102400,94,2021-01-06
+Jawa Barat,Sumedang,Rok Midi Trendy,Rok,Standard,35000,56000,45500,28000,90,2021-01-07
+Jawa Barat,Karawang,Lipstik Satin Matte,Lipstik,Local,94000,150400,122200,75200,74,2021-01-08
+Jawa Barat,Cirebon,Dompet Kartu Minimalis,Dompet,Import,125000,200000,162500,100000,21,2021-01-09
+Jawa Barat,Subang,Sweater Hoodie Sporty,Sweater,Standard,31000,49600,40300,24800,29,2021-01-10
+Jawa Barat,Kuningan,Celana Legging Nyaman,Celana,Standard,32000,51200,41600,25600,32,2021-01-11
+Jawa Barat,Bandung Barat,Topi Snapback,Topi,Standard,11000,17600,14300,8800,1,2021-01-12
+Jawa Barat,Subang,Jaket Kulit Stylish,Jaket,Local,92000,147200,119600,73600,31,2021-01-13
+Jawa Barat,Bandung,Sepatu Running Ringan,Sepatu,Local,149000,238400,193700,119200,16,2021-01-14
+Jawa Barat,Subang,Sepatu Boots Trendy,Sepatu,Premium,60000,96000,78000,48000,30,2021-01-15
+Jawa Barat,Cianjur,Parfum Pria Maskulin,Parfum,Import,36000,57600,46800,28800,77,2021-01-16
+Jawa Barat,Garut,Sepatu High Heels Glamor,Sepatu,Premium,156000,249600,202800,124800,34,2021-01-17
+Jawa Barat,Bandung Barat,Kacamata Oversize Stylish,Kacamata,Standard,10000,16000,13000,8000,74,2021-01-18
+Jawa Barat,Tasikmalaya,Gelang Tangan Vintage,Gelang,Import,38000,60800,49400,30400,66,2021-01-19
+Jawa Barat,Depok,Kemeja Kotak-Kotak,Kemeja,Import,119000,190400,154700,95200,55,2021-01-20
+Jawa Barat,Karawang,Dompet Zipper Minimalis,Dompet,Import,137000,219200,178100,109600,81,2021-01-21
+Jawa Barat,Bogor,Anting Emas Cantik,Anting,Standard,53000,84800,68900,42400,65,2021-01-22
+Jawa Barat,Karawang,Kalung Liontin Cantik,Kalung,Standard,17000,27200,22100,13600,54,2021-01-23
+Jawa Barat,Tasikmalaya,Tas Sling Bag Trendy,Tas,Import,132000,211200,171600,105600,91,2021-01-24
+Jawa Barat,Bekasi,Tas Backpack Casual,Tas,Premium,155000,248000,201500,124000,30,2021-01-25
+Jawa Barat,Garut,Kalung Liontin Cantik,Kalung,Standard,46000,73600,59800,36800,7,2021-01-26
+Jawa Barat,Majalengka,Parfum Woody Aromatic,Parfum,Standard,28000,44800,36400,22400,89,2021-01-27
+Jawa Barat,Ciamis,Lipstik Velvet Matte,Lipstik,Local,76000,121600,98800,60800,83,2021-01-28
+Jawa Barat,Indramayu,Tas Clutch Glamor,Tas,Local,143000,228800,185900,114400,59,2021-01-29
+Jawa Barat,Ciamis,Tas Ransel Stylish,Tas,Standard,79000,126400,102700,63200,13,2021-01-30
+Jawa Barat,Depok,Lipstik Satin Matte,Lipstik,Premium,96000,153600,124800,76800,87,2021-01-31
+Jawa Barat,Cirebon,Baju Kebaya Elegan,Baju Kebaya,Standard,13000,20800,16900,10400,24,2021-02-01
+Jawa Barat,Depok,Kalung Liontin Cantik,Kalung,Import,77000,123200,100100,61600,69,2021-02-02
+Jawa Barat,Kuningan,Gelang Manik-Manik,Gelang,Local,88000,140800,114400,70400,40,2021-02-03
+Jawa Barat,Banjar,Topi Baseball Classic,Topi,Standard,56000,89600,72800,44800,36,2021-02-04
+Jawa Barat,Sumedang,Celana Panjang Casual,Celana,Import,120000,192000,156000,96000,20,2021-02-05
+Jawa Barat,Tasikmalaya,Kemeja Flanel Modern,Kemeja,Premium,35000,56000,45500,28000,30,2021-02-06
+Jawa Barat,Cirebon,Sepatu Loafer Formal,Sepatu,Standard,25000,40000,32500,20000,3,2021-02-07
+Jawa Barat,Tasikmalaya,Parfum Pria Maskulin,Parfum,Local,114000,182400,148200,91200,90,2021-02-08
+Jawa Barat,Banjar,Sepatu Loafer Formal,Sepatu,Import,128000,204800,166400,102400,18,2021-02-09
+Jawa Barat,Cirebon,Sepatu Loafer Formal,Sepatu,Premium,122000,195200,158600,97600,84,2021-02-10
+Jawa Barat,Indramayu,Tas Backpack Casual,Tas,Local,27000,43200,35100,21600,53,2021-02-11
+Jawa Barat,Indramayu,Lipstik Velvet Matte,Lipstik,Import,64000,102400,83200,51200,96,2021-02-12
+Jawa Barat,Bekasi,Tas Backpack Casual,Tas,Premium,143000,228800,185900,114400,14,2021-02-13
+Jawa Barat,Cimahi,Celana Cargo Praktis,Celana,Import,112000,179200,145600,89600,33,2021-02-14
+Jawa Barat,Cirebon,Gelang Tangan Vintage,Gelang,Standard,56000,89600,72800,44800,36,2021-02-15
+Jawa Barat,Majalengka,Sweater Rajut Hangat,Sweater,Import,144000,230400,187200,115200,25,2021-02-16
+Jawa Barat,Sukabumi,Sepatu Running Ringan,Sepatu,Local,114000,182400,148200,91200,87,2021-02-17
+Jawa Barat,Sukabumi,Kacamata Oversize Stylish,Kacamata,Import,61000,97600,79300,48800,2,2021-02-18
+Jawa Barat,Majalengka,Kaos Polos Basic,Kaos,Import,141000,225600,183300,112800,24,2021-02-19
+Jawa Barat,Ciamis,Lipstik Velvet Matte,Lipstik,Local,20000,32000,26000,16000,73,2021-02-20
+Jawa Barat,Depok,Kaos Polos Basic,Kaos,Import,137000,219200,178100,109600,44,2021-02-21
+Jawa Barat,Ciamis,Kaos Polo Pria,Kaos Polo,Import,39000,62400,50700,31200,80,2021-02-22
+Jawa Barat,Bekasi,Gelang Kulit Asli,Gelang,Standard,19000,30400,24700,15200,49,2021-02-23
+Jawa Barat,Depok,Topi Fedora Elegan,Topi,Local,27000,43200,35100,21600,91,2021-02-24
+Jawa Barat,Kuningan,Blouse Wanita Elegan,Blouse,Import,91000,145600,118300,72800,43,2021-02-25
+Jawa Barat,Subang,Gelang Tangan Vintage,Gelang,Local,56000,89600,72800,44800,66,2021-02-26
+Jawa Barat,Cirebon,Sepatu Running Ringan,Sepatu,Premium,95000,152000,123500,76000,17,2021-02-27
+Jawa Barat,Banjar,Jam Dinding Klasik Vintage,Jam Dinding,Standard,27000,43200,35100,21600,4,2021-02-28
+Jawa Barat,Karawang,Tas Backpack Casual,Tas,Local,123000,196800,159900,98400,95,2021-03-01
+Jawa Barat,Majalengka,Dompet Zipper Minimalis,Dompet,Import,93000,148800,120900,74400,38,2021-03-02
+Jawa Barat,Cimahi,Gelang Tangan Vintage,Gelang,Premium,55000,88000,71500,44000,36,2021-03-03
+Jawa Barat,Bandung Barat,Sepatu Loafer Formal,Sepatu,Premium,42000,67200,54600,33600,63,2021-03-04
+Jawa Barat,Sumedang,Tas Selempang Kulit,Tas,Local,131000,209600,170300,104800,27,2021-03-05
+Jawa Barat,Bogor,Kacamata Oversize Stylish,Kacamata,Premium,71000,113600,92300,56800,92,2021-03-06
+Jawa Barat,Cirebon,Kemeja Putih Formal,Kemeja,Standard,57000,91200,74100,45600,12,2021-03-07
+Jawa Barat,Bekasi,Jam Tangan Mewah,Jam Tangan,Local,144000,230400,187200,115200,9,2021-03-08
+Jawa Barat,Indramayu,Rok Midi Trendy,Rok,Import,144000,230400,187200,115200,57,2021-03-09
+Jawa Barat,Garut,Tas Selempang Chic,Tas,Local,114000,182400,148200,91200,33,2021-03-10
+Jawa Barat,Cirebon,Kacamata Oversize Stylish,Kacamata,Standard,57000,91200,74100,45600,94,2021-03-11
+Jawa Barat,Bekasi,Parfum Woody Aromatic,Parfum,Local,136000,217600,176800,108800,57,2021-03-12
+Jawa Barat,Majalengka,Topi Beanie Hangat,Topi,Premium,140000,224000,182000,112000,13,2021-03-13
+Jawa Barat,Ciamis,Blouse Wanita Elegan,Blouse,Standard,93000,148800,120900,74400,42,2021-03-14
+Jawa Barat,Majalengka,Baju Kaos Grafis,Baju Kaos,Premium,106000,169600,137800,84800,66,2021-03-15
+Jawa Barat,Garut,Tas Ransel Stylish,Tas,Standard,79000,126400,102700,63200,43,2021-03-16
+Jawa Barat,Kuningan,Tas Backpack Casual,Tas,Local,48000,76800,62400,38400,9,2021-03-17
+Jawa Barat,Sumedang,Gelang Manik-Manik,Gelang,Premium,85000,136000,110500,68000,64,2021-03-18
+Jawa Barat,Subang,Perhiasan Perak Elegan,Perhiasan,Local,112000,179200,145600,89600,5,2021-03-19
+Jawa Barat,Ciamis,Sweater Hoodie Sporty,Sweater,Local,134000,214400,174200,107200,97,2021-03-20
+Jawa Barat,Sumedang,Celana Cargo Praktis,Celana,Local,134000,214400,174200,107200,16,2021-03-21
+Jawa Barat,Sukabumi,Lipstik Velvet Matte,Lipstik,Local,87000,139200,113100,69600,58,2021-03-22
+Jawa Barat,Depok,Parfum Woody Aromatic,Parfum,Import,20000,32000,26000,16000,35,2021-03-23
+Jawa Barat,Garut,Celana Cargo Praktis,Celana,Premium,91000,145600,118300,72800,11,2021-03-24
+Jawa Barat,Cirebon,Tas Sling Bag Trendy,Tas,Local,34000,54400,44200,27200,20,2021-03-25
+Jawa Barat,Cimahi,Gelang Kulit Asli,Gelang,Standard,57000,91200,74100,45600,86,2021-03-26
+Jawa Barat,Garut,Lipstik Velvet Matte,Lipstik,Premium,192000,307200,249600,153600,66,2021-03-27
+Jawa Barat,Bekasi,Sweater Hoodie Sporty,Sweater,Import,51000,81600,66300,40800,47,2021-03-28
+Jawa Barat,Subang,Sepatu Boots Trendy,Sepatu,Premium,70000,112000,91000,56000,90,2021-03-29
+Jawa Barat,Bogor,Jam Dinding Klasik Vintage,Jam Dinding,Import,16000,25600,20800,12800,91,2021-03-30
+Jawa Barat,Bekasi,Topi Fedora Elegan,Topi,Import,119000,190400,154700,95200,7,2021-03-31
+Jawa Barat,Bandung,Gelang Berlian Mewah,Gelang,Standard,24000,38400,31200,19200,33,2021-04-01
+Jawa Barat,Ciamis,Rok Midi Trendy,Rok,Local,32000,51200,41600,25600,75,2021-04-02
+Jawa Barat,Subang,Parfum Woody Aromatic,Parfum,Local,104000,166400,135200,83200,58,2021-04-03
+Jawa Barat,Bekasi,Tas Sling Bag Trendy,Tas,Standard,42000,67200,54600,33600,81,2021-04-04
+Jawa Barat,Majalengka,Celana Jogger Casual,Celana,Premium,145000,232000,188500,116000,31,2021-04-05
+Jawa Barat,Bekasi,Celana Legging Nyaman,Celana,Local,137000,219200,178100,109600,82,2021-04-06
+Jawa Barat,Subang,Tas Clutch Glamor,Tas,Standard,80000,128000,104000,64000,88,2021-04-07
+Jawa Barat,Cirebon,Dompet Zipper Minimalis,Dompet,Standard,42000,67200,54600,33600,22,2021-04-08
+Jawa Barat,Indramayu,Gelang Kulit Asli,Gelang,Premium,163000,260800,211900,130400,3,2021-04-09
+Jawa Barat,Subang,Tas Sling Bag Trendy,Tas,Premium,140000,224000,182000,112000,20,2021-04-10
+Jawa Barat,Sumedang,Baju Koko Modern,Baju Koko,Local,59000,94400,76700,47200,41,2021-04-11
+Jawa Barat,Bandung Barat,Topi Trucker Trendy,Topi,Premium,108000,172800,140400,86400,91,2021-04-12
+Jawa Barat,Bandung Barat,Celana Cargo Praktis,Celana,Import,95000,152000,123500,76000,17,2021-04-13
+Jawa Barat,Bandung Barat,Baju Kaos Grafis,Baju Kaos,Import,128000,204800,166400,102400,65,2021-04-14
+Jawa Barat,Ciamis,Sepatu Running Ringan,Sepatu,Premium,194000,310400,252200,155200,96,2021-04-15
+Jawa Barat,Kuningan,Baju Kebaya Elegan,Baju Kebaya,Standard,94000,150400,122200,75200,51,2021-04-16
+Jawa Barat,Garut,Sweater Hoodie Sporty,Sweater,Local,53000,84800,68900,42400,17,2021-04-17
+Jawa Barat,Ciamis,Blouse Wanita Elegan,Blouse,Import,140000,224000,182000,112000,28,2021-04-18
+Jawa Barat,Bekasi,Celana Legging Nyaman,Celana,Import,47000,75200,61100,37600,3,2021-04-19
+Jawa Barat,Cirebon,Pashmina Syar'i Terbaru,Pashmina,Local,29000,46400,37700,23200,10,2021-04-20
+Jawa Barat,Bandung Barat,Kaos Polo Pria,Kaos Polo,Local,119000,190400,154700,95200,75,2021-04-21
+Jawa Barat,Karawang,Celana Legging Nyaman,Celana,Import,115000,184000,149500,92000,58,2021-04-22
+Jawa Barat,Garut,Baju Renang Sporty,Baju Renang,Import,24000,38400,31200,19200,27,2021-04-23
+Jawa Barat,Cirebon,Parfum Woody Aromatic,Parfum,Premium,149000,238400,193700,119200,42,2021-04-24
+Jawa Barat,Purwakarta,Blouse Wanita Elegan,Blouse,Premium,40000,64000,52000,32000,80,2021-04-25
+Jawa Barat,Cimahi,Sepatu Loafer Formal,Sepatu,Standard,88000,140800,114400,70400,60,2021-04-26
+Jawa Barat,Bandung,Tas Sling Bag Trendy,Tas,Premium,155000,248000,201500,124000,44,2021-04-27
+Jawa Barat,Sumedang,Jam Dinding Klasik Vintage,Jam Dinding,Local,134000,214400,174200,107200,31,2021-04-28
+Jawa Barat,Karawang,Sepatu Loafer Formal,Sepatu,Premium,176000,281600,228800,140800,6,2021-04-29
+Jawa Barat,Sumedang,Celana Jogger Casual,Celana,Premium,181000,289600,235300,144800,56,2021-04-30
+Jawa Barat,Ciamis,Sepatu Loafer Formal,Sepatu,Import,100000,160000,130000,80000,24,2021-05-01
+Jawa Barat,Tasikmalaya,Anting Emas Cantik,Anting,Premium,130000,208000,169000,104000,85,2021-05-02
+Jawa Barat,Bandung Barat,Jas Pria Slim Fit,Jas,Premium,142000,227200,184600,113600,15,2021-05-03
+Jawa Barat,Cianjur,Gelang Kulit Asli,Gelang,Premium,66000,105600,85800,52800,38,2021-05-04
+Jawa Barat,Garut,Celana Legging Nyaman,Celana,Local,45000,72000,58500,36000,47,2021-05-05
+Jawa Barat,Depok,Kemeja Kotak-Kotak,Kemeja,Import,33000,52800,42900,26400,80,2021-05-06
+Jawa Barat,Cianjur,Dompet Kartu Minimalis,Dompet,Local,56000,89600,72800,44800,3,2021-05-07
+Jawa Barat,Majalengka,Dompet Wanita Stylish,Dompet,Premium,98000,156800,127400,78400,75,2021-05-08
+Jawa Barat,Subang,Rok Mini Trendy,Rok,Premium,102000,163200,132600,81600,31,2021-05-09
+Jawa Barat,Cirebon,Sepatu Running Ringan,Sepatu,Standard,78000,124800,101400,62400,17,2021-05-10
+Jawa Barat,Cirebon,Tas Makeup Portable,Tas Makeup,Import,83000,132800,107900,66400,81,2021-05-11
+Jawa Barat,Bekasi,Tas Sling Bag Trendy,Tas,Premium,139000,222400,180700,111200,79,2021-05-12
+Jawa Barat,Garut,Rok Midi Trendy,Rok,Standard,36000,57600,46800,28800,72,2021-05-13
+Jawa Barat,Bandung Barat,Kaos Polo Pria,Kaos Polo,Premium,198000,316800,257400,158400,32,2021-05-14
+Jawa Barat,Bandung,Parfum Wangi Floral,Parfum,Import,50000,80000,65000,40000,3,2021-05-15
+Jawa Barat,Bandung,Celana Legging Nyaman,Celana,Local,44000,70400,57200,35200,70,2021-05-16
+Jawa Barat,Kuningan,Lipstik Glossy Vibrant,Lipstik,Standard,54000,86400,70200,43200,25,2021-05-17
+Jawa Barat,Kuningan,Celana Legging Nyaman,Celana,Standard,35000,56000,45500,28000,55,2021-05-18
+Jawa Barat,Kuningan,Celana Legging Nyaman,Celana,Premium,197000,315200,256100,157600,30,2021-05-19
+Jawa Barat,Garut,Blouse Wanita Elegan,Blouse,Local,93000,148800,120900,74400,77,2021-05-20
+Jawa Barat,Indramayu,Kaos Sablon Casual,Kaos,Premium,189000,302400,245700,151200,54,2021-05-21
+Jawa Barat,Majalengka,Celana Cargo Praktis,Celana,Standard,34000,54400,44200,27200,10,2021-05-22
+Jawa Barat,Depok,Sweater Hoodie Sporty,Sweater,Standard,12000,19200,15600,9600,53,2021-05-23
+Jawa Barat,Cirebon,Kemeja Batik Klasik,Kemeja,Local,45000,72000,58500,36000,89,2021-05-24
+Jawa Barat,Cirebon,Tas Sling Bag Trendy,Tas,Import,73000,116800,94900,58400,95,2021-05-25
+Jawa Barat,Bandung,Celana Cargo Praktis,Celana,Import,118000,188800,153400,94400,64,2021-05-26
+Jawa Barat,Subang,Lipstik Velvet Matte,Lipstik,Standard,29000,46400,37700,23200,20,2021-05-27
+Jawa Barat,Cianjur,Tas Sling Bag Trendy,Tas,Standard,19000,30400,24700,15200,90,2021-05-28
+Jawa Barat,Majalengka,Tas Clutch Glamor,Tas,Import,41000,65600,53300,32800,47,2021-05-29
+Jawa Barat,Karawang,Kacamata Hitam Stylish,Kacamata,Standard,98000,156800,127400,78400,71,2021-05-30
+Jawa Barat,Depok,Tas Sling Bag Trendy,Tas,Local,134000,214400,174200,107200,71,2021-05-31
+Jawa Barat,Bogor,Tas Selempang Chic,Tas,Import,48000,76800,62400,38400,4,2021-06-01
+Jawa Barat,Cirebon,Sepatu Loafer Formal,Sepatu,Local,84000,134400,109200,67200,48,2021-06-02
+Jawa Barat,Karawang,Tas Selempang Kulit,Tas,Premium,37000,59200,48100,29600,81,2021-06-03
+Jawa Barat,Purwakarta,Tas Backpack Casual,Tas,Premium,153000,244800,198900,122400,67,2021-06-04
+Jawa Barat,Karawang,Kaos Polo Pria,Kaos Polo,Standard,40000,64000,52000,32000,93,2021-06-05
+Jawa Barat,Garut,Pashmina Rajut Stylish,Pashmina,Standard,31000,49600,40300,24800,70,2021-06-06
+Jawa Barat,Purwakarta,Gelang Kulit Asli,Gelang,Standard,77000,123200,100100,61600,15,2021-06-07
+Jawa Barat,Tasikmalaya,Topi Beanie Hangat,Topi,Premium,128000,204800,166400,102400,39,2021-06-08
+Jawa Barat,Cimahi,Sweater Hoodie Sporty,Sweater,Premium,32000,51200,41600,25600,12,2021-06-09
+Jawa Barat,Karawang,Gelang Tangan Vintage,Gelang,Premium,94000,150400,122200,75200,81,2021-06-10
+Jawa Barat,Sumedang,Sweater Hoodie Sporty,Sweater,Import,115000,184000,149500,92000,59,2021-06-11
+Jawa Barat,Cirebon,Lipstik Velvet Matte,Lipstik,Premium,195000,312000,253500,156000,3,2021-06-12
+Jawa Barat,Depok,Kalung Liontin Cantik,Kalung,Local,70000,112000,91000,56000,13,2021-06-13
+Jawa Barat,Kuningan,Sepatu Loafer Formal,Sepatu,Import,132000,211200,171600,105600,82,2021-06-14
+Jawa Barat,Majalengka,Kemeja Batik Klasik,Kemeja,Import,103000,164800,133900,82400,20,2021-06-15
+Jawa Barat,Majalengka,Tas Sling Bag Trendy,Tas,Local,118000,188800,153400,94400,43,2021-06-16
+Jawa Barat,Kuningan,Celana Cargo Praktis,Celana,Premium,130000,208000,169000,104000,54,2021-06-17
+Jawa Barat,Cianjur,Baju Kaos Grafis,Baju Kaos,Premium,127000,203200,165100,101600,25,2021-06-18
+Jawa Barat,Ciamis,Sepatu Running Ringan,Sepatu,Premium,72000,115200,93600,57600,93,2021-06-19
+Jawa Barat,Depok,Kacamata Hitam Stylish,Kacamata,Local,66000,105600,85800,52800,44,2021-06-20
+Jawa Barat,Garut,Gelang Kulit Asli,Gelang,Import,126000,201600,163800,100800,69,2021-06-21
+Jawa Barat,Ciamis,Baju Koko Modern,Baju Koko,Import,92000,147200,119600,73600,72,2021-06-22
+Jawa Barat,Bandung,Kaos Polo Pria,Kaos Polo,Import,112000,179200,145600,89600,36,2021-06-23
+Jawa Barat,Cirebon,Kalung Liontin Cantik,Kalung,Standard,20000,32000,26000,16000,65,2021-06-24
+Jawa Barat,Garut,Sepatu Formal Elegan,Sepatu,Premium,124000,198400,161200,99200,39,2021-06-25
+Jawa Barat,Banjar,Tas Laptop Stylish,Tas,Premium,49000,78400,63700,39200,99,2021-06-26
+Jawa Barat,Subang,Kaos Polo Pria,Kaos Polo,Premium,96000,153600,124800,76800,16,2021-06-27
+Jawa Barat,Cirebon,Lipstik Velvet Matte,Lipstik,Standard,22000,35200,28600,17600,31,2021-06-28
+Jawa Barat,Cimahi,Tas Ransel Stylish,Tas,Premium,115000,184000,149500,92000,35,2021-06-29
+Jawa Barat,Cirebon,Kemeja Kotak-Kotak,Kemeja,Premium,49000,78400,63700,39200,60,2021-06-30
+Jawa Barat,Bekasi,Kalung Liontin Cantik,Kalung,Standard,31000,49600,40300,24800,63,2021-07-01
+Jawa Barat,Kuningan,Parfum Woody Aromatic,Parfum,Local,39000,62400,50700,31200,27,2021-07-02
+Jawa Barat,Bekasi,Kacamata Hitam Stylish,Kacamata,Premium,66000,105600,85800,52800,36,2021-07-03
+Jawa Barat,Banjar,Kalung Liontin Cantik,Kalung,Local,10000,16000,13000,8000,63,2021-07-04
+Jawa Barat,Subang,Tas Selempang Kulit,Tas,Premium,193000,308800,250900,154400,29,2021-07-05
+Jawa Barat,Ciamis,Celana Cargo Praktis,Celana,Import,84000,134400,109200,67200,51,2021-07-06
+Jawa Barat,Depok,Lipstik Satin Matte,Lipstik,Premium,129000,206400,167700,103200,92,2021-07-07
+Jawa Barat,Depok,Anting Emas Cantik,Anting,Premium,81000,129600,105300,64800,31,2021-07-08
+Jawa Barat,Bandung,Sweater Rajut Hangat,Sweater,Local,131000,209600,170300,104800,56,2021-07-09
+Jawa Barat,Cianjur,Lipstik Matte Long-lasting,Lipstik,Import,15000,24000,19500,12000,74,2021-07-10
+Jawa Barat,Depok,Sweater Hoodie Sporty,Sweater,Standard,22000,35200,28600,17600,90,2021-07-11
+Jawa Barat,Cimahi,Kaos Polo Pria,Kaos Polo,Standard,17000,27200,22100,13600,87,2021-07-12
+Jawa Barat,Subang,Gelang Kulit Asli,Gelang,Import,49000,78400,63700,39200,69,2021-07-13
+Jawa Barat,Ciamis,Sepatu Loafer Casual,Sepatu,Premium,125000,200000,162500,100000,21,2021-07-14
+Jawa Barat,Cirebon,Sweater Hoodie Sporty,Sweater,Local,148000,236800,192400,118400,46,2021-07-15
+Jawa Barat,Cirebon,Lipstik Velvet Matte,Lipstik,Standard,21000,33600,27300,16800,54,2021-07-16
+Jawa Barat,Banjar,Celana Jogger Casual,Celana,Standard,69000,110400,89700,55200,34,2021-07-17
+Jawa Barat,Bogor,Pashmina Syar'i Terbaru,Pashmina,Local,127000,203200,165100,101600,24,2021-07-18
+Jawa Barat,Majalengka,Gelang Tangan Vintage,Gelang,Standard,93000,148800,120900,74400,46,2021-07-19
+Jawa Barat,Subang,Tas Clutch Glamor,Tas,Standard,32000,51200,41600,25600,5,2021-07-20
+Jawa Barat,Sukabumi,Sepatu Loafer Formal,Sepatu,Local,75000,120000,97500,60000,4,2021-07-21
+Jawa Barat,Cianjur,Kalung Mutiara Mewah,Kalung,Standard,81000,129600,105300,64800,30,2021-07-22
+Jawa Barat,Bogor,Topi Trucker Trendy,Topi,Local,128000,204800,166400,102400,40,2021-07-23
+Jawa Barat,Kuningan,Topi Beanie Hangat,Topi,Import,61000,97600,79300,48800,90,2021-07-24
+Jawa Barat,Bekasi,Anting Gantung Unik,Anting,Premium,78000,124800,101400,62400,46,2021-07-25
+Jawa Barat,Cirebon,Baju Kebaya Elegan,Baju Kebaya,Standard,19000,30400,24700,15200,30,2021-07-26
+Jawa Barat,Bekasi,Lipstik Glossy Vibrant,Lipstik,Import,53000,84800,68900,42400,77,2021-07-27
+Jawa Barat,Cirebon,Kacamata Oversize Stylish,Kacamata,Premium,138000,220800,179400,110400,56,2021-07-28
+Jawa Barat,Bogor,Dompet Wanita Stylish,Dompet,Local,46000,73600,59800,36800,61,2021-07-29
+Jawa Barat,Ciamis,Celana Legging Nyaman,Celana,Standard,27000,43200,35100,21600,95,2021-07-30
+Jawa Barat,Cirebon,Tas Sling Bag Trendy,Tas,Standard,20000,32000,26000,16000,90,2021-07-31
+Jawa Barat,Ciamis,Dompet Zipper Minimalis,Dompet,Import,102000,163200,132600,81600,42,2021-08-01
+Jawa Barat,Sumedang,Tas Sling Bag Trendy,Tas,Premium,171000,273600,222300,136800,23,2021-08-02
+Jawa Barat,Cirebon,Kemeja Putih Formal,Kemeja,Import,56000,89600,72800,44800,38,2021-08-03
+Jawa Barat,Cimahi,Gelang Kulit Asli,Gelang,Standard,82000,131200,106600,65600,62,2021-08-04
+Jawa Barat,Cirebon,Tas Clutch Glamor,Tas,Standard,40000,64000,52000,32000,17,2021-08-05
+Jawa Barat,Cirebon,Rok Mini Trendy,Rok,Local,100000,160000,130000,80000,76,2021-08-06
+Jawa Barat,Cimahi,Kaos Polo Pria,Kaos Polo,Import,34000,54400,44200,27200,33,2021-08-07
+Jawa Barat,Cirebon,Tas Sling Bag Trendy,Tas,Local,132000,211200,171600,105600,72,2021-08-08
+Jawa Barat,Depok,Gelang Kulit Asli,Gelang,Local,40000,64000,52000,32000,17,2021-08-09
+Jawa Barat,Ciamis,Rok Midi Trendy,Rok,Premium,175000,280000,227500,140000,7,2021-08-10
+Jawa Barat,Cirebon,Tas Backpack Casual,Tas,Local,39000,62400,50700,31200,65,2021-08-11
+Jawa Barat,Cirebon,Kaos Polo Pria,Kaos Polo,Local,37000,59200,48100,29600,83,2021-08-12
+Jawa Barat,Bekasi,Pashmina Rajut Stylish,Pashmina,Premium,187000,299200,243100,149600,6,2021-08-13
+Jawa Barat,Purwakarta,Dompet Zipper Minimalis,Dompet,Import,98000,156800,127400,78400,45,2021-08-14
+Jawa Barat,Kuningan,Perhiasan Perak Elegan,Perhiasan,Standard,26000,41600,33800,20800,43,2021-08-15
+Jawa Barat,Bandung,Celana Legging Nyaman,Celana,Local,145000,232000,188500,116000,15,2021-08-16
+Jawa Barat,Depok,Sepatu Running Ringan,Sepatu,Import,57000,91200,74100,45600,56,2021-08-17
+Jawa Barat,Garut,Parfum Woody Aromatic,Parfum,Premium,192000,307200,249600,153600,19,2021-08-18
+Jawa Barat,Garut,Kalung Liontin Cantik,Kalung,Import,74000,118400,96200,59200,64,2021-08-19
+Jawa Barat,Garut,Sepatu Sporty,Sepatu,Import,96000,153600,124800,76800,52,2021-08-20
+Jawa Barat,Bekasi,Celana Panjang Casual,Celana,Premium,116000,185600,150800,92800,9,2021-08-21
+Jawa Barat,Bekasi,Sweater Hoodie Sporty,Sweater,Import,129000,206400,167700,103200,94,2021-08-22
+Jawa Barat,Subang,Kaos Polo Pria,Kaos Polo,Import,61000,97600,79300,48800,33,2021-08-23
+Jawa Barat,Indramayu,Topi Keren Stylish,Topi,Import,67000,107200,87100,53600,91,2021-08-24
+Jawa Barat,Kuningan,Sepatu Loafer Formal,Sepatu,Import,146000,233600,189800,116800,86,2021-08-25
+Jawa Barat,Cimahi,Tas Makeup Portable,Tas Makeup,Premium,146000,233600,189800,116800,19,2021-08-26
+Jawa Barat,Cimahi,Blouse Wanita Elegan,Blouse,Standard,46000,73600,59800,36800,19,2021-08-27
+Jawa Barat,Bekasi,Kemeja Kotak-Kotak,Kemeja,Premium,100000,160000,130000,80000,66,2021-08-28
+Jawa Barat,Garut,Pashmina Rajut Stylish,Pashmina,Standard,68000,108800,88400,54400,20,2021-08-29
+Jawa Barat,Bandung,Perhiasan Perak Elegan,Perhiasan,Premium,31000,49600,40300,24800,57,2021-08-30
+Jawa Barat,Garut,Blouse Wanita Elegan,Blouse,Standard,21000,33600,27300,16800,92,2021-08-31
+Jawa Barat,Bogor,Kemeja Kotak-Kotak,Kemeja,Standard,35000,56000,45500,28000,11,2021-09-01
+Jawa Barat,Bekasi,Kaos Polo Pria,Kaos Polo,Standard,64000,102400,83200,51200,75,2021-09-02
+Jawa Barat,Garut,Celana Chino Slim Fit,Celana,Premium,106000,169600,137800,84800,10,2021-09-03
+Jawa Barat,Cirebon,Gelang Tangan Vintage,Gelang,Premium,107000,171200,139100,85600,59,2021-09-04
+Jawa Barat,Cimahi,Sepatu Sneakers,Sepatu,Premium,68000,108800,88400,54400,8,2021-09-05
+Jawa Barat,Cianjur,Kacamata Oversize Stylish,Kacamata,Standard,65000,104000,84500,52000,55,2021-09-06
+Jawa Barat,Cirebon,Gelang Kulit Asli,Gelang,Import,53000,84800,68900,42400,32,2021-09-07
+Jawa Barat,Bekasi,Parfum Woody Aromatic,Parfum,Local,41000,65600,53300,32800,13,2021-09-08
+Jawa Barat,Cirebon,Rok Midi Trendy,Rok,Standard,86000,137600,111800,68800,35,2021-09-09
+Jawa Barat,Sukabumi,Lipstik Glossy Vibrant,Lipstik,Import,24000,38400,31200,19200,84,2021-09-10
+Jawa Barat,Cirebon,Kalung Liontin Cantik,Kalung,Import,147000,235200,191100,117600,17,2021-09-11
+Jawa Barat,Indramayu,Kacamata Retro Vintage,Kacamata,Local,38000,60800,49400,30400,93,2021-09-12
+Jawa Barat,Tasikmalaya,Topi Trucker Trendy,Topi,Local,94000,150400,122200,75200,8,2021-09-13
+Jawa Barat,Depok,Dompet Zipper Minimalis,Dompet,Import,143000,228800,185900,114400,50,2021-09-14
+Jawa Barat,Kuningan,Tas Makeup Portable,Tas Makeup,Local,91000,145600,118300,72800,91,2021-09-15
+Jawa Barat,Subang,Lipstik Glossy Vibrant,Lipstik,Local,16000,25600,20800,12800,100,2021-09-16
+Jawa Barat,Tasikmalaya,Topi Snapback,Topi,Import,62000,99200,80600,49600,89,2021-09-17
+Jawa Barat,Sumedang,Baju Kebaya Elegan,Baju Kebaya,Standard,50000,80000,65000,40000,58,2021-09-18
+Jawa Barat,Depok,Tas Backpack Casual,Tas,Import,72000,115200,93600,57600,63,2021-09-19
+Jawa Barat,Kuningan,Tas Backpack Casual,Tas,Premium,154000,246400,200200,123200,95,2021-09-20
+Jawa Barat,Ciamis,Kaos Polo Pria,Kaos Polo,Local,101000,161600,131300,80800,79,2021-09-21
+Jawa Barat,Banjar,Kaos Sablon Casual,Kaos,Standard,52000,83200,67600,41600,91,2021-09-22
+Jawa Barat,Cimahi,Celana Legging Nyaman,Celana,Premium,53000,84800,68900,42400,7,2021-09-23
+Jawa Barat,Majalengka,Baju Renang Sporty,Baju Renang,Local,126000,201600,163800,100800,15,2021-09-24
+Jawa Barat,Banjar,Sepatu Running Ringan,Sepatu,Import,130000,208000,169000,104000,58,2021-09-25
+Jawa Barat,Subang,Sweater Hoodie Sporty,Sweater,Local,47000,75200,61100,37600,54,2021-09-26
+Jawa Barat,Garut,Baju Kebaya Elegan,Baju Kebaya,Standard,69000,110400,89700,55200,4,2021-09-27
+Jawa Barat,Purwakarta,Rok Midi Trendy,Rok,Local,123000,196800,159900,98400,62,2021-09-28
+Jawa Barat,Karawang,Sweater Rajut Hangat,Sweater,Local,31000,49600,40300,24800,4,2021-09-29
+Jawa Barat,Indramayu,Kalung Liontin Cantik,Kalung,Standard,67000,107200,87100,53600,51,2021-09-30
+Jawa Barat,Cianjur,Lipstik Glossy Vibrant,Lipstik,Premium,76000,121600,98800,60800,5,2021-10-01
+Jawa Barat,Majalengka,Celana Cargo Praktis,Celana,Standard,68000,108800,88400,54400,24,2021-10-02
+Jawa Barat,Sukabumi,Tas Sling Bag Trendy,Tas,Standard,26000,41600,33800,20800,31,2021-10-03
+Jawa Barat,Cirebon,Dompet Lipat Stylish,Dompet,Standard,26000,41600,33800,20800,41,2021-10-04
+Jawa Barat,Majalengka,Lipstik Matte Long-lasting,Lipstik,Premium,151000,241600,196300,120800,76,2021-10-05
+Jawa Barat,Bekasi,Gelang Fashion Trendy,Gelang,Premium,164000,262400,213200,131200,3,2021-10-06
+Jawa Barat,Kuningan,Lipstik Matte Long-lasting,Lipstik,Standard,80000,128000,104000,64000,2,2021-10-07
+Jawa Barat,Indramayu,Gelang Fashion Trendy,Gelang,Local,91000,145600,118300,72800,53,2021-10-08
+Jawa Barat,Karawang,Tas Laptop Stylish,Tas,Local,54000,86400,70200,43200,11,2021-10-09
+Jawa Barat,Bekasi,Lipstik Satin Matte,Lipstik,Premium,50000,80000,65000,40000,78,2021-10-10
+Jawa Barat,Subang,Parfum Woody Aromatic,Parfum,Standard,70000,112000,91000,56000,74,2021-10-11
+Jawa Barat,Karawang,Gelang Kulit Asli,Gelang,Local,16000,25600,20800,12800,16,2021-10-12
+Jawa Barat,Majalengka,Celana Cargo Praktis,Celana,Local,17000,27200,22100,13600,79,2021-10-13
+Jawa Barat,Kuningan,Blouse Wanita Elegan,Blouse,Local,45000,72000,58500,36000,79,2021-10-14
+Jawa Barat,Majalengka,Kacamata Oversize Stylish,Kacamata,Local,115000,184000,149500,92000,42,2021-10-15
+Jawa Barat,Cirebon,Tas Sling Bag Trendy,Tas,Standard,22000,35200,28600,17600,37,2021-10-16
+Jawa Barat,Bekasi,Gelang Tangan Vintage,Gelang,Local,36000,57600,46800,28800,18,2021-10-17
+Jawa Barat,Karawang,Baju Kebaya Elegan,Baju Kebaya,Premium,50000,80000,65000,40000,10,2021-10-18
+Jawa Barat,Depok,Kaos Polo Pria,Kaos Polo,Import,74000,118400,96200,59200,23,2021-10-19
+Jawa Barat,Indramayu,Baju Kebaya Elegan,Baju Kebaya,Premium,147000,235200,191100,117600,34,2021-10-20
+Jawa Barat,Karawang,Gelang Kulit Asli,Gelang,Standard,89000,142400,115700,71200,42,2021-10-21
+Jawa Barat,Purwakarta,Parfum Woody Aromatic,Parfum,Local,74000,118400,96200,59200,26,2021-10-22
+Jawa Barat,Cirebon,Gelang Tangan Vintage,Gelang,Standard,56000,89600,72800,44800,93,2021-10-23
+Jawa Barat,Subang,Sepatu Formal Elegan,Sepatu,Standard,31000,49600,40300,24800,69,2021-10-24
+Jawa Barat,Ciamis,Celana Legging Nyaman,Celana,Local,19000,30400,24700,15200,33,2021-10-25
+Jawa Barat,Cirebon,Celana Legging Nyaman,Celana,Standard,11000,17600,14300,8800,77,2021-10-26
+Jawa Barat,Indramayu,Sepatu Sneakers,Sepatu,Standard,92000,147200,119600,73600,22,2021-10-27
+Jawa Barat,Bandung Barat,Kaos Polo Pria,Kaos Polo,Import,131000,209600,170300,104800,18,2021-10-28
+Jawa Barat,Ciamis,Sweater Hoodie Sporty,Sweater,Local,127000,203200,165100,101600,52,2021-10-29
+Jawa Barat,Indramayu,Kacamata Oversize Stylish,Kacamata,Local,105000,168000,136500,84000,96,2021-10-30
+Jawa Barat,Purwakarta,Baju Koko Modern,Baju Koko,Standard,74000,118400,96200,59200,75,2021-10-31
+Jawa Barat,Cimahi,Celana Legging Nyaman,Celana,Standard,99000,158400,128700,79200,35,2021-11-01
+Jawa Barat,Cianjur,Sepatu Loafer Formal,Sepatu,Premium,78000,124800,101400,62400,89,2021-11-02
+Jawa Barat,Subang,Lipstik Velvet Matte,Lipstik,Local,97000,155200,126100,77600,72,2021-11-03
+Jawa Barat,Garut,Topi Baseball Classic,Topi,Local,117000,187200,152100,93600,100,2021-11-04
+Jawa Barat,Bekasi,Topi Beanie Hangat,Topi,Local,121000,193600,157300,96800,62,2021-11-05
+Jawa Barat,Sumedang,Celana Chino Slim Fit,Celana,Local,15000,24000,19500,12000,25,2021-11-06
+Jawa Barat,Subang,Tas Ransel Stylish,Tas,Import,21000,33600,27300,16800,5,2021-11-07
+Jawa Barat,Garut,Tas Clutch Glamor,Tas,Premium,160000,256000,208000,128000,15,2021-11-08
+Jawa Barat,Cirebon,Kalung Liontin Cantik,Kalung,Local,140000,224000,182000,112000,42,2021-11-09
+Jawa Barat,Bekasi,Topi Beanie Hangat,Topi,Premium,181000,289600,235300,144800,27,2021-11-10
+Jawa Barat,Subang,Topi Keren Stylish,Topi,Premium,118000,188800,153400,94400,94,2021-11-11
+Jawa Barat,Cirebon,Gelang Tangan Vintage,Gelang,Import,35000,56000,45500,28000,27,2021-11-12
+Jawa Barat,Ciamis,Celana Cargo Praktis,Celana,Premium,34000,54400,44200,27200,81,2021-11-13
+Jawa Barat,Tasikmalaya,Blouse Wanita Elegan,Blouse,Premium,154000,246400,200200,123200,53,2021-11-14
+Jawa Barat,Bandung Barat,Tas Clutch Glamor,Tas,Import,143000,228800,185900,114400,23,2021-11-15
+Jawa Barat,Sumedang,Kaos Polo Pria,Kaos Polo,Import,101000,161600,131300,80800,94,2021-11-16
+Jawa Barat,Indramayu,Kemeja Kotak-Kotak,Kemeja,Standard,35000,56000,45500,28000,36,2021-11-17
+Jawa Barat,Indramayu,Topi Beanie Hangat,Topi,Import,68000,108800,88400,54400,33,2021-11-18
+Jawa Barat,Depok,Baju Kebaya Elegan,Baju Kebaya,Import,113000,180800,146900,90400,4,2021-11-19
+Jawa Barat,Ciamis,Kacamata Oversize Stylish,Kacamata,Premium,191000,305600,248300,152800,60,2021-11-20
+Jawa Barat,Cirebon,Dompet Zipper Minimalis,Dompet,Import,116000,185600,150800,92800,63,2021-11-21
+Jawa Barat,Bandung,Celana Legging Nyaman,Celana,Local,67000,107200,87100,53600,63,2021-11-22
+Jawa Barat,Garut,Sepatu Running Ringan,Sepatu,Import,26000,41600,33800,20800,68,2021-11-23
+Jawa Barat,Sumedang,Dompet Zipper Minimalis,Dompet,Import,141000,225600,183300,112800,5,2021-11-24
+Jawa Barat,Majalengka,Blouse Wanita Elegan,Blouse,Standard,30000,48000,39000,24000,54,2021-11-25
+Jawa Barat,Subang,Tas Clutch Glamor,Tas,Local,132000,211200,171600,105600,67,2021-11-26
+Jawa Barat,Depok,Jas Blazer Slim Fit,Jas,Standard,43000,68800,55900,34400,21,2021-11-27
+Jawa Barat,Bandung,Gelang Kulit Asli,Gelang,Local,133000,212800,172900,106400,4,2021-11-28
+Jawa Barat,Cimahi,Gelang Tangan Vintage,Gelang,Standard,82000,131200,106600,65600,43,2021-11-29
+Jawa Barat,Bekasi,Topi Trucker Trendy,Topi,Premium,37000,59200,48100,29600,14,2021-11-30
+Jawa Barat,Banjar,Baju Kebaya Elegan,Baju Kebaya,Premium,33000,52800,42900,26400,61,2021-12-01
+Jawa Barat,Sukabumi,Kaos Polo Pria,Kaos Polo,Premium,94000,150400,122200,75200,81,2021-12-02
+Jawa Barat,Depok,Tas Backpack Casual,Tas,Import,72000,115200,93600,57600,90,2021-12-03
+Jawa Barat,Karawang,Kemeja Flanel Modern,Kemeja,Standard,69000,110400,89700,55200,10,2021-12-04
+Jawa Barat,Cirebon,Sepatu High Heels Glamor,Sepatu,Local,57000,91200,74100,45600,93,2021-12-05
+Jawa Barat,Bandung,Gelang Kulit Asli,Gelang,Local,57000,91200,74100,45600,85,2021-12-06
+Jawa Barat,Cirebon,Gelang Kulit Asli,Gelang,Import,20000,32000,26000,16000,72,2021-12-07
+Jawa Barat,Depok,Jaket Kulit Stylish,Jaket,Premium,143000,228800,185900,114400,16,2021-12-08
+Jawa Barat,Cimahi,Celana Legging Nyaman,Celana,Premium,67000,107200,87100,53600,21,2021-12-09
+Jawa Barat,Bogor,Parfum Woody Aromatic,Parfum,Standard,99000,158400,128700,79200,66,2021-12-10
+Jawa Barat,Cirebon,Sweater Hoodie Sporty,Sweater,Import,113000,180800,146900,90400,16,2021-12-11
+Jawa Barat,Tasikmalaya,Dompet Zipper Minimalis,Dompet,Standard,37000,59200,48100,29600,93,2021-12-12
+Jawa Barat,Bandung Barat,Rok Midi Trendy,Rok,Standard,37000,59200,48100,29600,3,2021-12-13
+Jawa Barat,Bandung,Kacamata Oversize Stylish,Kacamata,Local,110000,176000,143000,88000,58,2021-12-14
+Jawa Barat,Depok,Tas Backpack Casual,Tas,Premium,76000,121600,98800,60800,70,2021-12-15
+Jawa Barat,Bandung,Topi Beanie Hangat,Topi,Local,11000,17600,14300,8800,20,2021-12-16
+Jawa Barat,Subang,Blouse Wanita Elegan,Blouse,Premium,188000,300800,244400,150400,48,2021-12-17
+Jawa Barat,Garut,Dompet Kartu Minimalis,Dompet,Premium,77000,123200,100100,61600,47,2021-12-18
+Jawa Barat,Majalengka,Tas Clutch Glamor,Tas,Premium,31000,49600,40300,24800,88,2021-12-19
+Jawa Barat,Sumedang,Tas Backpack Casual,Tas,Local,54000,86400,70200,43200,11,2021-12-20
+Jawa Barat,Cirebon,Sepatu Loafer Formal,Sepatu,Local,132000,211200,171600,105600,85,2021-12-21
+Jawa Barat,Garut,Pashmina Syar'i Terbaru,Pashmina,Import,105000,168000,136500,84000,50,2021-12-22
+Jawa Barat,Subang,Celana Legging Nyaman,Celana,Import,138000,220800,179400,110400,76,2021-12-23
+Jawa Barat,Sumedang,Kaos Polo Pria,Kaos Polo,Import,27000,43200,35100,21600,42,2021-12-24
+Jawa Barat,Karawang,Kacamata Oversize Stylish,Kacamata,Local,131000,209600,170300,104800,24,2021-12-25
+Jawa Barat,Subang,Kaos Polo Pria,Kaos Polo,Local,86000,137600,111800,68800,4,2021-12-26
+Jawa Barat,Depok,Topi Keren Stylish,Topi,Import,28000,44800,36400,22400,50,2021-12-27
+Jawa Barat,Depok,Rok Midi Trendy,Rok,Import,138000,220800,179400,110400,90,2021-12-28
+Jawa Barat,Kuningan,Gelang Kulit Asli,Gelang,Premium,98000,156800,127400,78400,1,2021-12-29
+Jawa Barat,Kuningan,Dompet Kartu Minimalis,Dompet,Import,137000,219200,178100,109600,47,2021-12-30
+Jawa Barat,Subang,Baju Kebaya Elegan,Baju Kebaya,Premium,179000,286400,232700,143200,79,2021-12-31
+Jawa Barat,Karawang,Tas Backpack Casual,Tas,Local,85000,136000,110500,68000,31,2022-01-01
+Jawa Barat,Bandung,Kalung Liontin Cantik,Kalung,Standard,75000,120000,97500,60000,53,2022-01-02
+Jawa Barat,Garut,Baju Kebaya Elegan,Baju Kebaya,Standard,80000,128000,104000,64000,99,2022-01-03
+Jawa Barat,Banjar,Sweater Hoodie Sporty,Sweater,Import,75000,120000,97500,60000,54,2022-01-04
+Jawa Barat,Purwakarta,Blazer Wanita Modern,Blazer,Premium,138000,220800,179400,110400,8,2022-01-05
+Jawa Barat,Depok,Dompet Zipper Minimalis,Dompet,Local,14000,22400,18200,11200,88,2022-01-06
+Jawa Barat,Bogor,Lipstik Satin Matte,Lipstik,Premium,168000,268800,218400,134400,67,2022-01-07
+Jawa Barat,Purwakarta,Topi Keren Stylish,Topi,Premium,67000,107200,87100,53600,25,2022-01-08
+Jawa Barat,Purwakarta,Tas Clutch Glamor,Tas,Standard,62000,99200,80600,49600,61,2022-01-09
+Jawa Barat,Bandung,Celana Pendek Denim,Celana,Local,61000,97600,79300,48800,91,2022-01-10
+Jawa Barat,Cirebon,Anting Gantung Unik,Anting,Local,56000,89600,72800,44800,53,2022-01-11
+Jawa Barat,Tasikmalaya,Celana Cargo Praktis,Celana,Local,37000,59200,48100,29600,32,2022-01-12
+Jawa Barat,Tasikmalaya,Celana Legging Nyaman,Celana,Standard,53000,84800,68900,42400,17,2022-01-13
+Jawa Barat,Cirebon,Sepatu Loafer Formal,Sepatu,Standard,52000,83200,67600,41600,3,2022-01-14
+Jawa Barat,Tasikmalaya,Tas Sling Bag Trendy,Tas,Premium,115000,184000,149500,92000,12,2022-01-15
+Jawa Barat,Bogor,Tas Sling Bag Trendy,Tas,Local,109000,174400,141700,87200,96,2022-01-16
+Jawa Barat,Garut,Dompet Zipper Minimalis,Dompet,Premium,163000,260800,211900,130400,43,2022-01-17
+Jawa Barat,Depok,Parfum Woody Aromatic,Parfum,Local,75000,120000,97500,60000,19,2022-01-18
+Jawa Barat,Purwakarta,Tas Backpack Casual,Tas,Local,63000,100800,81900,50400,16,2022-01-19
+Jawa Barat,Cimahi,Kacamata Oversize Stylish,Kacamata,Premium,44000,70400,57200,35200,46,2022-01-20
+Jawa Barat,Bekasi,Topi Trucker Trendy,Topi,Premium,158000,252800,205400,126400,67,2022-01-21
+Jawa Barat,Depok,Kemeja Putih Formal,Kemeja,Premium,159000,254400,206700,127200,68,2022-01-22
+Jawa Barat,Cimahi,Sepatu High Heels Glamor,Sepatu,Standard,30000,48000,39000,24000,76,2022-01-23
+Jawa Barat,Bandung Barat,Celana Cargo Praktis,Celana,Local,34000,54400,44200,27200,51,2022-01-24
+Jawa Barat,Depok,Tas Clutch Glamor,Tas,Premium,171000,273600,222300,136800,43,2022-01-25
+Jawa Barat,Sumedang,Pashmina Syar'i Terbaru,Pashmina,Premium,168000,268800,218400,134400,81,2022-01-26
+Jawa Barat,Karawang,Celana Cargo Praktis,Celana,Standard,40000,64000,52000,32000,91,2022-01-27
+Jawa Barat,Depok,Tas Backpack Casual,Tas,Standard,96000,153600,124800,76800,39,2022-01-28
+Jawa Barat,Cirebon,Sepatu Loafer Formal,Sepatu,Premium,37000,59200,48100,29600,60,2022-01-29
+Jawa Barat,Indramayu,Topi Beanie Hangat,Topi,Standard,23000,36800,29900,18400,89,2022-01-30
+Jawa Barat,Bandung Barat,Kalung Liontin Cantik,Kalung,Local,67000,107200,87100,53600,56,2022-01-31
+Jawa Barat,Cirebon,Kacamata Oversize Stylish,Kacamata,Import,113000,180800,146900,90400,44,2022-02-01
+Jawa Barat,Bekasi,Tas Sling Bag Trendy,Tas,Standard,21000,33600,27300,16800,86,2022-02-02
+Jawa Barat,Majalengka,Gelang Kulit Asli,Gelang,Local,142000,227200,184600,113600,25,2022-02-03
+Jawa Barat,Ciamis,Tas Sling Bag Trendy,Tas,Import,16000,25600,20800,12800,11,2022-02-04
+Jawa Barat,Bandung,Blouse Wanita Elegan,Blouse,Premium,97000,155200,126100,77600,9,2022-02-05
+Jawa Barat,Bekasi,Dompet Zipper Minimalis,Dompet,Premium,142000,227200,184600,113600,5,2022-02-06
+Jawa Barat,Depok,Sepatu Loafer Casual,Sepatu,Local,61000,97600,79300,48800,85,2022-02-07
+Jawa Barat,Cimahi,Kalung Liontin Cantik,Kalung,Import,58000,92800,75400,46400,98,2022-02-08
+Jawa Barat,Banjar,Celana Cargo Praktis,Celana,Import,129000,206400,167700,103200,99,2022-02-09
+Jawa Barat,Majalengka,Sweater Hoodie Sporty,Sweater,Import,57000,91200,74100,45600,21,2022-02-10
+Jawa Barat,Tasikmalaya,Gelang Manik-Manik,Gelang,Standard,80000,128000,104000,64000,91,2022-02-11
+Jawa Barat,Tasikmalaya,Topi Beanie Hangat,Topi,Local,57000,91200,74100,45600,34,2022-02-12
+Jawa Barat,Bogor,Perhiasan Emas Murni,Perhiasan,Standard,73000,116800,94900,58400,43,2022-02-13
+Jawa Barat,Karawang,Tas Sling Bag Trendy,Tas,Local,33000,52800,42900,26400,9,2022-02-14
+Jawa Barat,Bogor,Perhiasan Perak Elegan,Perhiasan,Import,17000,27200,22100,13600,55,2022-02-15
+Jawa Barat,Depok,Tas Backpack Casual,Tas,Premium,145000,232000,188500,116000,40,2022-02-16
+Jawa Barat,Garut,Topi Beanie Hangat,Topi,Standard,34000,54400,44200,27200,49,2022-02-17
+Jawa Barat,Depok,Lipstik Glossy Vibrant,Lipstik,Import,72000,115200,93600,57600,19,2022-02-18
+Jawa Barat,Bandung,Celana Legging Nyaman,Celana,Standard,80000,128000,104000,64000,98,2022-02-19
+Jawa Barat,Bekasi,Gelang Tangan Vintage,Gelang,Standard,24000,38400,31200,19200,53,2022-02-20
+Jawa Barat,Garut,Kacamata Oversize Stylish,Kacamata,Premium,187000,299200,243100,149600,34,2022-02-21
+Jawa Barat,Indramayu,Kemeja Batik Klasik,Kemeja,Import,44000,70400,57200,35200,9,2022-02-22
+Jawa Barat,Depok,Sepatu Formal Elegan,Sepatu,Premium,122000,195200,158600,97600,33,2022-02-23
+Jawa Barat,Tasikmalaya,Topi Beanie Hangat,Topi,Import,34000,54400,44200,27200,97,2022-02-24
+Jawa Barat,Bandung Barat,Tas Backpack Casual,Tas,Import,116000,185600,150800,92800,91,2022-02-25
+Jawa Barat,Bekasi,Parfum Pria Maskulin,Parfum,Premium,30000,48000,39000,24000,44,2022-02-26
+Jawa Barat,Majalengka,Tas Backpack Casual,Tas,Local,96000,153600,124800,76800,71,2022-02-27
+Jawa Barat,Cirebon,Topi Snapback,Topi,Local,57000,91200,74100,45600,90,2022-02-28
+Jawa Barat,Cirebon,Blouse Wanita Elegan,Blouse,Standard,24000,38400,31200,19200,66,2022-03-01
+Jawa Barat,Kuningan,Gelang Kulit Asli,Gelang,Import,120000,192000,156000,96000,37,2022-03-02
+Jawa Barat,Depok,Kalung Choker Trendy,Kalung,Premium,112000,179200,145600,89600,9,2022-03-03
+Jawa Barat,Bandung,Sepatu Loafer Formal,Sepatu,Standard,53000,84800,68900,42400,27,2022-03-04
+Jawa Barat,Bogor,Tas Selempang Kulit,Tas,Import,34000,54400,44200,27200,7,2022-03-05
+Jawa Barat,Bekasi,Sweater Rajut Hangat,Sweater,Standard,15000,24000,19500,12000,43,2022-03-06
+Jawa Barat,Subang,Topi Snapback,Topi,Import,113000,180800,146900,90400,96,2022-03-07
+Jawa Barat,Banjar,Parfum Woody Aromatic,Parfum,Standard,24000,38400,31200,19200,46,2022-03-08
+Jawa Barat,Tasikmalaya,Sepatu Running Ringan,Sepatu,Premium,83000,132800,107900,66400,13,2022-03-09
+Jawa Barat,Bekasi,Parfum Floral Fruity,Parfum,Premium,43000,68800,55900,34400,86,2022-03-10
+Jawa Barat,Bogor,Anting Stud Elegant,Anting,Standard,50000,80000,65000,40000,40,2022-03-11
+Jawa Barat,Cirebon,Celana Legging Nyaman,Celana,Premium,120000,192000,156000,96000,60,2022-03-12
+Jawa Barat,Cimahi,Kacamata Oversize Stylish,Kacamata,Premium,58000,92800,75400,46400,18,2022-03-13
+Jawa Barat,Kuningan,Gelang Kulit Asli,Gelang,Standard,10000,16000,13000,8000,9,2022-03-14
+Jawa Barat,Kuningan,Kalung Liontin Cantik,Kalung,Standard,47000,75200,61100,37600,64,2022-03-15
+Jawa Barat,Tasikmalaya,Celana Cargo Praktis,Celana,Premium,124000,198400,161200,99200,91,2022-03-16
+Jawa Barat,Sumedang,Tas Sling Bag Trendy,Tas,Local,43000,68800,55900,34400,57,2022-03-17
+Jawa Barat,Bogor,Gelang Tangan Vintage,Gelang,Local,139000,222400,180700,111200,95,2022-03-18
+Jawa Barat,Banjar,Blouse Wanita Elegan,Blouse,Local,105000,168000,136500,84000,32,2022-03-19
+Jawa Barat,Subang,Blouse Wanita Elegan,Blouse,Premium,102000,163200,132600,81600,18,2022-03-20
+Jawa Barat,Cimahi,Sweater Hoodie Sporty,Sweater,Premium,182000,291200,236600,145600,74,2022-03-21
+Jawa Barat,Bekasi,Jaket Kulit Stylish,Jaket,Premium,192000,307200,249600,153600,82,2022-03-22
+Jawa Barat,Majalengka,Dompet Zipper Minimalis,Dompet,Premium,52000,83200,67600,41600,61,2022-03-23
+Jawa Barat,Bandung,Topi Beanie Hangat,Topi,Import,144000,230400,187200,115200,50,2022-03-24
+Jawa Barat,Purwakarta,Kalung Choker Trendy,Kalung,Import,64000,102400,83200,51200,19,2022-03-25
+Jawa Barat,Karawang,Celana Cargo Praktis,Celana,Local,47000,75200,61100,37600,76,2022-03-26
+Jawa Barat,Majalengka,Celana Jogger Casual,Celana,Standard,96000,153600,124800,76800,84,2022-03-27
+Jawa Barat,Kuningan,Blouse Wanita Elegan,Blouse,Standard,22000,35200,28600,17600,51,2022-03-28
+Jawa Barat,Tasikmalaya,Celana Legging Nyaman,Celana,Standard,91000,145600,118300,72800,48,2022-03-29
+Jawa Barat,Bekasi,Kalung Choker Trendy,Kalung,Premium,183000,292800,237900,146400,93,2022-03-30
+Jawa Barat,Karawang,Parfum Pria Maskulin,Parfum,Import,49000,78400,63700,39200,65,2022-03-31
+Jawa Barat,Subang,Celana Cargo Praktis,Celana,Premium,81000,129600,105300,64800,35,2022-04-01
+Jawa Barat,Ciamis,Sepatu Running Ringan,Sepatu,Local,123000,196800,159900,98400,23,2022-04-02
+Jawa Barat,Cirebon,Pashmina Rajut Stylish,Pashmina,Premium,36000,57600,46800,28800,90,2022-04-03
+Jawa Barat,Ciamis,Sweater Hoodie Sporty,Sweater,Premium,30000,48000,39000,24000,4,2022-04-04
+Jawa Barat,Sukabumi,Baju Kebaya Elegan,Baju Kebaya,Premium,121000,193600,157300,96800,65,2022-04-05
+Jawa Barat,Karawang,Lipstik Velvet Matte,Lipstik,Local,60000,96000,78000,48000,4,2022-04-06
+Jawa Barat,Cirebon,Jaket Kulit Stylish,Jaket,Local,129000,206400,167700,103200,4,2022-04-07
+Jawa Barat,Kuningan,Sweater Rajut Hangat,Sweater,Local,94000,150400,122200,75200,14,2022-04-08
+Jawa Barat,Karawang,Celana Jeans Slim Fit,Celana,Premium,121000,193600,157300,96800,38,2022-04-09
+Jawa Barat,Tasikmalaya,Lipstik Velvet Matte,Lipstik,Premium,86000,137600,111800,68800,58,2022-04-10
+Jawa Barat,Bandung,Sepatu Formal Elegan,Sepatu,Premium,83000,132800,107900,66400,93,2022-04-11
+Jawa Barat,Sukabumi,Pashmina Syar'i Terbaru,Pashmina,Local,148000,236800,192400,118400,7,2022-04-12
+Jawa Barat,Indramayu,Dompet Zipper Minimalis,Dompet,Local,148000,236800,192400,118400,1,2022-04-13
+Jawa Barat,Ciamis,Kemeja Kotak-Kotak,Kemeja,Import,103000,164800,133900,82400,63,2022-04-14
+Jawa Barat,Tasikmalaya,Sepatu Loafer Formal,Sepatu,Standard,34000,54400,44200,27200,29,2022-04-15
+Jawa Barat,Sumedang,Gelang Kulit Asli,Gelang,Standard,59000,94400,76700,47200,93,2022-04-16
+Jawa Barat,Kuningan,Perhiasan Emas Murni,Perhiasan,Import,148000,236800,192400,118400,5,2022-04-17
+Jawa Barat,Purwakarta,Celana Cargo Praktis,Celana,Premium,137000,219200,178100,109600,60,2022-04-18
+Jawa Barat,Bandung Barat,Baju Koko Modern,Baju Koko,Standard,17000,27200,22100,13600,58,2022-04-19
+Jawa Barat,Purwakarta,Sweater Hoodie Sporty,Sweater,Local,127000,203200,165100,101600,2,2022-04-20
+Jawa Barat,Cianjur,Celana Cargo Praktis,Celana,Premium,182000,291200,236600,145600,60,2022-04-21
+Jawa Barat,Indramayu,Blouse Wanita Elegan,Blouse,Premium,108000,172800,140400,86400,67,2022-04-22
+Jawa Barat,Cirebon,Gelang Kulit Asli,Gelang,Premium,78000,124800,101400,62400,97,2022-04-23
+Jawa Barat,Kuningan,Kemeja Flanel Modern,Kemeja,Local,16000,25600,20800,12800,37,2022-04-24
+Jawa Barat,Cirebon,Blouse Wanita Elegan,Blouse,Premium,144000,230400,187200,115200,22,2022-04-25
+Jawa Barat,Purwakarta,Sepatu High Heels Glamor,Sepatu,Standard,21000,33600,27300,16800,100,2022-04-26
+Jawa Barat,Karawang,Dompet Wanita Stylish,Dompet,Local,108000,172800,140400,86400,87,2022-04-27
+Jawa Barat,Depok,Rok Midi Trendy,Rok,Import,112000,179200,145600,89600,72,2022-04-28
+Jawa Barat,Sukabumi,Kaos Polo Pria,Kaos Polo,Local,126000,201600,163800,100800,94,2022-04-29
+Jawa Barat,Bandung Barat,Kaos Polo Pria,Kaos Polo,Premium,50000,80000,65000,40000,52,2022-04-30
+Jawa Barat,Depok,Tas Backpack Casual,Tas,Standard,11000,17600,14300,8800,73,2022-05-01
+Jawa Barat,Karawang,Sepatu Sneakers,Sepatu,Premium,197000,315200,256100,157600,11,2022-05-02
+Jawa Barat,Sumedang,Kaos Polo Pria,Kaos Polo,Standard,68000,108800,88400,54400,17,2022-05-03
+Jawa Barat,Banjar,Kemeja Kotak-Kotak,Kemeja,Premium,78000,124800,101400,62400,38,2022-05-04
+Jawa Barat,Majalengka,Kaos Polo Pria,Kaos Polo,Local,136000,217600,176800,108800,24,2022-05-05
+Jawa Barat,Garut,Lipstik Glossy Vibrant,Lipstik,Standard,84000,134400,109200,67200,40,2022-05-06
+Jawa Barat,Sumedang,Blouse Wanita Elegan,Blouse,Import,116000,185600,150800,92800,94,2022-05-07
+Jawa Barat,Garut,Dompet Kulit Asli,Dompet,Local,107000,171200,139100,85600,68,2022-05-08
+Jawa Barat,Depok,Tas Sling Bag Trendy,Tas,Local,134000,214400,174200,107200,48,2022-05-09
+Jawa Barat,Majalengka,Perhiasan Emas Murni,Perhiasan,Local,118000,188800,153400,94400,25,2022-05-10
+Jawa Barat,Purwakarta,Topi Beanie Hangat,Topi,Premium,41000,65600,53300,32800,17,2022-05-11
+Jawa Barat,Depok,Kemeja Kotak-Kotak,Kemeja,Premium,125000,200000,162500,100000,23,2022-05-12
+Jawa Barat,Cirebon,Kaos Polo Pria,Kaos Polo,Import,126000,201600,163800,100800,22,2022-05-13
+Jawa Barat,Garut,Tas Backpack Casual,Tas,Standard,22000,35200,28600,17600,98,2022-05-14
+Jawa Barat,Ciamis,Celana Cargo Praktis,Celana,Premium,134000,214400,174200,107200,22,2022-05-15
+Jawa Barat,Purwakarta,Dompet Kartu Minimalis,Dompet,Premium,140000,224000,182000,112000,35,2022-05-16
+Jawa Barat,Majalengka,Tas Sling Bag Trendy,Tas,Local,135000,216000,175500,108000,30,2022-05-17
+Jawa Barat,Sukabumi,Gelang Tangan Vintage,Gelang,Local,105000,168000,136500,84000,64,2022-05-18
+Jawa Barat,Tasikmalaya,Lipstik Glossy Vibrant,Lipstik,Import,66000,105600,85800,52800,33,2022-05-19
+Jawa Barat,Cirebon,Parfum Woody Aromatic,Parfum,Premium,122000,195200,158600,97600,50,2022-05-20
+Jawa Barat,Sukabumi,Gelang Manik-Manik,Gelang,Local,55000,88000,71500,44000,80,2022-05-21
+Jawa Barat,Majalengka,Gelang Fashion Trendy,Gelang,Import,126000,201600,163800,100800,18,2022-05-22
+Jawa Barat,Tasikmalaya,Kacamata Retro Vintage,Kacamata,Local,61000,97600,79300,48800,71,2022-05-23
+Jawa Barat,Bekasi,Topi Beanie Hangat,Topi,Import,46000,73600,59800,36800,12,2022-05-24
+Jawa Barat,Kuningan,Celana Chino Slim Fit,Celana,Premium,148000,236800,192400,118400,49,2022-05-25
+Jawa Barat,Karawang,Celana Legging Nyaman,Celana,Premium,42000,67200,54600,33600,23,2022-05-26
+Jawa Barat,Kuningan,Lipstik Velvet Matte,Lipstik,Local,54000,86400,70200,43200,100,2022-05-27
+Jawa Barat,Depok,Rok Midi Trendy,Rok,Standard,53000,84800,68900,42400,69,2022-05-28
+Jawa Barat,Karawang,Gelang Kulit Asli,Gelang,Standard,67000,107200,87100,53600,59,2022-05-29
+Jawa Barat,Cirebon,Sepatu Running Ringan,Sepatu,Standard,78000,124800,101400,62400,99,2022-05-30
+Jawa Barat,Purwakarta,Celana Legging Nyaman,Celana,Standard,22000,35200,28600,17600,97,2022-05-31
+Jawa Barat,Cirebon,Gelang Kulit Asli,Gelang,Import,40000,64000,52000,32000,58,2022-06-01
+Jawa Barat,Purwakarta,Rok Midi Trendy,Rok,Import,21000,33600,27300,16800,48,2022-06-02
+Jawa Barat,Purwakarta,Perhiasan Emas Murni,Perhiasan,Import,46000,73600,59800,36800,74,2022-06-03
+Jawa Barat,Majalengka,Jam Tangan Mewah,Jam Tangan,Standard,34000,54400,44200,27200,56,2022-06-04
+Jawa Barat,Bandung,Kalung Choker Trendy,Kalung,Premium,192000,307200,249600,153600,61,2022-06-05
+Jawa Barat,Bandung,Lipstik Velvet Matte,Lipstik,Import,52000,83200,67600,41600,3,2022-06-06
+Jawa Barat,Cirebon,Kemeja Batik Klasik,Kemeja,Standard,27000,43200,35100,21600,40,2022-06-07
+Jawa Barat,Indramayu,Tas Clutch Glamor,Tas,Import,37000,59200,48100,29600,18,2022-06-08
+Jawa Barat,Majalengka,Sepatu High Heels Glamor,Sepatu,Standard,76000,121600,98800,60800,31,2022-06-09
+Jawa Barat,Sumedang,Celana Legging Nyaman,Celana,Premium,144000,230400,187200,115200,30,2022-06-10
+Jawa Barat,Cirebon,Sepatu Loafer Casual,Sepatu,Import,85000,136000,110500,68000,42,2022-06-11
+Jawa Barat,Subang,Blouse Wanita Elegan,Blouse,Import,23000,36800,29900,18400,11,2022-06-12
+Jawa Barat,Purwakarta,Blouse Wanita Elegan,Blouse,Premium,146000,233600,189800,116800,92,2022-06-13
+Jawa Barat,Garut,Anting Stud Elegant,Anting,Standard,87000,139200,113100,69600,59,2022-06-14
+Jawa Barat,Depok,Anting Emas Cantik,Anting,Premium,92000,147200,119600,73600,82,2022-06-15
+Jawa Barat,Cimahi,Blouse Wanita Elegan,Blouse,Local,112000,179200,145600,89600,52,2022-06-16
+Jawa Barat,Bekasi,Sepatu Loafer Formal,Sepatu,Standard,90000,144000,117000,72000,96,2022-06-17
+Jawa Barat,Tasikmalaya,Tas Backpack Casual,Tas,Local,99000,158400,128700,79200,87,2022-06-18
+Jawa Barat,Majalengka,Baju Kebaya Elegan,Baju Kebaya,Premium,142000,227200,184600,113600,32,2022-06-19
+Jawa Barat,Banjar,Celana Legging Nyaman,Celana,Local,107000,171200,139100,85600,67,2022-06-20
+Jawa Barat,Cirebon,Kacamata Oversize Stylish,Kacamata,Local,55000,88000,71500,44000,46,2022-06-21
+Jawa Barat,Purwakarta,Tas Sling Bag Trendy,Tas,Standard,78000,124800,101400,62400,37,2022-06-22
+Jawa Barat,Bogor,Dompet Zipper Minimalis,Dompet,Local,118000,188800,153400,94400,9,2022-06-23
+Jawa Barat,Tasikmalaya,Celana Legging Nyaman,Celana,Standard,70000,112000,91000,56000,86,2022-06-24
+Jawa Barat,Garut,Perhiasan Emas Murni,Perhiasan,Premium,58000,92800,75400,46400,61,2022-06-25
+Jawa Barat,Bandung Barat,Blouse Wanita Elegan,Blouse,Standard,20000,32000,26000,16000,45,2022-06-26
+Jawa Barat,Ciamis,Kacamata Oversize Stylish,Kacamata,Premium,136000,217600,176800,108800,3,2022-06-27
+Jawa Barat,Bekasi,Kacamata Oversize Stylish,Kacamata,Premium,84000,134400,109200,67200,68,2022-06-28
+Jawa Barat,Kuningan,Sepatu Loafer Formal,Sepatu,Local,123000,196800,159900,98400,44,2022-06-29
+Jawa Barat,Majalengka,Sepatu Loafer Formal,Sepatu,Standard,23000,36800,29900,18400,4,2022-06-30
+Jawa Barat,Indramayu,Parfum Woody Aromatic,Parfum,Import,81000,129600,105300,64800,91,2022-07-01
+Jawa Barat,Kuningan,Kacamata Oversize Stylish,Kacamata,Premium,114000,182400,148200,91200,99,2022-07-02
+Jawa Barat,Purwakarta,Topi Baseball Classic,Topi,Import,95000,152000,123500,76000,69,2022-07-03
+Jawa Barat,Banjar,Sepatu Running Ringan,Sepatu,Standard,28000,44800,36400,22400,5,2022-07-04
+Jawa Barat,Cimahi,Anting Gantung Unik,Anting,Standard,61000,97600,79300,48800,58,2022-07-05
+Jawa Barat,Subang,Blouse Wanita Elegan,Blouse,Premium,102000,163200,132600,81600,4,2022-07-06
+Jawa Barat,Bekasi,Kemeja Batik Klasik,Kemeja,Standard,82000,131200,106600,65600,54,2022-07-07
+Jawa Barat,Banjar,Jam Tangan Mewah,Jam Tangan,Local,106000,169600,137800,84800,24,2022-07-08
+Jawa Barat,Depok,Tas Sling Bag Trendy,Tas,Local,77000,123200,100100,61600,39,2022-07-09
+Jawa Barat,Cimahi,Kalung Liontin Cantik,Kalung,Import,95000,152000,123500,76000,82,2022-07-10
+Jawa Barat,Tasikmalaya,Kalung Choker Trendy,Kalung,Import,36000,57600,46800,28800,57,2022-07-11
+Jawa Barat,Sukabumi,Dompet Zipper Minimalis,Dompet,Standard,20000,32000,26000,16000,57,2022-07-12
+Jawa Barat,Bekasi,Kacamata Hitam Stylish,Kacamata,Premium,139000,222400,180700,111200,87,2022-07-13
+Jawa Barat,Cirebon,Celana Legging Nyaman,Celana,Standard,37000,59200,48100,29600,68,2022-07-14
+Jawa Barat,Sukabumi,Kaos Polo Pria,Kaos Polo,Standard,80000,128000,104000,64000,80,2022-07-15
+Jawa Barat,Sukabumi,Baju Koko Modern,Baju Koko,Premium,151000,241600,196300,120800,64,2022-07-16
+Jawa Barat,Subang,Blouse Wanita Elegan,Blouse,Premium,172000,275200,223600,137600,15,2022-07-17
+Jawa Barat,Garut,Sweater Hoodie Sporty,Sweater,Import,43000,68800,55900,34400,15,2022-07-18
+Jawa Barat,Bogor,Sweater Hoodie Sporty,Sweater,Standard,80000,128000,104000,64000,93,2022-07-19
+Jawa Barat,Depok,Rok Midi Trendy,Rok,Import,33000,52800,42900,26400,75,2022-07-20
+Jawa Barat,Bogor,Parfum Woody Aromatic,Parfum,Standard,70000,112000,91000,56000,11,2022-07-21
+Jawa Barat,Bandung,Topi Beanie Hangat,Topi,Import,140000,224000,182000,112000,87,2022-07-22
+Jawa Barat,Bekasi,Topi Snapback,Topi,Local,54000,86400,70200,43200,83,2022-07-23
+Jawa Barat,Kuningan,Lipstik Velvet Matte,Lipstik,Local,91000,145600,118300,72800,67,2022-07-24
+Jawa Barat,Cirebon,Kemeja Kotak-Kotak,Kemeja,Local,36000,57600,46800,28800,55,2022-07-25
+Jawa Barat,Cianjur,Tas Sling Bag Trendy,Tas,Local,34000,54400,44200,27200,17,2022-07-26
+Jawa Barat,Majalengka,Dompet Kartu Minimalis,Dompet,Local,69000,110400,89700,55200,17,2022-07-27
+Jawa Barat,Sumedang,Perhiasan Perak Elegan,Perhiasan,Standard,17000,27200,22100,13600,80,2022-07-28
+Jawa Barat,Cirebon,Parfum Floral Fruity,Parfum,Premium,65000,104000,84500,52000,24,2022-07-29
+Jawa Barat,Cimahi,Sepatu Loafer Casual,Sepatu,Import,142000,227200,184600,113600,90,2022-07-30
+Jawa Barat,Bandung Barat,Sweater Rajut Hangat,Sweater,Standard,93000,148800,120900,74400,100,2022-07-31
+Jawa Barat,Purwakarta,Sepatu Running Ringan,Sepatu,Import,12000,19200,15600,9600,8,2022-08-01
+Jawa Barat,Bandung Barat,Gelang Tangan Vintage,Gelang,Import,104000,166400,135200,83200,4,2022-08-02
+Jawa Barat,Banjar,Gelang Kulit Asli,Gelang,Local,70000,112000,91000,56000,3,2022-08-03
+Jawa Barat,Depok,Tas Clutch Glamor,Tas,Local,86000,137600,111800,68800,37,2022-08-04
+Jawa Barat,Subang,Gelang Kulit Asli,Gelang,Local,50000,80000,65000,40000,11,2022-08-05
+Jawa Barat,Cianjur,Sepatu Running Ringan,Sepatu,Standard,37000,59200,48100,29600,87,2022-08-06
+Jawa Barat,Cianjur,Sweater Hoodie Sporty,Sweater,Premium,180000,288000,234000,144000,65,2022-08-07
+Jawa Barat,Banjar,Rok Midi Trendy,Rok,Standard,46000,73600,59800,36800,65,2022-08-08
+Jawa Barat,Indramayu,Topi Beanie Hangat,Topi,Standard,20000,32000,26000,16000,44,2022-08-09
+Jawa Barat,Garut,Kalung Liontin Cantik,Kalung,Local,17000,27200,22100,13600,78,2022-08-10
+Jawa Barat,Depok,Dompet Wanita Stylish,Dompet,Import,47000,75200,61100,37600,13,2022-08-11
+Jawa Barat,Depok,Topi Keren Stylish,Topi,Premium,162000,259200,210600,129600,80,2022-08-12
+Jawa Barat,Cirebon,Kacamata Oversize Stylish,Kacamata,Premium,152000,243200,197600,121600,34,2022-08-13
+Jawa Barat,Depok,Rok Midi Trendy,Rok,Import,32000,51200,41600,25600,24,2022-08-14
+Jawa Barat,Sukabumi,Celana Panjang Casual,Celana,Premium,77000,123200,100100,61600,27,2022-08-15
+Jawa Barat,Indramayu,Kemeja Kotak-Kotak,Kemeja,Import,131000,209600,170300,104800,54,2022-08-16
+Jawa Barat,Karawang,Gelang Kulit Asli,Gelang,Local,16000,25600,20800,12800,55,2022-08-17
+Jawa Barat,Karawang,Kalung Liontin Cantik,Kalung,Local,145000,232000,188500,116000,48,2022-08-18
+Jawa Barat,Cirebon,Parfum Woody Aromatic,Parfum,Import,50000,80000,65000,40000,58,2022-08-19
+Jawa Barat,Bogor,Topi Beanie Hangat,Topi,Local,35000,56000,45500,28000,21,2022-08-20
+Jawa Barat,Subang,Sepatu Running Ringan,Sepatu,Local,38000,60800,49400,30400,90,2022-08-21
+Jawa Barat,Bekasi,Kaos Polo Pria,Kaos Polo,Import,24000,38400,31200,19200,38,2022-08-22
+Jawa Barat,Cimahi,Celana Cargo Praktis,Celana,Standard,91000,145600,118300,72800,9,2022-08-23
+Jawa Barat,Sukabumi,Celana Cargo Praktis,Celana,Local,56000,89600,72800,44800,34,2022-08-24
+Jawa Barat,Depok,Celana Legging Nyaman,Celana,Import,149000,238400,193700,119200,99,2022-08-25
+Jawa Barat,Indramayu,Pashmina Rajut Stylish,Pashmina,Local,107000,171200,139100,85600,12,2022-08-26
+Jawa Barat,Cimahi,Celana Legging Nyaman,Celana,Premium,99000,158400,128700,79200,47,2022-08-27
+Jawa Barat,Depok,Blouse Wanita Elegan,Blouse,Premium,84000,134400,109200,67200,25,2022-08-28
+Jawa Barat,Cirebon,Baju Kebaya Elegan,Baju Kebaya,Import,106000,169600,137800,84800,91,2022-08-29
+Jawa Barat,Bekasi,Kaos Sablon Casual,Kaos,Local,67000,107200,87100,53600,81,2022-08-30
+Jawa Barat,Sumedang,Tas Sling Bag Trendy,Tas,Import,65000,104000,84500,52000,100,2022-08-31
+Jawa Barat,Cirebon,Sepatu Loafer Casual,Sepatu,Premium,155000,248000,201500,124000,29,2022-09-01
+Jawa Barat,Garut,Gelang Kulit Asli,Gelang,Local,29000,46400,37700,23200,9,2022-09-02
+Jawa Barat,Purwakarta,Tas Clutch Glamor,Tas,Local,50000,80000,65000,40000,37,2022-09-03
+Jawa Barat,Bandung,Jas Pria Slim Fit,Jas,Premium,55000,88000,71500,44000,55,2022-09-04
+Jawa Barat,Banjar,Celana Jogger Casual,Celana,Local,134000,214400,174200,107200,96,2022-09-05
+Jawa Barat,Bekasi,Gelang Kulit Asli,Gelang,Standard,49000,78400,63700,39200,97,2022-09-06
+Jawa Barat,Kuningan,Parfum Wangi Floral,Parfum,Premium,90000,144000,117000,72000,89,2022-09-07
+Jawa Barat,Banjar,Gelang Kulit Asli,Gelang,Standard,86000,137600,111800,68800,84,2022-09-08
+Jawa Barat,Depok,Sweater Hoodie Sporty,Sweater,Local,130000,208000,169000,104000,22,2022-09-09
+Jawa Barat,Sukabumi,Celana Cargo Praktis,Celana,Standard,25000,40000,32500,20000,10,2022-09-10
+Jawa Barat,Depok,Parfum Woody Aromatic,Parfum,Premium,134000,214400,174200,107200,92,2022-09-11
+Jawa Barat,Banjar,Perhiasan Perak Elegan,Perhiasan,Standard,57000,91200,74100,45600,53,2022-09-12
+Jawa Barat,Cianjur,Celana Jeans Slim Fit,Celana,Import,139000,222400,180700,111200,2,2022-09-13
+Jawa Barat,Majalengka,Gelang Fashion Trendy,Gelang,Import,62000,99200,80600,49600,92,2022-09-14
+Jawa Barat,Indramayu,Celana Cargo Praktis,Celana,Standard,65000,104000,84500,52000,56,2022-09-15
+Jawa Barat,Bandung,Gelang Kulit Asli,Gelang,Standard,74000,118400,96200,59200,86,2022-09-16
+Jawa Barat,Sumedang,Kacamata Oversize Stylish,Kacamata,Premium,141000,225600,183300,112800,14,2022-09-17
+Jawa Barat,Cianjur,Gelang Kulit Asli,Gelang,Standard,85000,136000,110500,68000,6,2022-09-18
+Jawa Barat,Subang,Tas Pesta Glamor,Tas,Premium,175000,280000,227500,140000,57,2022-09-19
+Jawa Barat,Garut,Sepatu Loafer Formal,Sepatu,Local,71000,113600,92300,56800,9,2022-09-20
+Jawa Barat,Bekasi,Celana Legging Nyaman,Celana,Import,49000,78400,63700,39200,93,2022-09-21
+Jawa Barat,Purwakarta,Gelang Kulit Asli,Gelang,Premium,153000,244800,198900,122400,19,2022-09-22
+Jawa Barat,Bekasi,Sepatu Loafer Formal,Sepatu,Local,49000,78400,63700,39200,89,2022-09-23
+Jawa Barat,Sumedang,Kacamata Oversize Stylish,Kacamata,Import,19000,30400,24700,15200,15,2022-09-24
+Jawa Barat,Kuningan,Dompet Zipper Minimalis,Dompet,Premium,87000,139200,113100,69600,60,2022-09-25
+Jawa Barat,Cianjur,Kemeja Kotak-Kotak,Kemeja,Local,12000,19200,15600,9600,39,2022-09-26
+Jawa Barat,Cimahi,Topi Fedora Elegan,Topi,Premium,74000,118400,96200,59200,47,2022-09-27
+Jawa Barat,Ciamis,Gelang Tangan Vintage,Gelang,Local,18000,28800,23400,14400,57,2022-09-28
+Jawa Barat,Cirebon,Kalung Liontin Cantik,Kalung,Standard,34000,54400,44200,27200,60,2022-09-29
+Jawa Barat,Cimahi,Tas Backpack Casual,Tas,Standard,39000,62400,50700,31200,93,2022-09-30
+Jawa Barat,Bandung,Jaket Kulit Stylish,Jaket,Standard,15000,24000,19500,12000,19,2022-10-01
+Jawa Barat,Bekasi,Kemeja Kotak-Kotak,Kemeja,Import,116000,185600,150800,92800,59,2022-10-02
+Jawa Barat,Depok,Kacamata Hitam Stylish,Kacamata,Import,23000,36800,29900,18400,41,2022-10-03
+Jawa Barat,Karawang,Perhiasan Perak Elegan,Perhiasan,Standard,69000,110400,89700,55200,43,2022-10-04
+Jawa Barat,Depok,Topi Snapback,Topi,Import,85000,136000,110500,68000,87,2022-10-05
+Jawa Barat,Sukabumi,Sweater Hoodie Sporty,Sweater,Standard,32000,51200,41600,25600,66,2022-10-06
+Jawa Barat,Sukabumi,Parfum Woody Aromatic,Parfum,Import,122000,195200,158600,97600,49,2022-10-07
+Jawa Barat,Cianjur,Rok Midi Trendy,Rok,Standard,30000,48000,39000,24000,4,2022-10-08
+Jawa Barat,Sumedang,Lipstik Velvet Matte,Lipstik,Import,77000,123200,100100,61600,82,2022-10-09
+Jawa Barat,Bandung Barat,Kacamata Oversize Stylish,Kacamata,Local,115000,184000,149500,92000,64,2022-10-10
+Jawa Barat,Sukabumi,Sepatu Loafer Formal,Sepatu,Standard,23000,36800,29900,18400,56,2022-10-11
+Jawa Barat,Cimahi,Tas Backpack Casual,Tas,Local,71000,113600,92300,56800,67,2022-10-12
+Jawa Barat,Depok,Sweater Hoodie Sporty,Sweater,Import,92000,147200,119600,73600,100,2022-10-13
+Jawa Barat,Bandung,Sepatu High Heels Glamor,Sepatu,Premium,170000,272000,221000,136000,80,2022-10-14
+Jawa Barat,Ciamis,Blouse Wanita Elegan,Blouse,Local,62000,99200,80600,49600,23,2022-10-15
+Jawa Barat,Majalengka,Pashmina Syar'i Terbaru,Pashmina,Local,112000,179200,145600,89600,19,2022-10-16
+Jawa Barat,Bandung,Kalung Liontin Cantik,Kalung,Import,47000,75200,61100,37600,63,2022-10-17
+Jawa Barat,Cimahi,Celana Pendek Denim,Celana,Local,12000,19200,15600,9600,55,2022-10-18
+Jawa Barat,Bandung,Lipstik Velvet Matte,Lipstik,Local,58000,92800,75400,46400,73,2022-10-19
+Jawa Barat,Bekasi,Lipstik Glossy Vibrant,Lipstik,Premium,113000,180800,146900,90400,37,2022-10-20
+Jawa Barat,Majalengka,Kacamata Oversize Stylish,Kacamata,Local,68000,108800,88400,54400,7,2022-10-21
+Jawa Barat,Banjar,Gelang Kulit Asli,Gelang,Standard,96000,153600,124800,76800,72,2022-10-22
+Jawa Barat,Ciamis,Perhiasan Emas Murni,Perhiasan,Premium,50000,80000,65000,40000,64,2022-10-23
+Jawa Barat,Purwakarta,Gelang Tangan Vintage,Gelang,Standard,65000,104000,84500,52000,24,2022-10-24
+Jawa Barat,Sumedang,Baju Kebaya Elegan,Baju Kebaya,Standard,41000,65600,53300,32800,98,2022-10-25
+Jawa Barat,Bekasi,Sweater Rajut Hangat,Sweater,Import,128000,204800,166400,102400,65,2022-10-26
+Jawa Barat,Ciamis,Kemeja Kotak-Kotak,Kemeja,Local,63000,100800,81900,50400,42,2022-10-27
+Jawa Barat,Tasikmalaya,Sepatu Running Ringan,Sepatu,Premium,184000,294400,239200,147200,52,2022-10-28
+Jawa Barat,Banjar,Celana Cargo Praktis,Celana,Premium,108000,172800,140400,86400,23,2022-10-29
+Jawa Barat,Cirebon,Rok Midi Trendy,Rok,Import,118000,188800,153400,94400,97,2022-10-30
+Jawa Barat,Sukabumi,Lipstik Glossy Vibrant,Lipstik,Premium,65000,104000,84500,52000,1,2022-10-31
+Jawa Barat,Kuningan,Kalung Mutiara Mewah,Kalung,Import,78000,124800,101400,62400,63,2022-11-01
+Jawa Barat,Cimahi,Celana Jeans Slim Fit,Celana,Import,17000,27200,22100,13600,91,2022-11-02
+Jawa Barat,Cirebon,Celana Legging Nyaman,Celana,Import,115000,184000,149500,92000,60,2022-11-03
+Jawa Barat,Bandung,Gelang Berlian Mewah,Gelang,Local,34000,54400,44200,27200,68,2022-11-04
+Jawa Barat,Ciamis,Rok Mini Trendy,Rok,Local,68000,108800,88400,54400,69,2022-11-05
+Jawa Barat,Ciamis,Kalung Liontin Cantik,Kalung,Standard,82000,131200,106600,65600,68,2022-11-06
+Jawa Barat,Ciamis,Kemeja Kotak-Kotak,Kemeja,Premium,48000,76800,62400,38400,29,2022-11-07
+Jawa Barat,Tasikmalaya,Lipstik Velvet Matte,Lipstik,Import,53000,84800,68900,42400,29,2022-11-08
+Jawa Barat,Sukabumi,Kacamata Oversize Stylish,Kacamata,Local,120000,192000,156000,96000,45,2022-11-09
+Jawa Barat,Karawang,Celana Panjang Casual,Celana,Import,107000,171200,139100,85600,31,2022-11-10
+Jawa Barat,Banjar,Blouse Wanita Elegan,Blouse,Import,103000,164800,133900,82400,96,2022-11-11
+Jawa Barat,Karawang,Kaos Polos Basic,Kaos,Import,34000,54400,44200,27200,86,2022-11-12
+Jawa Barat,Garut,Sweater Hoodie Sporty,Sweater,Import,17000,27200,22100,13600,43,2022-11-13
+Jawa Barat,Sukabumi,Tas Sling Bag Trendy,Tas,Local,23000,36800,29900,18400,67,2022-11-14
+Jawa Barat,Bogor,Rok Midi Trendy,Rok,Local,75000,120000,97500,60000,83,2022-11-15
+Jawa Barat,Bekasi,Kalung Liontin Cantik,Kalung,Premium,198000,316800,257400,158400,72,2022-11-16
+Jawa Barat,Indramayu,Sweater Hoodie Sporty,Sweater,Local,122000,195200,158600,97600,94,2022-11-17
+Jawa Barat,Garut,Kalung Liontin Cantik,Kalung,Local,16000,25600,20800,12800,19,2022-11-18
+Jawa Barat,Ciamis,Sweater Hoodie Sporty,Sweater,Local,19000,30400,24700,15200,28,2022-11-19
+Jawa Barat,Tasikmalaya,Parfum Woody Aromatic,Parfum,Import,57000,91200,74100,45600,58,2022-11-20
+Jawa Barat,Kuningan,Kaos Polo Pria,Kaos Polo,Local,41000,65600,53300,32800,41,2022-11-21
+Jawa Barat,Majalengka,Gelang Kulit Asli,Gelang,Premium,44000,70400,57200,35200,21,2022-11-22
+Jawa Barat,Bandung,Parfum Woody Aromatic,Parfum,Local,107000,171200,139100,85600,60,2022-11-23
+Jawa Barat,Bandung Barat,Topi Beanie Hangat,Topi,Standard,85000,136000,110500,68000,24,2022-11-24
+Jawa Barat,Depok,Sweater Rajut Hangat,Sweater,Standard,99000,158400,128700,79200,11,2022-11-25
+Jawa Barat,Ciamis,Dompet Zipper Minimalis,Dompet,Local,96000,153600,124800,76800,47,2022-11-26
+Jawa Barat,Tasikmalaya,Tas Clutch Glamor,Tas,Premium,88000,140800,114400,70400,97,2022-11-27
+Jawa Barat,Karawang,Topi Beanie Hangat,Topi,Import,58000,92800,75400,46400,91,2022-11-28
+Jawa Barat,Bandung,Sepatu Sneakers,Sepatu,Local,46000,73600,59800,36800,91,2022-11-29
+Jawa Barat,Bekasi,Anting Gantung Unik,Anting,Standard,91000,145600,118300,72800,74,2022-11-30
+Jawa Barat,Bekasi,Sepatu Loafer Formal,Sepatu,Standard,81000,129600,105300,64800,90,2022-12-01
+Jawa Barat,Purwakarta,Baju Kebaya Elegan,Baju Kebaya,Standard,46000,73600,59800,36800,92,2022-12-02
+Jawa Barat,Bandung,Sepatu Running Ringan,Sepatu,Premium,182000,291200,236600,145600,81,2022-12-03
+Jawa Barat,Bogor,Gelang Tangan Vintage,Gelang,Local,61000,97600,79300,48800,5,2022-12-04
+Jawa Barat,Purwakarta,Baju Koko Modern,Baju Koko,Premium,41000,65600,53300,32800,9,2022-12-05
+Jawa Barat,Bandung,Gelang Tangan Vintage,Gelang,Standard,17000,27200,22100,13600,83,2022-12-06
+Jawa Barat,Majalengka,Tas Sling Bag Trendy,Tas,Standard,93000,148800,120900,74400,84,2022-12-07
+Jawa Barat,Purwakarta,Kacamata Oversize Stylish,Kacamata,Standard,66000,105600,85800,52800,85,2022-12-08
+Jawa Barat,Banjar,Baju Kebaya Elegan,Baju Kebaya,Import,66000,105600,85800,52800,34,2022-12-09
+Jawa Barat,Kuningan,Baju Kebaya Elegan,Baju Kebaya,Local,23000,36800,29900,18400,35,2022-12-10
+Jawa Barat,Cirebon,Celana Legging Nyaman,Celana,Local,138000,220800,179400,110400,28,2022-12-11
+Jawa Barat,Depok,Rok Midi Trendy,Rok,Premium,79000,126400,102700,63200,52,2022-12-12
+Jawa Barat,Karawang,Kemeja Putih Formal,Kemeja,Import,116000,185600,150800,92800,100,2022-12-13
+Jawa Barat,Kuningan,Rok Midi Trendy,Rok,Local,111000,177600,144300,88800,17,2022-12-14
+Jawa Barat,Garut,Sepatu Running Ringan,Sepatu,Standard,87000,139200,113100,69600,87,2022-12-15
+Jawa Barat,Garut,Tas Selempang Kulit,Tas,Premium,60000,96000,78000,48000,90,2022-12-16
+Jawa Barat,Garut,Gelang Tangan Vintage,Gelang,Standard,78000,124800,101400,62400,71,2022-12-17
+Jawa Barat,Kuningan,Celana Legging Nyaman,Celana,Local,65000,104000,84500,52000,95,2022-12-18
+Jawa Barat,Bogor,Rok Midi Trendy,Rok,Import,114000,182400,148200,91200,64,2022-12-19
+Jawa Barat,Bekasi,Sepatu Running Ringan,Sepatu,Import,67000,107200,87100,53600,93,2022-12-20
+Jawa Barat,Bekasi,Rok Midi Trendy,Rok,Local,12000,19200,15600,9600,69,2022-12-21
+Jawa Barat,Bogor,Tas Tote Bag Stylish,Tas,Import,138000,220800,179400,110400,46,2022-12-22
+Jawa Barat,Karawang,Baju Kebaya Elegan,Baju Kebaya,Import,105000,168000,136500,84000,5,2022-12-23
+Jawa Barat,Karawang,Sepatu Formal Elegan,Sepatu,Import,140000,224000,182000,112000,76,2022-12-24
+Jawa Barat,Tasikmalaya,Kaos Polo Pria,Kaos Polo,Premium,57000,91200,74100,45600,61,2022-12-25
+Jawa Barat,Kuningan,Lipstik Velvet Matte,Lipstik,Import,77000,123200,100100,61600,83,2022-12-26
+Jawa Barat,Bekasi,Jam Dinding Klasik Vintage,Jam Dinding,Import,14000,22400,18200,11200,40,2022-12-27
+Jawa Barat,Cianjur,Gelang Kulit Asli,Gelang,Local,138000,220800,179400,110400,37,2022-12-28
+Jawa Barat,Subang,Sepatu Loafer Formal,Sepatu,Standard,67000,107200,87100,53600,77,2022-12-29
+Jawa Barat,Bekasi,Baju Renang Sporty,Baju Renang,Local,146000,233600,189800,116800,63,2022-12-30
+Jawa Barat,Kuningan,Celana Cargo Praktis,Celana,Local,109000,174400,141700,87200,50,2022-12-31
+Jawa Barat,Bogor,Sepatu High Heels Glamor,Sepatu,Standard,15000,24000,19500,12000,1,2023-01-01
+Jawa Barat,Garut,Blouse Wanita Elegan,Blouse,Premium,94000,150400,122200,75200,99,2023-01-02
+Jawa Barat,Purwakarta,Kemeja Kotak-Kotak,Kemeja,Local,99000,158400,128700,79200,10,2023-01-03
+Jawa Barat,Bandung Barat,Baju Kebaya Elegan,Baju Kebaya,Premium,182000,291200,236600,145600,79,2023-01-04
+Jawa Barat,Karawang,Blazer Wanita Modern,Blazer,Premium,84000,134400,109200,67200,64,2023-01-05
+Jawa Barat,Cirebon,Celana Legging Nyaman,Celana,Standard,47000,75200,61100,37600,48,2023-01-06
+Jawa Barat,Bandung Barat,Kalung Liontin Cantik,Kalung,Standard,58000,92800,75400,46400,76,2023-01-07
+Jawa Barat,Cirebon,Jaket Kulit Stylish,Jaket,Standard,79000,126400,102700,63200,29,2023-01-08
+Jawa Barat,Bogor,Blazer Wanita Modern,Blazer,Standard,93000,148800,120900,74400,72,2023-01-09
+Jawa Barat,Bekasi,Dompet Zipper Minimalis,Dompet,Standard,63000,100800,81900,50400,99,2023-01-10
+Jawa Barat,Cirebon,Parfum Wangi Floral,Parfum,Import,134000,214400,174200,107200,33,2023-01-11
+Jawa Barat,Sukabumi,Kacamata Oversize Stylish,Kacamata,Standard,56000,89600,72800,44800,72,2023-01-12
+Jawa Barat,Ciamis,Kalung Choker Trendy,Kalung,Premium,90000,144000,117000,72000,79,2023-01-13
+Jawa Barat,Sukabumi,Lipstik Velvet Matte,Lipstik,Premium,58000,92800,75400,46400,65,2023-01-14
+Jawa Barat,Karawang,Pashmina Syar'i Terbaru,Pashmina,Import,95000,152000,123500,76000,24,2023-01-15
+Jawa Barat,Bogor,Rok Midi Trendy,Rok,Premium,138000,220800,179400,110400,59,2023-01-16
+Jawa Barat,Cianjur,Kaos Polo Pria,Kaos Polo,Premium,86000,137600,111800,68800,42,2023-01-17
+Jawa Barat,Karawang,Sepatu Running Ringan,Sepatu,Standard,10000,16000,13000,8000,82,2023-01-18
+Jawa Barat,Tasikmalaya,Kaos Polo Pria,Kaos Polo,Premium,171000,273600,222300,136800,25,2023-01-19
+Jawa Barat,Cirebon,Topi Beanie Hangat,Topi,Local,39000,62400,50700,31200,72,2023-01-20
+Jawa Barat,Depok,Tas Sling Bag Trendy,Tas,Standard,54000,86400,70200,43200,64,2023-01-21
+Jawa Barat,Bandung,Baju Kebaya Elegan,Baju Kebaya,Standard,26000,41600,33800,20800,57,2023-01-22
+Jawa Barat,Cirebon,Rok Midi Trendy,Rok,Premium,63000,100800,81900,50400,100,2023-01-23
+Jawa Barat,Majalengka,Perhiasan Emas Murni,Perhiasan,Import,110000,176000,143000,88000,10,2023-01-24
+Jawa Barat,Subang,Parfum Woody Aromatic,Parfum,Import,48000,76800,62400,38400,3,2023-01-25
+Jawa Barat,Sukabumi,Tas Clutch Glamor,Tas,Import,24000,38400,31200,19200,2,2023-01-26
+Jawa Barat,Karawang,Anting Stud Elegant,Anting,Standard,13000,20800,16900,10400,31,2023-01-27
+Jawa Barat,Banjar,Sepatu High Heels Glamor,Sepatu,Premium,122000,195200,158600,97600,63,2023-01-28
+Jawa Barat,Depok,Kaos Polos Basic,Kaos,Local,93000,148800,120900,74400,51,2023-01-29
+Jawa Barat,Indramayu,Anting Emas Cantik,Anting,Local,63000,100800,81900,50400,61,2023-01-30
+Jawa Barat,Cimahi,Topi Snapback,Topi,Import,33000,52800,42900,26400,97,2023-01-31
+Jawa Barat,Cirebon,Baju Kebaya Elegan,Baju Kebaya,Premium,178000,284800,231400,142400,91,2023-02-01
+Jawa Barat,Indramayu,Celana Cargo Praktis,Celana,Import,57000,91200,74100,45600,100,2023-02-02
+Jawa Barat,Purwakarta,Perhiasan Perak Elegan,Perhiasan,Local,55000,88000,71500,44000,7,2023-02-03
+Jawa Barat,Kuningan,Jaket Kulit Stylish,Jaket,Local,79000,126400,102700,63200,84,2023-02-04
+Jawa Barat,Bandung Barat,Topi Beanie Hangat,Topi,Local,23000,36800,29900,18400,30,2023-02-05
+Jawa Barat,Indramayu,Sweater Hoodie Sporty,Sweater,Premium,112000,179200,145600,89600,76,2023-02-06
+Jawa Barat,Cirebon,Tas Selempang Kulit,Tas,Premium,109000,174400,141700,87200,71,2023-02-07
+Jawa Barat,Indramayu,Topi Beanie Hangat,Topi,Local,138000,220800,179400,110400,35,2023-02-08
+Jawa Barat,Garut,Kaos Polo Pria,Kaos Polo,Standard,31000,49600,40300,24800,98,2023-02-09
+Jawa Barat,Cimahi,Dompet Lipat Stylish,Dompet,Standard,23000,36800,29900,18400,73,2023-02-10
+Jawa Barat,Ciamis,Kemeja Kotak-Kotak,Kemeja,Standard,50000,80000,65000,40000,60,2023-02-11
+Jawa Barat,Sukabumi,Parfum Woody Aromatic,Parfum,Premium,61000,97600,79300,48800,49,2023-02-12
+Jawa Barat,Sumedang,Sepatu Running Ringan,Sepatu,Premium,41000,65600,53300,32800,66,2023-02-13
+Jawa Barat,Cimahi,Baju Kebaya Elegan,Baju Kebaya,Premium,53000,84800,68900,42400,26,2023-02-14
+Jawa Barat,Sukabumi,Baju Koko Modern,Baju Koko,Local,56000,89600,72800,44800,85,2023-02-15
+Jawa Barat,Cimahi,Sepatu Loafer Formal,Sepatu,Premium,94000,150400,122200,75200,3,2023-02-16
+Jawa Barat,Tasikmalaya,Gelang Kulit Asli,Gelang,Local,13000,20800,16900,10400,44,2023-02-17
+Jawa Barat,Depok,Kaos Polo Pria,Kaos Polo,Local,139000,222400,180700,111200,52,2023-02-18
+Jawa Barat,Bogor,Sepatu Running Ringan,Sepatu,Local,112000,179200,145600,89600,57,2023-02-19
+Jawa Barat,Purwakarta,Sepatu Loafer Formal,Sepatu,Import,87000,139200,113100,69600,61,2023-02-20
+Jawa Barat,Depok,Parfum Woody Aromatic,Parfum,Import,137000,219200,178100,109600,49,2023-02-21
+Jawa Barat,Sukabumi,Pashmina Syar'i Terbaru,Pashmina,Premium,53000,84800,68900,42400,33,2023-02-22
+Jawa Barat,Indramayu,Blouse Wanita Elegan,Blouse,Local,22000,35200,28600,17600,47,2023-02-23
+Jawa Barat,Sumedang,Perhiasan Emas Murni,Perhiasan,Local,14000,22400,18200,11200,19,2023-02-24
+Jawa Barat,Bogor,Celana Pendek Denim,Celana,Local,67000,107200,87100,53600,52,2023-02-25
+Jawa Barat,Majalengka,Kaos Sablon Casual,Kaos,Premium,159000,254400,206700,127200,47,2023-02-26
+Jawa Barat,Kuningan,Tas Clutch Glamor,Tas,Import,83000,132800,107900,66400,30,2023-02-27
+Jawa Barat,Bekasi,Rok Midi Trendy,Rok,Premium,136000,217600,176800,108800,78,2023-02-28
+Jawa Barat,Sukabumi,Lipstik Velvet Matte,Lipstik,Local,131000,209600,170300,104800,17,2023-03-01
+Jawa Barat,Ciamis,Topi Keren Stylish,Topi,Premium,106000,169600,137800,84800,23,2023-03-02
+Jawa Barat,Bandung Barat,Blouse Wanita Elegan,Blouse,Premium,99000,158400,128700,79200,62,2023-03-03
+Jawa Barat,Bekasi,Gelang Kulit Asli,Gelang,Local,12000,19200,15600,9600,3,2023-03-04
+Jawa Barat,Tasikmalaya,Sepatu Running Ringan,Sepatu,Import,97000,155200,126100,77600,5,2023-03-05
+Jawa Barat,Sukabumi,Sweater Hoodie Sporty,Sweater,Import,128000,204800,166400,102400,51,2023-03-06
+Jawa Barat,Cirebon,Dompet Kartu Minimalis,Dompet,Premium,37000,59200,48100,29600,61,2023-03-07
+Jawa Barat,Sukabumi,Dompet Wanita Stylish,Dompet,Premium,125000,200000,162500,100000,85,2023-03-08
+Jawa Barat,Sumedang,Kemeja Kotak-Kotak,Kemeja,Standard,24000,38400,31200,19200,67,2023-03-09
+Jawa Barat,Depok,Sepatu Running Ringan,Sepatu,Standard,43000,68800,55900,34400,54,2023-03-10
+Jawa Barat,Bogor,Topi Trucker Trendy,Topi,Import,111000,177600,144300,88800,47,2023-03-11
+Jawa Barat,Cimahi,Sepatu Running Ringan,Sepatu,Import,128000,204800,166400,102400,45,2023-03-12
+Jawa Barat,Karawang,Lipstik Velvet Matte,Lipstik,Import,148000,236800,192400,118400,45,2023-03-13
+Jawa Barat,Majalengka,Kacamata Oversize Stylish,Kacamata,Premium,75000,120000,97500,60000,87,2023-03-14
+Jawa Barat,Bogor,Topi Trucker Trendy,Topi,Local,131000,209600,170300,104800,27,2023-03-15
+Jawa Barat,Cirebon,Dompet Zipper Minimalis,Dompet,Import,21000,33600,27300,16800,93,2023-03-16
+Jawa Barat,Garut,Gelang Manik-Manik,Gelang,Standard,83000,132800,107900,66400,25,2023-03-17
+Jawa Barat,Sumedang,Gelang Kulit Asli,Gelang,Import,118000,188800,153400,94400,68,2023-03-18
+Jawa Barat,Majalengka,Kaos Polo Pria,Kaos Polo,Premium,197000,315200,256100,157600,12,2023-03-19
+Jawa Barat,Bekasi,Tas Sling Bag Trendy,Tas,Premium,59000,94400,76700,47200,99,2023-03-20
+Jawa Barat,Sukabumi,Gelang Kulit Asli,Gelang,Import,37000,59200,48100,29600,1,2023-03-21
+Jawa Barat,Sukabumi,Dompet Lipat Stylish,Dompet,Import,71000,113600,92300,56800,99,2023-03-22
+Jawa Barat,Cimahi,Blouse Wanita Elegan,Blouse,Premium,33000,52800,42900,26400,97,2023-03-23
+Jawa Barat,Cirebon,Rok Midi Trendy,Rok,Standard,53000,84800,68900,42400,84,2023-03-24
+Jawa Barat,Sumedang,Pashmina Syar'i Terbaru,Pashmina,Import,27000,43200,35100,21600,36,2023-03-25
+Jawa Barat,Cirebon,Celana Cargo Praktis,Celana,Import,56000,89600,72800,44800,80,2023-03-26
+Jawa Barat,Majalengka,Celana Cargo Praktis,Celana,Local,88000,140800,114400,70400,34,2023-03-27
+Jawa Barat,Tasikmalaya,Kacamata Oversize Stylish,Kacamata,Premium,137000,219200,178100,109600,43,2023-03-28
+Jawa Barat,Majalengka,Blouse Wanita Elegan,Blouse,Local,39000,62400,50700,31200,30,2023-03-29
+Jawa Barat,Garut,Parfum Pria Maskulin,Parfum,Standard,70000,112000,91000,56000,43,2023-03-30
+Jawa Barat,Bogor,Celana Legging Nyaman,Celana,Local,73000,116800,94900,58400,48,2023-03-31
+Jawa Barat,Ciamis,Anting Emas Cantik,Anting,Premium,116000,185600,150800,92800,19,2023-04-01
+Jawa Barat,Purwakarta,Kacamata Oversize Stylish,Kacamata,Premium,90000,144000,117000,72000,87,2023-04-02
+Jawa Barat,Depok,Perhiasan Emas Murni,Perhiasan,Premium,61000,97600,79300,48800,17,2023-04-03
+Jawa Barat,Cirebon,Gelang Kulit Asli,Gelang,Local,25000,40000,32500,20000,93,2023-04-04
+Jawa Barat,Majalengka,Topi Beanie Hangat,Topi,Premium,117000,187200,152100,93600,9,2023-04-05
+Jawa Barat,Cimahi,Gelang Kulit Asli,Gelang,Import,71000,113600,92300,56800,22,2023-04-06
+Jawa Barat,Banjar,Gelang Kulit Asli,Gelang,Standard,99000,158400,128700,79200,25,2023-04-07
+Jawa Barat,Bekasi,Tas Backpack Casual,Tas,Standard,73000,116800,94900,58400,56,2023-04-08
+Jawa Barat,Purwakarta,Kacamata Oversize Stylish,Kacamata,Standard,34000,54400,44200,27200,43,2023-04-09
+Jawa Barat,Banjar,Sepatu High Heels Glamor,Sepatu,Standard,73000,116800,94900,58400,63,2023-04-10
+Jawa Barat,Cimahi,Dompet Wanita Stylish,Dompet,Import,132000,211200,171600,105600,14,2023-04-11
+Jawa Barat,Kuningan,Celana Cargo Praktis,Celana,Premium,107000,171200,139100,85600,86,2023-04-12
+Jawa Barat,Tasikmalaya,Topi Beanie Hangat,Topi,Local,73000,116800,94900,58400,49,2023-04-13
+Jawa Barat,Cianjur,Gelang Manik-Manik,Gelang,Premium,86000,137600,111800,68800,51,2023-04-14
+Jawa Barat,Karawang,Tas Clutch Glamor,Tas,Local,26000,41600,33800,20800,55,2023-04-15
+Jawa Barat,Bandung Barat,Baju Kaos Grafis,Baju Kaos,Import,83000,132800,107900,66400,32,2023-04-16
+Jawa Barat,Bekasi,Baju Kebaya Elegan,Baju Kebaya,Import,40000,64000,52000,32000,16,2023-04-17
+Jawa Barat,Cirebon,Jas Pria Slim Fit,Jas,Standard,36000,57600,46800,28800,53,2023-04-18
+Jawa Barat,Subang,Sepatu Running Ringan,Sepatu,Import,141000,225600,183300,112800,78,2023-04-19
+Jawa Barat,Bekasi,Parfum Floral Fruity,Parfum,Standard,50000,80000,65000,40000,53,2023-04-20
+Jawa Barat,Bandung,Anting Gantung Unik,Anting,Standard,49000,78400,63700,39200,10,2023-04-21
+Jawa Barat,Sukabumi,Anting Stud Elegant,Anting,Import,65000,104000,84500,52000,90,2023-04-22
+Jawa Barat,Sukabumi,Tas Sling Bag Trendy,Tas,Premium,106000,169600,137800,84800,26,2023-04-23
+Jawa Barat,Tasikmalaya,Topi Snapback,Topi,Local,130000,208000,169000,104000,94,2023-04-24
+Jawa Barat,Bekasi,Baju Koko Modern,Baju Koko,Premium,163000,260800,211900,130400,17,2023-04-25
+Jawa Barat,Indramayu,Rok Mini Trendy,Rok,Local,58000,92800,75400,46400,5,2023-04-26
+Jawa Barat,Bekasi,Blouse Wanita Elegan,Blouse,Local,15000,24000,19500,12000,43,2023-04-27
+Jawa Barat,Cirebon,Jaket Kulit Stylish,Jaket,Local,122000,195200,158600,97600,65,2023-04-28
+Jawa Barat,Ciamis,Kacamata Hitam Stylish,Kacamata,Standard,61000,97600,79300,48800,57,2023-04-29
+Jawa Barat,Depok,Kemeja Kotak-Kotak,Kemeja,Premium,139000,222400,180700,111200,99,2023-04-30
+Jawa Barat,Garut,Kacamata Oversize Stylish,Kacamata,Standard,35000,56000,45500,28000,50,2023-05-01
+Jawa Barat,Tasikmalaya,Rok Midi Trendy,Rok,Local,98000,156800,127400,78400,38,2023-05-02
+Jawa Barat,Cirebon,Topi Beanie Hangat,Topi,Local,46000,73600,59800,36800,13,2023-05-03
+Jawa Barat,Ciamis,Kaos Polo Pria,Kaos Polo,Standard,92000,147200,119600,73600,63,2023-05-04
+Jawa Barat,Purwakarta,Tas Sling Bag Trendy,Tas,Import,21000,33600,27300,16800,44,2023-05-05
+Jawa Barat,Bogor,Topi Beanie Hangat,Topi,Standard,50000,80000,65000,40000,64,2023-05-06
+Jawa Barat,Sukabumi,Sepatu Loafer Formal,Sepatu,Standard,45000,72000,58500,36000,59,2023-05-07
+Jawa Barat,Indramayu,Tas Clutch Glamor,Tas,Import,16000,25600,20800,12800,80,2023-05-08
+Jawa Barat,Karawang,Kemeja Kotak-Kotak,Kemeja,Import,22000,35200,28600,17600,75,2023-05-09
+Jawa Barat,Majalengka,Dompet Wanita Stylish,Dompet,Premium,102000,163200,132600,81600,7,2023-05-10
+Jawa Barat,Subang,Tas Clutch Glamor,Tas,Import,115000,184000,149500,92000,72,2023-05-11
+Jawa Barat,Sumedang,Baju Kebaya Elegan,Baju Kebaya,Import,46000,73600,59800,36800,3,2023-05-12
+Jawa Barat,Sumedang,Topi Beanie Hangat,Topi,Import,19000,30400,24700,15200,86,2023-05-13
+Jawa Barat,Depok,Dompet Kartu Minimalis,Dompet,Import,128000,204800,166400,102400,6,2023-05-14
+Jawa Barat,Karawang,Jas Blazer Slim Fit,Jas,Local,83000,132800,107900,66400,33,2023-05-15
+Jawa Barat,Cirebon,Sepatu Running Ringan,Sepatu,Premium,76000,121600,98800,60800,77,2023-05-16
+Jawa Barat,Purwakarta,Sepatu Loafer Formal,Sepatu,Import,89000,142400,115700,71200,12,2023-05-17
+Jawa Barat,Cirebon,Celana Jeans Slim Fit,Celana,Standard,98000,156800,127400,78400,55,2023-05-18
+Jawa Barat,Sumedang,Pashmina Rajut Stylish,Pashmina,Standard,28000,44800,36400,22400,70,2023-05-19
+Jawa Barat,Bandung,Tas Backpack Casual,Tas,Premium,177000,283200,230100,141600,53,2023-05-20
+Jawa Barat,Cimahi,Kacamata Oversize Stylish,Kacamata,Import,146000,233600,189800,116800,26,2023-05-21
+Jawa Barat,Majalengka,Pashmina Rajut Stylish,Pashmina,Standard,67000,107200,87100,53600,42,2023-05-22
+Jawa Barat,Cirebon,Sepatu Running Ringan,Sepatu,Premium,192000,307200,249600,153600,97,2023-05-23
+Jawa Barat,Banjar,Tas Sling Bag Trendy,Tas,Premium,163000,260800,211900,130400,63,2023-05-24
+Jawa Barat,Banjar,Kaos Polo Pria,Kaos Polo,Premium,40000,64000,52000,32000,63,2023-05-25
+Jawa Barat,Garut,Sepatu Running Ringan,Sepatu,Premium,133000,212800,172900,106400,82,2023-05-26
+Jawa Barat,Cirebon,Anting Gantung Unik,Anting,Local,118000,188800,153400,94400,72,2023-05-27
+Jawa Barat,Bandung Barat,Parfum Wangi Floral,Parfum,Premium,137000,219200,178100,109600,83,2023-05-28
+Jawa Barat,Cirebon,Kacamata Oversize Stylish,Kacamata,Local,128000,204800,166400,102400,71,2023-05-29
+Jawa Barat,Depok,Dompet Zipper Minimalis,Dompet,Standard,33000,52800,42900,26400,86,2023-05-30
+Jawa Barat,Tasikmalaya,Tas Backpack Casual,Tas,Standard,13000,20800,16900,10400,97,2023-05-31
+Jawa Barat,Kuningan,Tas Sling Bag Trendy,Tas,Standard,82000,131200,106600,65600,99,2023-06-01
+Jawa Barat,Depok,Blouse Wanita Elegan,Blouse,Import,140000,224000,182000,112000,5,2023-06-02
+Jawa Barat,Cianjur,Tas Ransel Stylish,Tas,Premium,199000,318400,258700,159200,44,2023-06-03
+Jawa Barat,Depok,Gelang Tangan Vintage,Gelang,Import,47000,75200,61100,37600,13,2023-06-04
+Jawa Barat,Bekasi,Celana Legging Nyaman,Celana,Import,128000,204800,166400,102400,29,2023-06-05
+Jawa Barat,Purwakarta,Celana Legging Nyaman,Celana,Standard,70000,112000,91000,56000,9,2023-06-06
+Jawa Barat,Ciamis,Sepatu Loafer Formal,Sepatu,Standard,61000,97600,79300,48800,49,2023-06-07
+Jawa Barat,Bogor,Dompet Kartu Minimalis,Dompet,Premium,184000,294400,239200,147200,66,2023-06-08
+Jawa Barat,Depok,Gelang Tangan Vintage,Gelang,Import,102000,163200,132600,81600,12,2023-06-09
+Jawa Barat,Karawang,Tas Sling Bag Trendy,Tas,Import,31000,49600,40300,24800,100,2023-06-10
+Jawa Barat,Ciamis,Dompet Zipper Minimalis,Dompet,Standard,76000,121600,98800,60800,67,2023-06-11
+Jawa Barat,Sukabumi,Tas Clutch Glamor,Tas,Premium,117000,187200,152100,93600,58,2023-06-12
+Jawa Barat,Majalengka,Sweater Hoodie Sporty,Sweater,Local,88000,140800,114400,70400,2,2023-06-13
+Jawa Barat,Bandung,Kaos Sablon Casual,Kaos,Local,126000,201600,163800,100800,91,2023-06-14
+Jawa Barat,Bandung Barat,Gelang Kulit Asli,Gelang,Premium,111000,177600,144300,88800,57,2023-06-15
+Jawa Barat,Bogor,Celana Panjang Casual,Celana,Standard,25000,40000,32500,20000,14,2023-06-16
+Jawa Barat,Purwakarta,Tas Clutch Glamor,Tas,Standard,97000,155200,126100,77600,69,2023-06-17
+Jawa Barat,Tasikmalaya,Tas Sling Bag Trendy,Tas,Standard,72000,115200,93600,57600,67,2023-06-18
+Jawa Barat,Cianjur,Jam Dinding Klasik Vintage,Jam Dinding,Standard,87000,139200,113100,69600,86,2023-06-19
+Jawa Barat,Indramayu,Tas Backpack Casual,Tas,Premium,49000,78400,63700,39200,2,2023-06-20
+Jawa Barat,Bekasi,Baju Renang Sporty,Baju Renang,Standard,28000,44800,36400,22400,76,2023-06-21
+Jawa Barat,Sukabumi,Baju Koko Modern,Baju Koko,Import,85000,136000,110500,68000,79,2023-06-22
+Jawa Barat,Cirebon,Sepatu Running Ringan,Sepatu,Import,124000,198400,161200,99200,2,2023-06-23
+Jawa Barat,Indramayu,Lipstik Glossy Vibrant,Lipstik,Standard,91000,145600,118300,72800,39,2023-06-24
+Jawa Barat,Indramayu,Rok Midi Trendy,Rok,Premium,163000,260800,211900,130400,49,2023-06-25
+Jawa Barat,Karawang,Celana Cargo Praktis,Celana,Premium,82000,131200,106600,65600,83,2023-06-26
+Jawa Barat,Banjar,Topi Snapback,Topi,Premium,43000,68800,55900,34400,80,2023-06-27
+Jawa Barat,Depok,Sepatu Formal Elegan,Sepatu,Import,34000,54400,44200,27200,2,2023-06-28
+Jawa Barat,Depok,Gelang Berlian Mewah,Gelang,Standard,66000,105600,85800,52800,9,2023-06-29
+Jawa Barat,Cirebon,Sepatu Loafer Formal,Sepatu,Local,50000,80000,65000,40000,72,2023-06-30
+Jawa Barat,Subang,Sepatu Sporty,Sepatu,Local,101000,161600,131300,80800,33,2023-07-01
+Jawa Barat,Bandung Barat,Kaos Polo Pria,Kaos Polo,Standard,83000,132800,107900,66400,30,2023-07-02
+Jawa Barat,Depok,Sepatu Loafer Formal,Sepatu,Local,11000,17600,14300,8800,10,2023-07-03
+Jawa Barat,Tasikmalaya,Celana Cargo Praktis,Celana,Import,90000,144000,117000,72000,86,2023-07-04
+Jawa Barat,Karawang,Tas Sling Bag Trendy,Tas,Local,44000,70400,57200,35200,57,2023-07-05
+Jawa Barat,Subang,Celana Cargo Praktis,Celana,Local,70000,112000,91000,56000,58,2023-07-06
+Jawa Barat,Purwakarta,Sepatu Running Ringan,Sepatu,Standard,54000,86400,70200,43200,13,2023-07-07
+Jawa Barat,Sukabumi,Kacamata Hitam Stylish,Kacamata,Standard,22000,35200,28600,17600,100,2023-07-08
+Jawa Barat,Tasikmalaya,Tas Sling Bag Trendy,Tas,Local,108000,172800,140400,86400,12,2023-07-09
+Jawa Barat,Bogor,Kalung Liontin Cantik,Kalung,Local,54000,86400,70200,43200,27,2023-07-10
+Jawa Barat,Bandung Barat,Celana Jeans Slim Fit,Celana,Import,37000,59200,48100,29600,36,2023-07-11
+Jawa Barat,Kuningan,Lipstik Satin Matte,Lipstik,Local,45000,72000,58500,36000,54,2023-07-12
+Jawa Barat,Subang,Kemeja Batik Klasik,Kemeja,Local,124000,198400,161200,99200,97,2023-07-13
+Jawa Barat,Cianjur,Dompet Wanita Stylish,Dompet,Local,101000,161600,131300,80800,41,2023-07-14
+Jawa Barat,Subang,Rok Midi Trendy,Rok,Local,45000,72000,58500,36000,13,2023-07-15
+Jawa Barat,Ciamis,Anting Emas Cantik,Anting,Standard,69000,110400,89700,55200,90,2023-07-16
+Jawa Barat,Karawang,Celana Legging Nyaman,Celana,Local,50000,80000,65000,40000,22,2023-07-17
+Jawa Barat,Cirebon,Kemeja Flanel Modern,Kemeja,Local,68000,108800,88400,54400,65,2023-07-18
+Jawa Barat,Depok,Tas Ransel Stylish,Tas,Local,59000,94400,76700,47200,78,2023-07-19
+Jawa Barat,Majalengka,Tas Clutch Glamor,Tas,Standard,73000,116800,94900,58400,20,2023-07-20
+Jawa Barat,Garut,Celana Panjang Casual,Celana,Standard,40000,64000,52000,32000,54,2023-07-21
+Jawa Barat,Garut,Kemeja Batik Klasik,Kemeja,Local,31000,49600,40300,24800,4,2023-07-22
+Jawa Barat,Bogor,Tas Sling Bag Trendy,Tas,Premium,165000,264000,214500,132000,68,2023-07-23
+Jawa Barat,Cianjur,Kacamata Retro Vintage,Kacamata,Import,71000,113600,92300,56800,15,2023-07-24
+Jawa Barat,Bekasi,Kalung Liontin Cantik,Kalung,Local,100000,160000,130000,80000,89,2023-07-25
+Jawa Barat,Indramayu,Lipstik Matte Long-lasting,Lipstik,Import,93000,148800,120900,74400,93,2023-07-26
+Jawa Barat,Cianjur,Dompet Wanita Stylish,Dompet,Import,60000,96000,78000,48000,97,2023-07-27
+Jawa Barat,Cianjur,Sepatu Loafer Formal,Sepatu,Import,63000,100800,81900,50400,75,2023-07-28
+Jawa Barat,Indramayu,Topi Beanie Hangat,Topi,Standard,48000,76800,62400,38400,91,2023-07-29
+Jawa Barat,Bekasi,Tas Backpack Casual,Tas,Standard,60000,96000,78000,48000,17,2023-07-30
+Jawa Barat,Sumedang,Celana Chino Slim Fit,Celana,Import,84000,134400,109200,67200,29,2023-07-31
+Jawa Barat,Karawang,Dompet Wanita Stylish,Dompet,Standard,58000,92800,75400,46400,73,2023-08-01
+Jawa Barat,Cimahi,Tas Backpack Casual,Tas,Local,57000,91200,74100,45600,69,2023-08-02
+Jawa Barat,Bekasi,Baju Kebaya Elegan,Baju Kebaya,Import,15000,24000,19500,12000,18,2023-08-03
+Jawa Barat,Bekasi,Sweater Hoodie Sporty,Sweater,Standard,31000,49600,40300,24800,90,2023-08-04
+Jawa Barat,Ciamis,Kemeja Putih Formal,Kemeja,Premium,110000,176000,143000,88000,31,2023-08-05
+Jawa Barat,Indramayu,Kalung Liontin Cantik,Kalung,Import,31000,49600,40300,24800,34,2023-08-06
+Jawa Barat,Sukabumi,Topi Beanie Hangat,Topi,Import,107000,171200,139100,85600,15,2023-08-07
+Jawa Barat,Banjar,Blazer Wanita Modern,Blazer,Local,136000,217600,176800,108800,64,2023-08-08
+Jawa Barat,Sumedang,Sweater Hoodie Sporty,Sweater,Import,65000,104000,84500,52000,4,2023-08-09
+Jawa Barat,Bandung Barat,Tas Sling Bag Trendy,Tas,Standard,36000,57600,46800,28800,40,2023-08-10
+Jawa Barat,Sukabumi,Tas Sling Bag Trendy,Tas,Premium,156000,249600,202800,124800,64,2023-08-11
+Jawa Barat,Depok,Kaos Sablon Casual,Kaos,Premium,138000,220800,179400,110400,54,2023-08-12
+Jawa Barat,Subang,Sweater Rajut Hangat,Sweater,Standard,61000,97600,79300,48800,24,2023-08-13
+Jawa Barat,Majalengka,Sepatu Sporty,Sepatu,Local,134000,214400,174200,107200,54,2023-08-14
+Jawa Barat,Subang,Kalung Liontin Cantik,Kalung,Local,65000,104000,84500,52000,18,2023-08-15
+Jawa Barat,Tasikmalaya,Gelang Tangan Vintage,Gelang,Import,20000,32000,26000,16000,38,2023-08-16
+Jawa Barat,Cirebon,Lipstik Glossy Vibrant,Lipstik,Local,126000,201600,163800,100800,84,2023-08-17
+Jawa Barat,Sukabumi,Gelang Kulit Asli,Gelang,Standard,44000,70400,57200,35200,58,2023-08-18
+Jawa Barat,Garut,Kemeja Flanel Modern,Kemeja,Local,33000,52800,42900,26400,40,2023-08-19
+Jawa Barat,Subang,Sepatu Sporty,Sepatu,Premium,186000,297600,241800,148800,63,2023-08-20
+Jawa Barat,Bekasi,Kalung Choker Trendy,Kalung,Standard,61000,97600,79300,48800,46,2023-08-21
+Jawa Barat,Subang,Baju Koko Modern,Baju Koko,Import,115000,184000,149500,92000,5,2023-08-22
+Jawa Barat,Cianjur,Baju Koko Modern,Baju Koko,Local,75000,120000,97500,60000,17,2023-08-23
+Jawa Barat,Cianjur,Sweater Hoodie Sporty,Sweater,Local,19000,30400,24700,15200,25,2023-08-24
+Jawa Barat,Purwakarta,Sweater Rajut Hangat,Sweater,Local,69000,110400,89700,55200,82,2023-08-25
+Jawa Barat,Cianjur,Parfum Woody Aromatic,Parfum,Standard,28000,44800,36400,22400,36,2023-08-26
+Jawa Barat,Majalengka,Tas Clutch Glamor,Tas,Standard,45000,72000,58500,36000,90,2023-08-27
+Jawa Barat,Cianjur,Topi Keren Stylish,Topi,Standard,42000,67200,54600,33600,15,2023-08-28
+Jawa Barat,Garut,Lipstik Velvet Matte,Lipstik,Import,71000,113600,92300,56800,63,2023-08-29
+Jawa Barat,Majalengka,Celana Cargo Praktis,Celana,Import,113000,180800,146900,90400,22,2023-08-30
+Jawa Barat,Banjar,Sepatu Loafer Formal,Sepatu,Premium,197000,315200,256100,157600,59,2023-08-31
+Jawa Barat,Sukabumi,Parfum Woody Aromatic,Parfum,Local,132000,211200,171600,105600,7,2023-09-01
+Jawa Barat,Purwakarta,Dompet Kartu Minimalis,Dompet,Local,51000,81600,66300,40800,56,2023-09-02
+Jawa Barat,Depok,Anting Gantung Unik,Anting,Import,41000,65600,53300,32800,58,2023-09-03
+Jawa Barat,Tasikmalaya,Kacamata Oversize Stylish,Kacamata,Import,37000,59200,48100,29600,41,2023-09-04
+Jawa Barat,Karawang,Tas Clutch Glamor,Tas,Standard,60000,96000,78000,48000,74,2023-09-05
+Jawa Barat,Cianjur,Gelang Kulit Asli,Gelang,Import,135000,216000,175500,108000,34,2023-09-06
+Jawa Barat,Bandung,Kacamata Oversize Stylish,Kacamata,Premium,93000,148800,120900,74400,53,2023-09-07
+Jawa Barat,Karawang,Topi Fedora Elegan,Topi,Local,136000,217600,176800,108800,20,2023-09-08
+Jawa Barat,Kuningan,Kaos Polo Pria,Kaos Polo,Local,82000,131200,106600,65600,9,2023-09-09
+Jawa Barat,Kuningan,Blazer Wanita Modern,Blazer,Import,15000,24000,19500,12000,36,2023-09-10
+Jawa Barat,Subang,Topi Beanie Hangat,Topi,Standard,40000,64000,52000,32000,68,2023-09-11
+Jawa Barat,Cirebon,Dompet Zipper Minimalis,Dompet,Standard,22000,35200,28600,17600,84,2023-09-12
+Jawa Barat,Ciamis,Topi Beanie Hangat,Topi,Premium,109000,174400,141700,87200,29,2023-09-13
+Jawa Barat,Subang,Rok Midi Trendy,Rok,Import,149000,238400,193700,119200,32,2023-09-14
+Jawa Barat,Kuningan,Celana Jogger Casual,Celana,Premium,90000,144000,117000,72000,8,2023-09-15
+Jawa Barat,Tasikmalaya,Dompet Zipper Minimalis,Dompet,Local,25000,40000,32500,20000,59,2023-09-16
+Jawa Barat,Cimahi,Kacamata Oversize Stylish,Kacamata,Import,19000,30400,24700,15200,66,2023-09-17
+Jawa Barat,Bandung Barat,Parfum Woody Aromatic,Parfum,Local,147000,235200,191100,117600,8,2023-09-18
+Jawa Barat,Cirebon,Blouse Wanita Elegan,Blouse,Local,66000,105600,85800,52800,30,2023-09-19
+Jawa Barat,Cirebon,Gelang Manik-Manik,Gelang,Standard,16000,25600,20800,12800,54,2023-09-20
+Jawa Barat,Karawang,Lipstik Velvet Matte,Lipstik,Standard,50000,80000,65000,40000,72,2023-09-21
+Jawa Barat,Bekasi,Gelang Kulit Asli,Gelang,Local,10000,16000,13000,8000,87,2023-09-22
+Jawa Barat,Cimahi,Tas Sling Bag Trendy,Tas,Standard,11000,17600,14300,8800,64,2023-09-23
+Jawa Barat,Subang,Rok Midi Trendy,Rok,Standard,21000,33600,27300,16800,97,2023-09-24
+Jawa Barat,Cirebon,Sweater Hoodie Sporty,Sweater,Local,143000,228800,185900,114400,1,2023-09-25
+Jawa Barat,Sumedang,Tas Backpack Casual,Tas,Import,35000,56000,45500,28000,2,2023-09-26
+Jawa Barat,Bekasi,Baju Kebaya Elegan,Baju Kebaya,Import,137000,219200,178100,109600,30,2023-09-27
+Jawa Barat,Depok,Kemeja Kotak-Kotak,Kemeja,Local,129000,206400,167700,103200,30,2023-09-28
+Jawa Barat,Cimahi,Parfum Floral Fruity,Parfum,Premium,102000,163200,132600,81600,96,2023-09-29
+Jawa Barat,Tasikmalaya,Blazer Wanita Modern,Blazer,Premium,114000,182400,148200,91200,82,2023-09-30
+Jawa Barat,Sukabumi,Blouse Wanita Elegan,Blouse,Import,125000,200000,162500,100000,100,2023-10-01
+Jawa Barat,Garut,Gelang Manik-Manik,Gelang,Import,89000,142400,115700,71200,26,2023-10-02
+Jawa Barat,Cirebon,Celana Cargo Praktis,Celana,Premium,179000,286400,232700,143200,4,2023-10-03
+Jawa Barat,Kuningan,Tas Backpack Casual,Tas,Import,44000,70400,57200,35200,31,2023-10-04
+Jawa Barat,Depok,Tas Sling Bag Trendy,Tas,Local,104000,166400,135200,83200,15,2023-10-05
+Jawa Barat,Bandung Barat,Gelang Tangan Vintage,Gelang,Import,20000,32000,26000,16000,35,2023-10-06
+Jawa Barat,Bandung,Tas Clutch Glamor,Tas,Premium,149000,238400,193700,119200,73,2023-10-07
+Jawa Barat,Garut,Gelang Kulit Asli,Gelang,Premium,162000,259200,210600,129600,72,2023-10-08
+Jawa Barat,Bekasi,Kacamata Hitam Stylish,Kacamata,Standard,48000,76800,62400,38400,23,2023-10-09
+Jawa Barat,Bogor,Lipstik Velvet Matte,Lipstik,Premium,188000,300800,244400,150400,71,2023-10-10
+Jawa Barat,Depok,Kemeja Kotak-Kotak,Kemeja,Import,32000,51200,41600,25600,24,2023-10-11
+Jawa Barat,Cimahi,Dompet Lipat Stylish,Dompet,Standard,82000,131200,106600,65600,43,2023-10-12
+Jawa Barat,Kuningan,Dompet Lipat Stylish,Dompet,Import,101000,161600,131300,80800,77,2023-10-13
+Jawa Barat,Cimahi,Tas Sling Bag Trendy,Tas,Premium,196000,313600,254800,156800,17,2023-10-14
+Jawa Barat,Purwakarta,Kacamata Oversize Stylish,Kacamata,Import,23000,36800,29900,18400,92,2023-10-15
+Jawa Barat,Karawang,Parfum Woody Aromatic,Parfum,Local,140000,224000,182000,112000,83,2023-10-16
+Jawa Barat,Cirebon,Topi Baseball Classic,Topi,Local,115000,184000,149500,92000,90,2023-10-17
+Jawa Barat,Depok,Baju Kebaya Elegan,Baju Kebaya,Standard,56000,89600,72800,44800,35,2023-10-18
+Jawa Barat,Cirebon,Tas Laptop Stylish,Tas,Standard,29000,46400,37700,23200,35,2023-10-19
+Jawa Barat,Garut,Celana Legging Nyaman,Celana,Premium,138000,220800,179400,110400,61,2023-10-20
+Jawa Barat,Kuningan,Celana Legging Nyaman,Celana,Premium,164000,262400,213200,131200,88,2023-10-21
+Jawa Barat,Subang,Sepatu Running Ringan,Sepatu,Import,98000,156800,127400,78400,10,2023-10-22
+Jawa Barat,Cirebon,Baju Kebaya Elegan,Baju Kebaya,Import,102000,163200,132600,81600,78,2023-10-23
+Jawa Barat,Garut,Dompet Kulit Asli,Dompet,Premium,182000,291200,236600,145600,15,2023-10-24
+Jawa Barat,Subang,Celana Cargo Praktis,Celana,Standard,54000,86400,70200,43200,91,2023-10-25
+Jawa Barat,Ciamis,Sepatu Loafer Formal,Sepatu,Premium,43000,68800,55900,34400,80,2023-10-26
+Jawa Barat,Cimahi,Celana Legging Nyaman,Celana,Local,94000,150400,122200,75200,53,2023-10-27
+Jawa Barat,Cirebon,Sepatu Running Ringan,Sepatu,Local,15000,24000,19500,12000,97,2023-10-28
+Jawa Barat,Subang,Sweater Hoodie Sporty,Sweater,Import,98000,156800,127400,78400,24,2023-10-29
+Jawa Barat,Depok,Tas Selempang Chic,Tas,Import,60000,96000,78000,48000,85,2023-10-30
+Jawa Barat,Bandung Barat,Gelang Kulit Asli,Gelang,Local,67000,107200,87100,53600,12,2023-10-31
+Jawa Barat,Bekasi,Kemeja Flanel Modern,Kemeja,Import,14000,22400,18200,11200,60,2023-11-01
+Jawa Barat,Majalengka,Sepatu Loafer Formal,Sepatu,Local,47000,75200,61100,37600,19,2023-11-02
+Jawa Barat,Banjar,Rok Midi Trendy,Rok,Premium,66000,105600,85800,52800,99,2023-11-03
+Jawa Barat,Majalengka,Kemeja Kotak-Kotak,Kemeja,Standard,87000,139200,113100,69600,36,2023-11-04
+Jawa Barat,Tasikmalaya,Celana Jogger Casual,Celana,Import,52000,83200,67600,41600,30,2023-11-05
+Jawa Barat,Bekasi,Tas Tote Bag Stylish,Tas,Import,126000,201600,163800,100800,29,2023-11-06
+Jawa Barat,Sukabumi,Kacamata Oversize Stylish,Kacamata,Premium,148000,236800,192400,118400,8,2023-11-07
+Jawa Barat,Subang,Kemeja Kotak-Kotak,Kemeja,Standard,28000,44800,36400,22400,26,2023-11-08
+Jawa Barat,Karawang,Kemeja Putih Formal,Kemeja,Import,45000,72000,58500,36000,62,2023-11-09
+Jawa Barat,Bandung,Jas Blazer Slim Fit,Jas,Import,127000,203200,165100,101600,51,2023-11-10
+Jawa Barat,Depok,Kemeja Kotak-Kotak,Kemeja,Premium,86000,137600,111800,68800,70,2023-11-11
+Jawa Barat,Kuningan,Kacamata Oversize Stylish,Kacamata,Import,87000,139200,113100,69600,82,2023-11-12
+Jawa Barat,Majalengka,Dompet Zipper Minimalis,Dompet,Standard,80000,128000,104000,64000,17,2023-11-13
+Jawa Barat,Depok,Kalung Mutiara Mewah,Kalung,Premium,111000,177600,144300,88800,62,2023-11-14
+Jawa Barat,Sumedang,Parfum Wangi Floral,Parfum,Standard,26000,41600,33800,20800,70,2023-11-15
+Jawa Barat,Cianjur,Lipstik Velvet Matte,Lipstik,Import,111000,177600,144300,88800,66,2023-11-16
+Jawa Barat,Bandung,Sepatu Running Ringan,Sepatu,Premium,39000,62400,50700,31200,7,2023-11-17
+Jawa Barat,Karawang,Kacamata Oversize Stylish,Kacamata,Import,18000,28800,23400,14400,76,2023-11-18
+Jawa Barat,Cirebon,Baju Renang Sporty,Baju Renang,Premium,63000,100800,81900,50400,72,2023-11-19
+Jawa Barat,Cirebon,Sepatu Formal Elegan,Sepatu,Standard,50000,80000,65000,40000,79,2023-11-20
+Jawa Barat,Garut,Gelang Tangan Vintage,Gelang,Standard,86000,137600,111800,68800,80,2023-11-21
+Jawa Barat,Majalengka,Sepatu Boots Trendy,Sepatu,Import,119000,190400,154700,95200,30,2023-11-22
+Jawa Barat,Kuningan,Kalung Liontin Cantik,Kalung,Premium,102000,163200,132600,81600,84,2023-11-23
+Jawa Barat,Depok,Celana Legging Nyaman,Celana,Local,145000,232000,188500,116000,94,2023-11-24
+Jawa Barat,Bogor,Kalung Liontin Cantik,Kalung,Premium,54000,86400,70200,43200,77,2023-11-25
+Jawa Barat,Cimahi,Kaos Sablon Casual,Kaos,Local,56000,89600,72800,44800,8,2023-11-26
+Jawa Barat,Banjar,Tas Backpack Casual,Tas,Import,34000,54400,44200,27200,52,2023-11-27
+Jawa Barat,Bandung Barat,Kalung Mutiara Mewah,Kalung,Standard,47000,75200,61100,37600,15,2023-11-28
+Jawa Barat,Bekasi,Tas Clutch Glamor,Tas,Local,81000,129600,105300,64800,35,2023-11-29
+Jawa Barat,Bekasi,Anting Emas Cantik,Anting,Import,18000,28800,23400,14400,49,2023-11-30
+Jawa Barat,Kuningan,Rok Midi Trendy,Rok,Local,48000,76800,62400,38400,28,2023-12-01
+Jawa Barat,Tasikmalaya,Celana Legging Nyaman,Celana,Premium,115000,184000,149500,92000,23,2023-12-02
+Jawa Barat,Cimahi,Sepatu Running Ringan,Sepatu,Local,50000,80000,65000,40000,19,2023-12-03
+Jawa Barat,Karawang,Kemeja Kotak-Kotak,Kemeja,Standard,42000,67200,54600,33600,100,2023-12-04
+Jawa Barat,Cimahi,Baju Kebaya Elegan,Baju Kebaya,Import,78000,124800,101400,62400,96,2023-12-05
+Jawa Barat,Bandung Barat,Anting Gantung Unik,Anting,Premium,176000,281600,228800,140800,75,2023-12-06
+Jawa Barat,Cimahi,Sweater Hoodie Sporty,Sweater,Local,132000,211200,171600,105600,7,2023-12-07
+Jawa Barat,Karawang,Kalung Liontin Cantik,Kalung,Standard,94000,150400,122200,75200,19,2023-12-08
+Jawa Barat,Bekasi,Tas Backpack Casual,Tas,Standard,16000,25600,20800,12800,54,2023-12-09
+Jawa Barat,Tasikmalaya,Dompet Zipper Minimalis,Dompet,Import,103000,164800,133900,82400,83,2023-12-10
+Jawa Barat,Cianjur,Sepatu Running Ringan,Sepatu,Local,11000,17600,14300,8800,89,2023-12-11
+Jawa Barat,Sumedang,Baju Kebaya Elegan,Baju Kebaya,Import,102000,163200,132600,81600,100,2023-12-12
+Jawa Barat,Indramayu,Tas Backpack Casual,Tas,Import,127000,203200,165100,101600,5,2023-12-13
+Jawa Barat,Banjar,Blouse Wanita Elegan,Blouse,Premium,172000,275200,223600,137600,77,2023-12-14
+Jawa Barat,Karawang,Topi Trucker Trendy,Topi,Standard,62000,99200,80600,49600,88,2023-12-15
+Jawa Barat,Depok,Parfum Woody Aromatic,Parfum,Local,81000,129600,105300,64800,78,2023-12-16
+Jawa Barat,Bandung Barat,Baju Kebaya Elegan,Baju Kebaya,Import,95000,152000,123500,76000,41,2023-12-17
+Jawa Barat,Bekasi,Jam Tangan Mewah,Jam Tangan,Import,99000,158400,128700,79200,83,2023-12-18
+Jawa Barat,Kuningan,Tas Backpack Casual,Tas,Local,100000,160000,130000,80000,63,2023-12-19
+Jawa Barat,Depok,Parfum Floral Fruity,Parfum,Local,18000,28800,23400,14400,74,2023-12-20
+Jawa Barat,Majalengka,Celana Chino Slim Fit,Celana,Premium,76000,121600,98800,60800,36,2023-12-21
+Jawa Barat,Tasikmalaya,Topi Beanie Hangat,Topi,Standard,98000,156800,127400,78400,42,2023-12-22
+Jawa Barat,Bekasi,Kaos Polos Basic,Kaos,Import,45000,72000,58500,36000,78,2023-12-23
+Jawa Barat,Cimahi,Sepatu Loafer Formal,Sepatu,Import,147000,235200,191100,117600,31,2023-12-24
+Jawa Barat,Sumedang,Gelang Tangan Vintage,Gelang,Import,92000,147200,119600,73600,73,2023-12-25
+Jawa Barat,Bandung Barat,Kemeja Kotak-Kotak,Kemeja,Standard,39000,62400,50700,31200,49,2023-12-26
+Jawa Barat,Bekasi,Gelang Tangan Vintage,Gelang,Standard,39000,62400,50700,31200,3,2023-12-27
+Jawa Barat,Cirebon,Parfum Wangi Floral,Parfum,Local,20000,32000,26000,16000,10,2023-12-28
+Jawa Barat,Cimahi,Tas Makeup Portable,Tas Makeup,Import,110000,176000,143000,88000,88,2023-12-29
+Jawa Barat,Bekasi,Baju Kebaya Elegan,Baju Kebaya,Premium,105000,168000,136500,84000,93,2023-12-30
+Jawa Barat,Kuningan,Celana Pendek Denim,Celana,Local,47000,75200,61100,37600,36,2023-12-31
