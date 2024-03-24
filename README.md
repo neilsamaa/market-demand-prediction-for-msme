@@ -6,7 +6,7 @@
 
  - [PowerBI](https://app.powerbi.com/view?r=eyJrIjoiZTk3YWUwNWUtOTE0Yy00OGMzLWFlNjQtOTQ3MWY0YzcyNGYwIiwidCI6IjQ4N2Y4Y2RhLWEzMjctNGIwZC05Y2M0LWEyNTI4NTMzM2NkMCIsImMiOjEwfQ%3D%3D)
  - [Streamlit](http://20.198.255.159)
- - [Youtube](https://youtube.com)
+ - [Youtube]([https://youtube.com](https://www.youtube.com/watch?v=mZAf_ii8Hcg))
 
 ## **Latar Belakang:**
 
