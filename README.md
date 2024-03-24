@@ -1,5 +1,11 @@
 # Prediksi Permintaan Pasar untuk UMKM di Desa
 
+## Link Demo:
+
+ - [PowerBI](https://app.powerbi.com/view?r=eyJrIjoiZTk3YWUwNWUtOTE0Yy00OGMzLWFlNjQtOTQ3MWY0YzcyNGYwIiwidCI6IjQ4N2Y4Y2RhLWEzMjctNGIwZC05Y2M0LWEyNTI4NTMzM2NkMCIsImMiOjEwfQ%3D%3D)
+ - [Streamlit](http://20.198.255.159)
+ - [Youtube](https://youtube.com)
+
 ## **Latar Belakang:**
 
 Platform Prediksi Permintaan Pasar untuk UMKM di Desa dirancang untuk membantu UMKM di daerah pedesaan merencanakan produksi mereka dengan lebih efisien berdasarkan estimasi permintaan pasar yang akurat. Dengan memanfaatkan teknologi AI, platform ini akan menganalisis berbagai faktor termasuk data historis penjualan, tren pasar, musiman, serta variabel lainnya untuk memberikan perkiraan yang dapat dipercaya tentang permintaan produk tertentu di wilayah-wilayah tersebut. Dengan demikian, UMKM dapat mengurangi risiko overstock atau understock, meningkatkan efisiensi produksi, dan mengoptimalkan pendapatan mereka.
