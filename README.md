@@ -1,7 +1,5 @@
 # Prediksi Permintaan Pasar untuk UMKM di Desa
 
-## Screenshots
-
 ![App Screenshot](cover.png)
 
 ## Link Demo:
